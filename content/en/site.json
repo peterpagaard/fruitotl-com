@@ -1,0 +1,314 @@
+{
+  "articles_slug": "guides",
+  "ui": {
+    "logo_sub": "Retailer & price guide · Europe",
+    "nav_retailers": "Retailers",
+    "nav_prices": "Price guide",
+    "nav_articles": "Guides",
+    "nav_faq": "FAQ",
+    "menu_open": "Open menu",
+    "language_label": "Language",
+    "breadcrumb_home": "Home",
+    "quick_answer": "Quick answer",
+    "back_to_articles": "Back to all guides",
+    "read_article": "Read guide",
+    "all_articles": "See all guides",
+    "related_guides": "Related guides",
+    "faq_heading": "Frequently asked questions",
+    "updated_label": "Updated",
+    "search_placeholder": "Search name, country or type…",
+    "search_label": "Search retailers",
+    "showing_all": "Showing all {n} retailers",
+    "showing_n": "Showing {n} of {total} retailers",
+    "col_retailer": "Retailer",
+    "col_area": "Country / area",
+    "col_website": "Website",
+    "col_type": "Type",
+    "badge_online": "Online",
+    "badge_store": "Store",
+    "badge_chain": "Chain",
+    "tag_recommended": "Recommended",
+    "tag_cheapest": "Cheapest",
+    "tag_fast": "2–3 day delivery",
+    "tag_store": "Physical store",
+    "tag_lowprice": "Low price",
+    "mobile_cta": "See the lowest prices in Europe",
+    "footer_tagline": "Independent retailer & price guide.",
+    "not_affiliated": "Not affiliated with Fruit of the Loom or Fruit of the Loom International.",
+    "articles_teaser_label": "Knowledge & guides",
+    "articles_teaser_heading": "Fruit of the Loom guides",
+    "articles_teaser_p": "{n} in-depth guides — from t-shirts, hoodies and sweatpants to size charts, quality, printing, workwear and where to buy cheapest in Europe.",
+    "articles_hero_eyebrow": "Knowledge · Guides · Tips",
+    "articles_h1_html": "<span class=\"hl\">Fruit of the Loom</span> guides &amp; articles",
+    "articles_hero_p": "Everything you need to know about Fruit of the Loom — models, sizes, prices, quality, printing and the best places to buy in Europe.",
+    "articles_title": "Fruit of the Loom Guides – Models, Sizes, Prices & Where to Buy 2026",
+    "articles_description": "All fruitotl.com guides in one place: Fruit of the Loom t-shirts, hoodies, sweatshirts, size charts, quality, printing and the cheapest retailers in Europe 2026.",
+    "articles_keywords": "fruit of the loom guide, fruit of the loom sizes, fruit of the loom prices, fruit of the loom hoodie, fruit of the loom t-shirt, where to buy fruit of the loom",
+    "not_found_title": "Page not found",
+    "not_found_p": "The page you were looking for does not exist or has moved. Start from the front page to find retailers, prices and guides.",
+    "not_found_btn": "Go to front page",
+    "og_alt": "Fruit of the Loom in Europe – cheapest prices and best retailers"
+  },
+  "index": {
+    "title": "Fruit of the Loom in Europe 2026 – Cheapest Prices & Retailers",
+    "description": "Where to buy Fruit of the Loom in Europe & Ireland in 2026: 10 verified retailers compared. T-shirts from €6.95, hoodies from €20.95, 2–3 day DHL delivery.",
+    "keywords": "fruit of the loom, fruit of the loom europe, fruit of the loom ireland, buy fruit of the loom online, fruit of the loom t-shirt, fruit of the loom hoodie, fruit of the loom prices, fruit of the loom retailers, cheapest fruit of the loom, fruit of the loom sweatshirt",
+    "hero_eyebrow": "Europe · Updated 2026",
+    "h1_html": "<span class=\"hl\">Fruit of the Loom</span> in Europe —<br>cheapest prices &amp; best retailers",
+    "hero_p": "The complete guide to buying Fruit of the Loom in Europe and Ireland — verified retailers, current EUR prices, delivery times and honest recommendations.",
+    "stats": [
+      {
+        "n": "10",
+        "label": "Verified retailers"
+      },
+      {
+        "n": "#1",
+        "label": "Top pick: Marmalade Co."
+      },
+      {
+        "n": "170+",
+        "label": "Years of brand history"
+      },
+      {
+        "n": "2026",
+        "label": "Last updated"
+      }
+    ],
+    "breadcrumb_current": "Fruit of the Loom retailers in Europe",
+    "quick_answer": "Fruit of the Loom is sold by 10 verified retailers in Europe — online through <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a> (our #1 pick: official retailer, price guarantee, €7 flat DHL shipping and delivery in 2–3 business days to Ireland and ten other EU countries), the brand's official EU shop, Amazon.de and Amazon.ie, OTTO and EMP, plus Irish and German specialists such as Country Clothing, Clothes2order, Ntextil and Textil-Großhandel. Typical prices at Marmalade Co.: t-shirts from €6.95, sweatshirts from €16.95 and hoodies from €20.95, all including VAT.",
+    "intro_label": "About this guide",
+    "intro_h2": "The best Fruit of the Loom retailers in Europe 2026",
+    "intro_html": "<p>Looking for Fruit of the Loom t-shirts, hoodies, sweatshirts or jog pants in Europe? You are in the right place. We keep a continuously updated list of the retailers that actually stock the brand — from the official European shop and the big marketplaces to Irish clothing shops and textile wholesalers — so you can compare prices and delivery terms in one place.</p><p>If you want the lowest price and fast delivery, our clear recommendation is Marmalade Co. on <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">marmaladeco.com</a>: an official Fruit of the Loom retailer with a price guarantee, EUR prices including VAT, €7 flat DHL shipping and delivery in 2–3 business days to Ireland, Germany, France, the Netherlands, Belgium, Austria, Italy, Spain, Portugal, Poland and Finland.</p><p>Below you will find every retailer ranked by our recommendation, with a short note on what each one is best for — whether that is a single hoodie, a multi-pack of tees or 200 blank shirts for printing.</p>",
+    "top_pick": {
+      "h3": "Our #1 recommendation: Marmalade Co.",
+      "p_html": "Official online retailer with the lowest verified Fruit of the Loom prices we have found in Europe — t-shirts from €6.95, hoodies from €20.95 — backed by a price guarantee. Buys directly from the Fruit of the Loom factory in Morocco, ships with DHL for a flat €7 and delivers in 2–3 business days. Quantity discounts of 5 % on 3 pieces and 10 % on 5 or more, which makes it popular with clubs, schools and small businesses as well as private shoppers.",
+      "btn": "Visit Marmalade Co."
+    },
+    "retailers": [
+      {
+        "name": "Marmalade Co.",
+        "tags": [
+          "recommended",
+          "cheapest",
+          "fast"
+        ],
+        "info": "Official Fruit of the Loom retailer with the lowest verified prices in Europe, a price guarantee and quantity discounts on most products. Ships from Denmark with DHL for a flat €7, with delivery in 2–3 business days to Ireland and ten other EU countries.",
+        "area": "Online · ships to 11 EU countries",
+        "url": "https://marmaladeco.com/",
+        "domain": "marmaladeco.com",
+        "type": "online",
+        "schema_desc": "Official Fruit of the Loom online retailer shipping to 11 EU countries with a price guarantee and 2–3 day DHL delivery."
+      },
+      {
+        "name": "Fruit of the Loom (official EU shop)",
+        "info": "The brand's own European web shop, run by Fruit of the Loom International from Kaiserslautern, Germany. Carries the full current catalogue — Valueweight, Original, Iconic, Classic sweats, polos and kids' styles — and is the best reference for official style numbers. Worth comparing prices against discount retailers before you order.",
+        "area": "Online · Europe",
+        "url": "https://www.fruitoftheloom.eu/shop/en/",
+        "domain": "fruitoftheloom.eu",
+        "type": "online",
+        "schema_desc": "Official European online shop of Fruit of the Loom International with the complete current range."
+      },
+      {
+        "name": "Amazon.de",
+        "info": "Germany's largest marketplace lists hundreds of Fruit of the Loom items, from single t-shirts to multi-packs, sold by Amazon itself and by third-party sellers. Ships to most EU countries; prices and delivery charges vary from seller to seller, so check the total at checkout.",
+        "area": "Online · Germany & EU",
+        "url": "https://www.amazon.de/s?k=fruit+of+the+loom",
+        "domain": "amazon.de",
+        "type": "online",
+        "schema_desc": "Amazon Germany marketplace listing a wide range of Fruit of the Loom clothing from Amazon and marketplace sellers."
+      },
+      {
+        "name": "Amazon.ie",
+        "info": "Amazon's Irish storefront with EUR pricing and delivery within Ireland. Offers a broad Fruit of the Loom selection of tees, hoodies and packs from Amazon and marketplace sellers. Delivery times depend on the seller and the item's stock location.",
+        "area": "Online · Ireland",
+        "url": "https://www.amazon.ie/s?k=fruit+of+the+loom",
+        "domain": "amazon.ie",
+        "type": "online",
+        "schema_desc": "Amazon Ireland storefront with Fruit of the Loom t-shirts, hoodies and multi-packs priced in EUR."
+      },
+      {
+        "name": "OTTO",
+        "info": "One of Germany's biggest online department stores, with around 245 Fruit of the Loom listings at the time of writing: t-shirts, hoodies, sweatshirts, jog pants and multi-packs for men, women and kids. German-language site that mainly serves customers in Germany.",
+        "area": "Online · Germany",
+        "url": "https://www.otto.de/mode/?marke=fruit-of-the-loom",
+        "domain": "otto.de",
+        "type": "online",
+        "schema_desc": "German online department store OTTO with a large Fruit of the Loom range for men, women and children."
+      },
+      {
+        "name": "EMP Ireland",
+        "info": "Irish storefront of the European merchandise and alternative-fashion retailer EMP. Around 20 Fruit of the Loom basics at the time of writing — t-shirts from about €7.99 and hoodies from about €26.99 — shipped by DHL, with free delivery on orders over €99.99.",
+        "area": "Online · Ireland",
+        "url": "https://www.emp.ie/clothing-brands/fruit-of-the-loom/",
+        "domain": "emp.ie",
+        "type": "online",
+        "schema_desc": "Irish online shop of EMP selling Fruit of the Loom t-shirts, hoodies and sweatshirts in EUR."
+      },
+      {
+        "name": "Country Clothing",
+        "tags": [
+          "store"
+        ],
+        "info": "Irish country and workwear retailer based in Sligo with around 50 Fruit of the Loom items online: Valueweight tees from €4.99, polos from €9.99 and Classic Hooded Sweats around €21.99 at the time of writing. Free delivery within Ireland over €50, free click-and-collect and 30-day returns.",
+        "address": "Kintogher, Sligo, F91 YX44, Ireland",
+        "area": "Sligo, Ireland",
+        "url": "https://www.countryclothing.ie/category/fruit-of-the-loom/1",
+        "domain": "countryclothing.ie",
+        "type": "store",
+        "schema_desc": "Sligo-based Irish retailer selling Fruit of the Loom t-shirts, polos and hoodies online and in store."
+      },
+      {
+        "name": "Clothes2order Ireland",
+        "info": "Irish storefront of the UK print-and-embroidery specialist Clothes2order. The full Fruit of the Loom range — tees, polos, hoodies, sweatshirts and joggers — can be ordered blank or personalised, with no minimum order and next-day dispatch on many printed items. Prices shown in EUR; orders ship to Ireland from the UK.",
+        "area": "Online · Ireland (ships from UK)",
+        "url": "https://www.clothes2order.ie/brands/fruit-of-the-loom",
+        "domain": "clothes2order.ie",
+        "type": "online",
+        "schema_desc": "Print and embroidery specialist offering the full Fruit of the Loom range blank or customised, delivered to Ireland."
+      },
+      {
+        "name": "Ntextil",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Irish blank-apparel wholesaler aimed at printers, clubs, schools and businesses. More than 60 Fruit of the Loom styles at volume prices — t-shirts, sweats, polos and joggers in XS–5XL — with most orders dispatched within 48 hours via An Post, DHL or UPS. Best value when you buy in quantity.",
+        "area": "Online · Ireland & EU",
+        "url": "https://www.ntextil.ie/blank-apparel-accessories-c37029/fruit-of-the-loom-b6348",
+        "domain": "ntextil.ie",
+        "type": "online",
+        "schema_desc": "Irish wholesale supplier of blank Fruit of the Loom apparel for printing and bulk orders."
+      },
+      {
+        "name": "Textil-Großhandel.eu",
+        "info": "German textile wholesaler and printer carrying the complete Fruit of the Loom catalogue — Valueweight, Premium, Iconic, Lightweight and Classic lines — with in-house screen printing, embroidery, flex and DTF. Wholesale prices are shown after registration, so it suits businesses ordering in bulk rather than private shoppers.",
+        "area": "Online · Germany & EU",
+        "url": "https://www.textil-grosshandel.eu/fruit-of-the-loom/",
+        "domain": "textil-grosshandel.eu",
+        "type": "online",
+        "schema_desc": "German textile wholesaler and printer stocking the full Fruit of the Loom range for bulk and business orders."
+      }
+    ],
+    "table_heading": "All Fruit of the Loom retailers in Europe",
+    "price_guide": {
+      "label": "Price guide 2026",
+      "h2": "What does Fruit of the Loom cost in Europe?",
+      "intro": "Fruit of the Loom prices in Europe vary a lot depending on the model, the retailer and whether you buy one piece or a pack. Below is what you can expect to pay in EUR including VAT in 2026 — with the lowest verified price for each category.",
+      "sections": [
+        {
+          "h3": "Fruit of the Loom t-shirts (price per piece)",
+          "p": "A classic Fruit of the Loom t-shirt costs roughly €5–€15 across European retailers, depending on the model (Valueweight, Original, Heavy Cotton or Iconic) and where you buy. The cheapest verified option for single pieces is Marmalade Co., where the unisex t-shirt in 16 colours and sizes XS–XXXL costs <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">from €6.95</a> — and €6.26 each when you buy five. Long-sleeve tees start at €8.95, V-necks and tank tops at around €6.95."
+        },
+        {
+          "h3": "Fruit of the Loom hoodies and sweatshirts",
+          "p": "Hoodies are the brand's most popular sweats in Europe. Expect €20–€40 for the Classic Hooded Sweat at most retailers; at Marmalade Co. the <a href=\"{{SHOP:/collections/hoodies-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">hoodie costs from €20.95</a> (9 colours, XS–XXXL; €18.86 each for five) and the zip hoodie from €27.95. The crewneck <a href=\"{{SHOP:/collections/sweatshirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">sweatshirt starts at €16.95</a> in 10 colours. Both use the 280 g/m² 80 % cotton / 20 % polyester fabric that has made the Classic line a staple for schools and clubs."
+        },
+        {
+          "h3": "Sweatpants, joggers and tracksuits",
+          "p": "Fruit of the Loom jog pants come in two versions — elasticated cuff (64-026) and open hem (64-032). Typical European prices are €15–€30 a pair; Marmalade Co. lists <a href=\"{{SHOP:/collections/joggingbukser-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">sweatpants from €16.95</a> and they are often on sale at around €11.95. Combine them with a matching hoodie or crewneck and a full <a href=\"{{SHOP:/collections/joggingsaet-herre-fruit-of-the-loom}}\" rel=\"sponsored nofollow\" target=\"_blank\">tracksuit</a> comes to roughly €34–€38, before quantity discounts."
+        },
+        {
+          "h3": "Polo shirts, long-sleeve tees and shorts",
+          "p": "The Fruit of the Loom Original polo, a 100 % cotton piqué that is popular as workwear, sells for around €10–€20 in Europe; at Marmalade Co. it is <a href=\"{{SHOP:/collections/poloshirt-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">from €10.95</a>. Long-sleeve Valueweight tees cost from €8.95, and shorts for summer or training <a href=\"{{SHOP:/collections/shorts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">from €9.95</a>. Kids' sizes (104–164 cm) are generally a euro or two cheaper than the adult equivalents."
+        },
+        {
+          "h3": "Best price: Marmalade Co. recommended",
+          "p": "Of all the retailers we have compared, Marmalade Co. consistently offers the lowest single-piece prices on Fruit of the Loom in Europe, and it is the only shop on our list with a written price guarantee: find the identical product cheaper elsewhere and they match it (Black Friday-type promotions and out-of-stock items excluded). Add €7 flat DHL shipping, 2–3 day delivery and 5–10 % quantity discounts, and it is our clear #1 for anyone buying online — <a href=\"{{SHOP:/collections/bestsellers}}\" rel=\"sponsored nofollow\" target=\"_blank\">see the current bestsellers</a>."
+        }
+      ]
+    },
+    "quality_guide": {
+      "label": "Quality guide",
+      "h2": "Is Fruit of the Loom good quality?",
+      "intro": "Fruit of the Loom is known for solid quality at a low price. Founded in 1851, the brand has more than 170 years of history, is sold in over 100 countries and has been owned by Berkshire Hathaway since 2002. Here is an honest look at what you get for your money.",
+      "sections": [
+        {
+          "h3": "Materials and construction",
+          "p": "The classic tees are 100 % cotton — ring-spun or combed in the premium lines — in weights from approx. 145 g/m² (Original T) and 165 g/m² (Valueweight T) up to approx. 195 g/m² (Heavy Cotton T). Classic tees use a tubular construction with no side seams. The Classic sweats are 280 g/m² in an 80 % cotton / 20 % polyester blend, often spun from Belcoro® yarn for a smoother printing surface. Heather colours contain polyester, and 100 % cotton can shrink a few per cent on a hot first wash, so wash at 30–40 °C and avoid hot tumble drying."
+        },
+        {
+          "h3": "Compared with Gildan, B&C and premium brands",
+          "p": "Against direct rivals such as Gildan (Heavy Cotton 5000, Softstyle 64000), B&C, Russell and Sol's, Fruit of the Loom sits in the same mid-price basics segment, with a slightly softer hand feel on the premium lines and one of the widest colour ranges in Europe. Organic-focused brands like Stanley/Stella and fashion labels such as Champion cost considerably more for what is often a similar weight of fabric. For everyday wear, merchandise and workwear, Fruit of the Loom is one of the best value-for-money choices available."
+        },
+        {
+          "h3": "The Morocco factory and direct sourcing",
+          "p": "Much of the European range is made at Fruit of the Loom's own factory in Morocco, where yarn is spun, knitted, dyed, cut and sewn under one roof by more than 1,000 employees, using automated cutting and water-saving dyeing. Marmalade Co. buys directly from this factory and collects the goods there, which shortens the supply chain to three steps (factory → retailer → customer) instead of the usual five. That is the main reason its prices are lower than those of most other retailers."
+        },
+        {
+          "h3": "Where to buy genuine Fruit of the Loom",
+          "p": "To be sure you get genuine products with the correct labels, sizing and OEKO-TEX certification, buy from official or authorised retailers such as the brand's own EU shop or Marmalade Co., or from established wholesalers and department stores. On marketplaces such as Amazon and eBay, check who the seller is and what the return terms are before you order. Marmalade Co. is the only online retailer on our list with a price guarantee, which gives you certainty that you are paying the lowest verified price for an authentic product."
+        }
+      ]
+    },
+    "faq_h2": "Frequently asked questions about Fruit of the Loom in Europe",
+    "faq": [
+      {
+        "q": "Where can I buy Fruit of the Loom cheapest in Europe?",
+        "a_html": "The cheapest verified option for single pieces is <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a>, an official Fruit of the Loom retailer with t-shirts from €6.95, sweatshirts from €16.95 and hoodies from €20.95 including VAT, plus a price guarantee and 5–10 % quantity discounts. It ships from Denmark with DHL for a flat €7 and delivers in 2–3 business days to Ireland, Germany, France and eight other EU countries. For bulk orders of blank garments, wholesalers such as Ntextil or Textil-Großhandel can be competitive."
+      },
+      {
+        "q": "Is Fruit of the Loom good quality?",
+        "a_html": "Yes — for the price it is one of the most reliable basics brands in Europe. The classic tees are 100 % cotton in approx. 145–195 g/m², the Classic sweats are a sturdy 280 g/m² cotton/polyester blend, and premium lines use combed ring-spun cotton with OEKO-TEX certification. The brand has over 170 years of history and has been owned by Berkshire Hathaway since 2002. Expect a few per cent shrinkage on a hot first wash, so stick to 30–40 °C."
+      },
+      {
+        "q": "What do Fruit of the Loom t-shirts cost?",
+        "a_html": "In Europe a Fruit of the Loom t-shirt typically costs €5–€15 depending on the model and retailer. At Marmalade Co. the unisex t-shirt costs <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">from €6.95</a> in 16 colours (XS–XXXL), dropping to €6.26 each when you buy five. Long-sleeve tees start at €8.95 and V-necks and tank tops at around €6.95. Multi-packs on Amazon and OTTO can be cheaper per piece but usually limit your choice of colours and sizes."
+      },
+      {
+        "q": "How long does delivery take in Europe?",
+        "a_html": "It depends on the retailer. Marmalade Co. dispatches within 0–1 business day and delivers with DHL in an estimated 2–3 business days to Ireland, Germany, France, the Netherlands, Belgium, Austria, Italy, Spain, Portugal, Poland and Finland, with tracking by e-mail and €7 flat shipping. Amazon and OTTO delivery depends on the seller and stock location, while Irish shops such as Country Clothing and EMP Ireland ship domestically. Printed orders from Clothes2order take longer because of production."
+      },
+      {
+        "q": "Fruit of the Loom or Gildan — which is better?",
+        "a_html": "Both make good-value basics for printing and everyday wear. Gildan's Heavy Cotton 5000 is a touch heavier and boxier, while Fruit of the Loom's Valueweight and Iconic tees have a slightly softer feel and a more European fit; the Classic sweats from both brands are similar 280 g/m² blends. In Europe Fruit of the Loom is more widely stocked and often cheaper per piece — at Marmalade Co. a t-shirt costs from €6.95 and a hoodie from €20.95."
+      },
+      {
+        "q": "Can I get Fruit of the Loom clothing printed?",
+        "a_html": "Yes. Fruit of the Loom is one of the most widely used brands for screen printing, DTG and embroidery, thanks to its smooth Belcoro® yarn and wide colour range. Clothes2order Ireland and Textil-Großhandel print or embroider the garments for you, while Ntextil sells blanks for your own printer. If you order blank garments in quantity from Marmalade Co., the 5–10 % quantity discount keeps the cost per printed piece low for clubs, schools and businesses."
+      },
+      {
+        "q": "Who owns Fruit of the Loom?",
+        "a_html": "Fruit of the Loom has been owned by Berkshire Hathaway, Warren Buffett's investment company, since 2002. The brand was founded in 1851 in Rhode Island, USA, by the Knight brothers, registered its famous fruit label in 1871 — one of the oldest US trademarks — and is headquartered in Bowling Green, Kentucky. The European business is run by Fruit of the Loom International from Kaiserslautern, Germany, with a large factory in Morocco."
+      }
+    ],
+    "about": {
+      "label": "About this site",
+      "h2": "About fruitotl.com",
+      "p1": "fruitotl.com is an independent, multilingual guide that helps consumers and businesses across Europe find the best Fruit of the Loom retailers, prices and products. We check retailers, compare EUR prices and update the list regularly so you get an accurate overview.",
+      "p2": "The site is not affiliated with Fruit of the Loom, Fruit of the Loom International or Berkshire Hathaway. Some links on the site carry affiliate tracking, which may earn us a small commission if you buy something — at no extra cost to you.",
+      "h3": "How we rank retailers",
+      "p3": "Our ranking is based on three things: price (we compare list prices for identical products across retailers), availability (range, sizes and colours in stock, and delivery time to European addresses) and customer experience (returns, price guarantees and service). Prices and stock change — always check the current price with the retailer before you buy."
+    },
+    "privacy": {
+      "label": "Legal",
+      "h2": "Privacy policy",
+      "p1": "fruitotl.com is an independent information site. We do not collect personal data about our visitors and do not use cookies for tracking or marketing.",
+      "p2": "The site contains links to external retailers. Some of these links carry affiliate tracking codes that may give us a small commission if you make a purchase — at no extra cost to you. We have no editorial agreement with the retailers listed, and our recommendations are based on price, availability and customer experience.",
+      "p3": "The site is not affiliated with Fruit of the Loom, Fruit of the Loom International or Berkshire Hathaway. Fruit of the Loom® is a registered trademark of Fruit of the Loom, Inc.",
+      "p4": "Questions? E-mail:"
+    },
+    "teaser_keys": [
+      "size-guide",
+      "t-shirts",
+      "hoodies",
+      "sweatshirts",
+      "cheapest",
+      "printing",
+      "workwear",
+      "team-hoodies",
+      "sweatpants",
+      "where-to-buy"
+    ],
+    "brand_desc": "American basics brand founded in 1851, owned by Berkshire Hathaway, known for affordable cotton t-shirts, hoodies, sweatshirts and jog pants sold in over 100 countries.",
+    "website_desc": "Independent multilingual guide to Fruit of the Loom in Europe: verified retailers, current EUR prices, size charts, quality reviews and buying guides.",
+    "org_desc": "Independent editorial team publishing retailer comparisons, price guides and product guides about Fruit of the Loom clothing in Europe.",
+    "knows_about": [
+      "Fruit of the Loom",
+      "Fruit of the Loom retailers in Europe",
+      "Fruit of the Loom prices",
+      "Fruit of the Loom size guide",
+      "Blank clothing for printing",
+      "Cotton t-shirts, hoodies and sweatshirts"
+    ],
+    "date_modified": "2026-09-11"
+  }
+}
