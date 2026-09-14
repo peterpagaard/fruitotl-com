@@ -45,10 +45,62 @@ def strip_tags(s):
 def jsonld(obj):
     return json.dumps(obj, ensure_ascii=False, separators=(",", ":"))
 
-def shop_url(lang, path="/", content="inline"):
+LANG_CFG = {}        # filled in main() from content/languages.json
+UNMAPPED = set()     # shop paths without a mapping for a non-default shop (reported as warnings)
+# marmaladeco.com path -> marmalade.se path (Swedish shop has its own collection handles)
+SV_PATH_MAP = {
+ "/collections/all":"/collections/all", "/collections/bestsellers":"/collections/fruit-of-the-loom",
+ "/collections/fruit-of-the-loom":"/collections/fruit-of-the-loom",
+ "/collections/herre":"/collections/herr", "/collections/dame":"/collections/dam", "/collections/born":"/collections/barn",
+ "/collections/t-shirts-herre":"/collections/t-shirts-herre", "/collections/t-shirts-dame":"/collections/t-shirts-dame",
+ "/collections/hoodies-herre":"/collections/huvtrojor-herre", "/collections/hoodies-dame":"/collections/huvtrojor-dame",
+ "/collections/sweatshirts-herre":"/collections/sweatshirts-herre", "/collections/sweatshirts-dame":"/collections/sweatshirts-dame",
+ "/collections/joggingbukser-herre":"/collections/joggingbyxor-herre", "/collections/joggingbukser-dame":"/collections/joggingbyxor-dame",
+ "/collections/joggingsaet-herre-fruit-of-the-loom":"/collections/traningsoveraller-herre",
+ "/collections/joggingsaet-dame-fruit-of-the-loom":"/collections/traningsoveraller-dame",
+ "/collections/poloshirt-herre":"/collections/piketrojor-herre", "/collections/poloshirts-dame":"/collections/piketrojor-dame",
+ "/collections/shorts-herre":"/collections/shorts-herre", "/collections/shorts-dame":"/collections/shorts-dame",
+ "/collections/tank-tops-herre":"/collections/linnen-herre", "/collections/tank-tops-dame":"/collections/linnen-dame",
+ "/collections/undertoej-herre":"/collections/underklader-herre", "/collections/undertoej-dame":"/collections/underklader-dame",
+ "/collections/stroemper-herre":"/collections/strumpor-herre", "/collections/stroemper-dame":"/collections/strumpor-dame",
+ "/collections/kasket-herre":"/collections/kepsar-herre", "/collections/kasket-dame":"/collections/kepsar-dame",
+ "/collections/accessories-herre":"/collections/accessoarer-herre", "/collections/accessories-dame":"/collections/accessoarer-dame",
+ "/products/fruit-of-the-loom-t-shirt":"/products/fruit-of-the-loom-t-shirt",
+ "/products/fruit-of-the-loom-v-neck-t-shirt":"/products/fruit-of-the-loom-v-ringad-t-shirt",
+ "/products/fruit-of-the-loom-langaermet-t-shirt":"/products/fruit-of-the-loom-langarmad-t-shirt",
+ "/products/fruit-of-the-loom-tank-top-herre":"/products/fruit-of-the-loom-tank-top-herr",
+ "/products/fruit-of-the-loom-tank-top-kvinde":"/products/fruit-of-the-loom-tank-top-dam",
+ "/products/fruit-of-the-loom-original-poloshirt":"/products/fruit-of-the-loom-original-poloshirt-herr",
+ "/products/fruit-of-the-loom-shorts":"/products/fruit-of-the-loom-shorts",
+ "/products/fruit-of-the-loom-crewneck-sweatshirt":"/products/fruit-of-the-loom-crewneck-sweatshirt",
+ "/products/fruit-of-the-loom-sweatpants-med-elastik":"/products/fruit-of-the-loom-sweatpants-med-elastik",
+ "/products/fruit-of-the-loom-sweatpants-uden-elastik":"/products/fruit-of-the-loom-sweatpants-utan-elastik",
+ "/products/fruit-of-the-loom-hoodie":"/products/fruit-of-the-loom-hoodie",
+ "/products/fruit-of-the-loom-zip-hoodie":"/products/fruit-of-the-loom-zip-hoodie",
+ "/products/fruit-of-the-loom-baby-tee":"/collections/fruit-of-the-loom-baby-tee",
+ "/pages/prisgaranti":"/pages/faq", "/pages/made-in-marocco":"/pages/about-us", "/pages/sustainability":"/pages/about-us",
+ "/pages/ofte-stillede-sporgsmal":"/pages/faq", "/pages/contact":"/pages/contact",
+ "/policies/shipping-policy":"/policies/shipping-policy", "/policies/refund-policy":"/policies/refund-policy",
+}
+PATH_MAPS = {"sv": SV_PATH_MAP}
+
+def shop_base(lang):
+    return LANG_CFG.get(lang, {}).get("shop", SHOP)
+
+def map_path(lang, path):
+    m = PATH_MAPS.get(lang)
+    if not m or path == "/": return path
+    base, _, q = path.partition("?")
+    if base in m: new = m[base]
+    else:
+        UNMAPPED.add(f"[{lang}] {base}"); new = "/collections/fruit-of-the-loom"
+    return new + ("?" + q if q else "")
+
+def shop_url(lang, path="/", content="inline", raw=False):
     path = path if path.startswith("/") else "/" + path
+    if not raw: path = map_path(lang, path)
     sep = "&" if "?" in path else "?"
-    return (f"{SHOP}{path}{sep}utm_source=fruitotl.com&utm_medium=referral"
+    return (f"{shop_base(lang)}{path}{sep}utm_source=fruitotl.com&utm_medium=referral"
             f"&utm_campaign=organic-{lang}&utm_content={content}")
 
 def page_url(site, slug=""):
@@ -80,14 +132,20 @@ PRICE_L10N = {
   "names":{"t-shirt":"T-shirt","v-neck":"T-shirt decote em V","long-sleeve":"T-shirt de manga comprida","tank-top":"Top de alças","polo":"Polo","shorts":"Calções","sweatshirt":"Sweatshirt gola redonda","sweatpants":"Calças de fato de treino","hoodie":"Sweatshirt com capuz","zip-hoodie":"Casaco com capuz e fecho"}},
  "fi": {"caption":"Paljonko Fruit of the Loom maksaa isommissa määrissä Marmalade Co:lla (EUR sis. ALV ja {ship} € toimitus, hinnat tarkistettu {date})","product":"Tuote","pcs":"kpl","each":"/ kpl","calc_h":"Määräalennuslaskuri","calc_p":"Valitse tuote ja määrä — kokonaishinta sisältää määräalennuksen (5 % alkaen 3 kpl, 10 % alkaen 5 kpl) ja {ship} € toimituksen.","qty":"Määrä","total":"Yhteensä","per_piece":"Kappalehinta","go":"Katso tuote Marmalade Co:lla",
   "names":{"t-shirt":"T-paita","v-neck":"V-aukkoinen t-paita","long-sleeve":"Pitkähihainen paita","tank-top":"Toppi","polo":"Pikeepaita","shorts":"Shortsit","sweatshirt":"Collegepaita","sweatpants":"Collegehousut","hoodie":"Huppari","zip-hoodie":"Vetoketjuhuppari"}},
+ "sv": {"caption":"Vad Fruit of the Loom kostar i större antal hos Marmalade Co. (SEK inkl. moms och frakt: fri frakt till ombud från 399 kr, annars 49 kr; priser kontrollerade {date})","product":"Produkt","pcs":"st","each":"per st","calc_h":"Mängdpriskalkylator","calc_p":"Välj produkt och antal – totalen inkluderar mängdrabatten (5 % från 3 st, 10 % från 6 st, 15 % från 10 st) och frakt (fri frakt till ombud från 399 kr).","qty":"Antal","total":"Totalt","per_piece":"Per styck","go":"Se produkten hos Marmalade Co.",
+  "names":{"t-shirt":"T-shirt","v-neck":"V-ringad t-shirt","long-sleeve":"Långärmad t-shirt","tank-top":"Linne","polo":"Pikétröja","shorts":"Shorts","sweatshirt":"Sweatshirt (rundhals)","sweatpants":"Mjukisbyxor","hoodie":"Huvtröja","zip-hoodie":"Huvtröja med dragkedja"}},
 }
-_PRICES = None
-def load_prices():
-    global _PRICES
-    if _PRICES is None:
-        pp = os.path.join(CONTENT, "prices.json")
-        _PRICES = read_json(pp) if os.path.exists(pp) else {}
-    return _PRICES
+_PRICES = {}
+def load_prices(lang="en"):
+    fn = LANG_CFG.get(lang, {}).get("prices", "prices.json")
+    if fn not in _PRICES:
+        pp = os.path.join(CONTENT, fn)
+        _PRICES[fn] = read_json(pp) if os.path.exists(pp) else {}
+    return _PRICES[fn]
+
+def ship_cost(P, subtotal):
+    if P.get("free_shipping_from") and subtotal >= P["free_shipping_from"]: return 0.0
+    return float(P.get("shipping", P.get("shipping_eur", 0)))
 
 def unit_after_discount(P, qty, price):
     pct = 0
@@ -102,29 +160,35 @@ def fmt_eur(lang, v):
     if lang in ("pl", "fi", "fr"): s = s.replace(".", " ")
     return s + " €"
 
+def fmt_money(P, lang, v):
+    if P.get("currency") == "SEK":
+        s = f"{v:,.2f}".replace(",", " ").replace(".", ",")
+        return (s[:-3] if s.endswith(",00") else s) + " kr"
+    return fmt_eur(lang, v)
+
 def price_table_html(lang, ids=None):
-    P = load_prices()
+    P = load_prices(lang)
     if not P: return ""
-    L = PRICE_L10N.get(lang, PRICE_L10N["en"]); ship = P["shipping_eur"]
+    L = PRICE_L10N.get(lang, PRICE_L10N["en"]); ship = float(P.get("shipping", P.get("shipping_eur", 0)))
     prods = [p for p in P["products"] if not ids or p["id"] in ids]
     head = "".join(f"<th>{q} {L['pcs']}</th>" for q in P["quantities"])
     rows = []
     for p in prods:
         cells = []
         for q in P["quantities"]:
-            unit = unit_after_discount(P, q, p["price"]); total = unit * q + ship
-            cells.append(f"<td><strong>{fmt_eur(lang, total)}</strong><br><small>{fmt_eur(lang, total / q)} {L['each']}</small></td>")
+            sub = unit_after_discount(P, q, p["price"]) * q; total = sub + ship_cost(P, sub)
+            cells.append(f"<td><strong>{fmt_money(P, lang, total)}</strong><br><small>{fmt_money(P, lang, total / q)} {L['each']}</small></td>")
         rows.append(f"<tr><td>{esc(L['names'].get(p['id'], p['id']))}</td>{''.join(cells)}</tr>")
     cap = L["caption"].replace("{ship}", f"{ship:g}").replace("{date}", P.get("checked", ""))
     return f'<table class="size price-table"><caption>{esc(cap)}</caption><thead><tr><th>{esc(L["product"])}</th>{head}</tr></thead><tbody>{"".join(rows)}</tbody></table>'
 
 def calculator_html(lang, site):
-    P = load_prices()
+    P = load_prices(lang)
     if not P: return ""
-    L = PRICE_L10N.get(lang, PRICE_L10N["en"]); ship = P["shipping_eur"]
-    opts = "".join(f'<option value="{p["price"]}" data-path="{esc(p["path"])}">{esc(L["names"].get(p["id"], p["id"]))} — {fmt_eur(lang, p["price"])}</option>' for p in P["products"])
-    disc = json.dumps(P["discounts"]); base = shop_url(lang, "/__PATH__", "calculator")
-    return f"""<div class="calc" data-ship="{ship}" data-disc='{disc}' data-base="{esc(base)}" data-lang="{lang}">
+    L = PRICE_L10N.get(lang, PRICE_L10N["en"]); ship = float(P.get("shipping", P.get("shipping_eur", 0)))
+    opts = "".join(f'<option value="{p["price"]}" data-path="{esc(p["path"])}">{esc(L["names"].get(p["id"], p["id"]))} — {fmt_money(P, lang, p["price"])}</option>' for p in P["products"])
+    disc = json.dumps(P["discounts"]); base = shop_url(lang, "/__PATH__", "calculator", raw=True)
+    return f"""<div class="calc" data-ship="{ship}" data-free="{P.get('free_shipping_from', 0)}" data-cur="{P.get('currency', 'EUR')}" data-disc='{disc}' data-base="{esc(base)}" data-lang="{lang}">
 <h3>{esc(L['calc_h'])}</h3><p>{esc(L['calc_p'].replace('{ship}', f'{ship:g}'))}</p>
 <div class="calc-row"><label>{esc(L['product'])}<select class="calc-p">{opts}</select></label><label>{esc(L['qty'])}<input class="calc-q" type="number" min="1" max="10000" value="50"></label></div>
 <div class="calc-out"><div><span>{esc(L['total'])}</span><strong class="calc-t">–</strong></div><div><span>{esc(L['per_piece'])}</span><strong class="calc-u">–</strong></div></div>
@@ -133,11 +197,11 @@ def calculator_html(lang, site):
 
 CALC_JS = """<script>
 document.querySelectorAll('.calc').forEach(function(c){
- var ship=parseFloat(c.dataset.ship),disc=JSON.parse(c.dataset.disc),lang=c.dataset.lang,base=c.dataset.base;
+ var ship=parseFloat(c.dataset.ship),free=parseFloat(c.dataset.free||'0'),cur=c.dataset.cur||'EUR',disc=JSON.parse(c.dataset.disc),lang=c.dataset.lang,base=c.dataset.base;
  var sel=c.querySelector('.calc-p'),q=c.querySelector('.calc-q'),t=c.querySelector('.calc-t'),u=c.querySelector('.calc-u'),go=c.querySelector('.calc-go');
- function f(v){return new Intl.NumberFormat(lang==='en'?'en-IE':lang,{style:'currency',currency:'EUR'}).format(v);}
+ function f(v){return new Intl.NumberFormat(lang==='en'?'en-IE':lang,{style:'currency',currency:cur,minimumFractionDigits:0,maximumFractionDigits:2}).format(v);}
  function run(){var n=Math.max(1,parseInt(q.value||'1',10)),p=parseFloat(sel.value),pct=0;disc.forEach(function(d){if(n>=d.min_qty)pct=d.pct;});
-  var tot=p*(1-pct/100)*n+ship;t.textContent=f(tot);u.textContent=f(tot/n);go.href=base.replace('/__PATH__',sel.options[sel.selectedIndex].dataset.path);}
+  var sub=p*(1-pct/100)*n,tot=sub+((free&&sub>=free)?0:ship);t.textContent=f(tot);u.textContent=f(tot/n);go.href=base.replace('/__PATH__',sel.options[sel.selectedIndex].dataset.path);}
  sel.addEventListener('change',run);q.addEventListener('input',run);run();});
 </script>"""
 
@@ -480,7 +544,7 @@ def header_html(site, languages, target_fn, active=""):
     return f"""<header>
   <div class="header-inner">
     <a class="logo" href="{home}">
-      <img src="{p}logo.svg" class="logo-icon" alt="Fruit of the Loom logo" width="64" height="44" />
+      <img src="{p}logo.png" class="logo-icon" alt="Fruit of the Loom logo" width="69" height="44" />
       <div class="logo-text">
         <span class="brand">Fruit of the Loom</span>
         <span class="sub">{esc(ui['logo_sub'])}</span>
@@ -582,7 +646,7 @@ def build_index(site, languages, articles_by_key, all_sites, ctx):
         tags = "".join(f'<span class="tag tag-{t}">{esc(tag_label[t])}</span>' for t in r.get("tags", []))
         tags = f'<div class="tags">{tags}</div>' if tags else ""
         addr = f'<div class="td-address">{esc(r["address"])}</div>' if r.get("address") else ""
-        href = shop_url(lang, "/", "homepage-retailer-row") if "marmaladeco.com" in r["url"] else r["url"]
+        href = shop_url(lang, "/", "homepage-retailer-row") if re.search(r"marmalade(co)?\.(com|se|dk)", r["url"]) else r["url"]
         rows.append(f"""      <tr>
         <td>{i+1:02d}</td>
         <td><strong>{esc(r['name'])}</strong><div class="td-info">{tags}{X(r['info'])}{addr}</div></td>
@@ -806,6 +870,7 @@ def validate(site, articles, ctx):
 def main():
     ctx = {"errors": [], "warnings": []}
     languages = read_json(os.path.join(CONTENT, "languages.json"))
+    LANG_CFG.update({L["lang"]: L for L in languages})
     all_sites = {}
     languages = [L for L in languages if os.path.exists(os.path.join(CONTENT, L["lang"], "site.json"))
                  or print(f"skip  language '{L['lang']}' has no site.json yet")]
@@ -864,6 +929,7 @@ def main():
     if ctx["errors"]:
         print("\n".join("ERROR " + e for e in ctx["errors"])); sys.exit(1)
 
+    for u in sorted(UNMAPPED): ctx["warnings"].append(f"unmapped shop path {u} -> /collections/fruit-of-the-loom")
     for w in ctx["warnings"]: print("warn  " + w)
     if CHECK_ONLY:
         print(f"OK — {len(pages)} pages validated, {len(langs)} languages."); return

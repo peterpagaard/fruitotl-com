@@ -21,6 +21,7 @@ TEXTS = {
   "pl": ("FRUIT OF THE LOOM", "W POLSCE", "Najniższe ceny · Najlepsze sklepy · Poradniki 2026"),
   "pt": ("FRUIT OF THE LOOM", "EM PORTUGAL", "Preços mais baixos · Melhores lojas · Guias 2026"),
   "fi": ("FRUIT OF THE LOOM", "SUOMESSA", "Halvimmat hinnat · Parhaat kaupat · Oppaat 2026"),
+  "sv": ("FRUIT OF THE LOOM", "I SVERIGE", "Lägsta priser · Bästa butikerna · Guider 2026"),
 }
 def make(lang, out):
     W, H = 1200, 630

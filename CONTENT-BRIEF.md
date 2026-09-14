@@ -37,6 +37,10 @@ Other retailers are described fairly and neutrally.
   Product paths: /products/fruit-of-the-loom-t-shirt, /products/fruit-of-the-loom-hoodie, /products/fruit-of-the-loom-zip-hoodie, /products/fruit-of-the-loom-crewneck-sweatshirt, /products/fruit-of-the-loom-sweatpants-med-elastik, /products/fruit-of-the-loom-sweatpants-uden-elastik, /products/fruit-of-the-loom-original-poloshirt, /products/fruit-of-the-loom-langaermet-t-shirt, /products/fruit-of-the-loom-shorts, /products/fruit-of-the-loom-v-neck-t-shirt, /products/fruit-of-the-loom-tank-top-herre, /products/fruit-of-the-loom-tank-top-kvinde, /products/fruit-of-the-loom-baby-tee.
   Info pages: /pages/prisgaranti (price guarantee), /pages/made-in-marocco, /pages/sustainability, /policies/shipping-policy, /policies/refund-policy.
 
+### Sweden — Marmalade Co. on marmalade.se (only for the sv language version)
+- Swedish customers are sent to **marmalade.se** (same company, Swedish shop, SEK). Shipping from Copenhagen with PostNord, 1–3 working days (96.7 % of orders delivered within 1–3 days according to the shop), same-day dispatch for orders before 15:00. Free delivery to pick-up point from 399 kr, otherwise 49 kr. 14-day returns. Swish accepted.
+- Quantity discount: 5 % from 3 pcs, 10 % from 6 pcs, 15 % from 10 pcs. Prices in `content/prices-sv.json` (updated weekly).
+
 ### Fruit of the Loom (brand)
 - Founded 1851 in Rhode Island, USA (Knight brothers; the name/label registered 1871 — one of the oldest US trademarks). HQ Bowling Green, Kentucky. Owned by **Berkshire Hathaway** since 2002. Europe: Fruit of the Loom International (Kaiserslautern, Germany); official EU site fruitoftheloom.eu.
 - One of the world's best-selling basics brands; 170+ years; sold in 100+ countries.

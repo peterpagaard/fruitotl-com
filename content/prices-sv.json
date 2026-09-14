@@ -1,0 +1,80 @@
+{
+  "currency": "SEK",
+  "shop": "https://marmalade.se",
+  "shipping": 49,
+  "free_shipping_from": 399,
+  "discounts": [
+    {
+      "min_qty": 3,
+      "pct": 5
+    },
+    {
+      "min_qty": 6,
+      "pct": 10
+    },
+    {
+      "min_qty": 10,
+      "pct": 15
+    }
+  ],
+  "quantities": [
+    1,
+    10,
+    50,
+    100,
+    250
+  ],
+  "products": [
+    {
+      "id": "t-shirt",
+      "path": "/products/fruit-of-the-loom-t-shirt",
+      "price": 69.0
+    },
+    {
+      "id": "v-neck",
+      "path": "/products/fruit-of-the-loom-v-ringad-t-shirt",
+      "price": 69.0
+    },
+    {
+      "id": "long-sleeve",
+      "path": "/products/fruit-of-the-loom-langarmad-t-shirt",
+      "price": 109.0
+    },
+    {
+      "id": "tank-top",
+      "path": "/products/fruit-of-the-loom-tank-top-herr",
+      "price": 79.0
+    },
+    {
+      "id": "polo",
+      "path": "/products/fruit-of-the-loom-original-poloshirt-herr",
+      "price": 119.0
+    },
+    {
+      "id": "shorts",
+      "path": "/products/fruit-of-the-loom-shorts",
+      "price": 109.0
+    },
+    {
+      "id": "sweatshirt",
+      "path": "/products/fruit-of-the-loom-crewneck-sweatshirt",
+      "price": 179.0
+    },
+    {
+      "id": "sweatpants",
+      "path": "/products/fruit-of-the-loom-sweatpants-med-elastik",
+      "price": 125.0
+    },
+    {
+      "id": "hoodie",
+      "path": "/products/fruit-of-the-loom-hoodie",
+      "price": 219.0
+    },
+    {
+      "id": "zip-hoodie",
+      "path": "/products/fruit-of-the-loom-zip-hoodie",
+      "price": 299.0
+    }
+  ],
+  "checked": "2026-09-14"
+}

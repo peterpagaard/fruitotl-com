@@ -1,11 +1,94 @@
 [
-  {"lang":"en","dir":"","hreflang":"en","og_locale":"en_IE","language_name":"English","region_name":"Europe","geo_region":"EU"},
-  {"lang":"de","dir":"de","hreflang":"de","og_locale":"de_DE","language_name":"Deutsch","region_name":"Deutschland","geo_region":"DE"},
-  {"lang":"nl","dir":"nl","hreflang":"nl","og_locale":"nl_NL","language_name":"Nederlands","region_name":"Nederland","geo_region":"NL"},
-  {"lang":"fr","dir":"fr","hreflang":"fr","og_locale":"fr_FR","language_name":"Français","region_name":"France","geo_region":"FR"},
-  {"lang":"es","dir":"es","hreflang":"es","og_locale":"es_ES","language_name":"Español","region_name":"España","geo_region":"ES"},
-  {"lang":"it","dir":"it","hreflang":"it","og_locale":"it_IT","language_name":"Italiano","region_name":"Italia","geo_region":"IT"},
-  {"lang":"pl","dir":"pl","hreflang":"pl","og_locale":"pl_PL","language_name":"Polski","region_name":"Polska","geo_region":"PL"},
-  {"lang":"pt","dir":"pt","hreflang":"pt-PT","og_locale":"pt_PT","language_name":"Português","region_name":"Portugal","geo_region":"PT"},
-  {"lang":"fi","dir":"fi","hreflang":"fi","og_locale":"fi_FI","language_name":"Suomi","region_name":"Suomi","geo_region":"FI"}
+ {
+  "lang": "en",
+  "dir": "",
+  "hreflang": "en",
+  "og_locale": "en_IE",
+  "language_name": "English",
+  "region_name": "Europe",
+  "geo_region": "EU"
+ },
+ {
+  "lang": "de",
+  "dir": "de",
+  "hreflang": "de",
+  "og_locale": "de_DE",
+  "language_name": "Deutsch",
+  "region_name": "Deutschland",
+  "geo_region": "DE"
+ },
+ {
+  "lang": "nl",
+  "dir": "nl",
+  "hreflang": "nl",
+  "og_locale": "nl_NL",
+  "language_name": "Nederlands",
+  "region_name": "Nederland",
+  "geo_region": "NL"
+ },
+ {
+  "lang": "fr",
+  "dir": "fr",
+  "hreflang": "fr",
+  "og_locale": "fr_FR",
+  "language_name": "Français",
+  "region_name": "France",
+  "geo_region": "FR"
+ },
+ {
+  "lang": "es",
+  "dir": "es",
+  "hreflang": "es",
+  "og_locale": "es_ES",
+  "language_name": "Español",
+  "region_name": "España",
+  "geo_region": "ES"
+ },
+ {
+  "lang": "it",
+  "dir": "it",
+  "hreflang": "it",
+  "og_locale": "it_IT",
+  "language_name": "Italiano",
+  "region_name": "Italia",
+  "geo_region": "IT"
+ },
+ {
+  "lang": "pl",
+  "dir": "pl",
+  "hreflang": "pl",
+  "og_locale": "pl_PL",
+  "language_name": "Polski",
+  "region_name": "Polska",
+  "geo_region": "PL"
+ },
+ {
+  "lang": "pt",
+  "dir": "pt",
+  "hreflang": "pt-PT",
+  "og_locale": "pt_PT",
+  "language_name": "Português",
+  "region_name": "Portugal",
+  "geo_region": "PT"
+ },
+ {
+  "lang": "fi",
+  "dir": "fi",
+  "hreflang": "fi",
+  "og_locale": "fi_FI",
+  "language_name": "Suomi",
+  "region_name": "Suomi",
+  "geo_region": "FI"
+ },
+ {
+  "lang": "sv",
+  "dir": "sv",
+  "hreflang": "sv",
+  "og_locale": "sv_SE",
+  "language_name": "Svenska",
+  "region_name": "Sverige",
+  "geo_region": "SE",
+  "shop": "https://marmalade.se",
+  "prices": "prices-sv.json"
+ }
 ]

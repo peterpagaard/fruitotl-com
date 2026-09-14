@@ -17,6 +17,7 @@ local retailers and local shipping details.
 | pl | content/pl | poradniki | Poland. Prices stay in EUR (the shop charges EUR); you may add "ok. X zł" only if you convert honestly (1 € ≈ 4.3 zł, say "approx."). Ships to PL. |
 | pt | content/pt | guias | Portugal (European Portuguese, NOT Brazilian). Ships to PT. |
 | fi | content/fi | oppaat | Finland. Ships to FI. |
+| sv | content/sv | guider | **Sweden — different shop!** Links go to **marmalade.se** (Swedish Shopify shop, prices in **SEK**), not marmaladeco.com. See "Sweden" in CONTENT-BRIEF.md. The build maps every {{SHOP:/path}} / {{CTA:/path}} to the matching marmalade.se page automatically — keep the EN paths. Never write EUR prices or "€7 DHL" in Swedish text. |
 
 ## 1. site.json (`content/<lang>/site.json`)
 
@@ -48,3 +49,10 @@ Write every file to disk immediately after finishing it. Before starting a file,
     cd "<project>" && python3 build.py --check
 
 and fix every ERROR line that concerns your language. Warnings about other languages are not yours.
+
+## Sweden (sv) — special rules
+- The shop is marmalade.se. Currency SEK. Shipping: PostNord, 1–3 working days, orders before 15:00 on weekdays ship the same day; free delivery to a pick-up point (ombud) from 399 kr, otherwise 49 kr; home delivery 120 kr (60 kr from 899 kr). 14-day return right. Payment incl. Swish, Apple Pay, Google Pay, cards.
+- Quantity discount ("köp mer, spara mer"): 5 % from 3 pcs, 10 % from 6 pcs, 15 % from 10 pcs.
+- Prices (SEK, from — `content/prices-sv.json` is the source, the {{PRICES}}/{{CALCULATOR}} blocks show them automatically): t-shirt 69 kr, v-neck 69 kr, long-sleeve 109 kr, tank top 79 kr, polo 119 kr, shorts 109 kr, crewneck sweatshirt 179 kr, sweatpants 125 kr, hoodie 219 kr, zip hoodie 299 kr.
+- Replace every EUR price in the EN text with the Swedish SEK price (or "från X kr"). Replace EU/Irish context with Swedish: studenten / studentoverall-tröjor, klasströjor, föreningströjor, moms 25 %.
+- Retailers for site.json: Marmalade Co. first (url https://marmalade.se/, domain marmalade.se, area "Online · hela Sverige"), then 6–9 Swedish shops that sell Fruit of the Loom, each verified with WebFetch (e.g. amazon.se, Stadium/Intersport if verified, Swedish profile-clothing / textile print shops such as reklamtextil / tryckeri shops, Wordans.se, Needen.se if they exist).
