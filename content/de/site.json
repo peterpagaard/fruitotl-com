@@ -1,0 +1,313 @@
+{
+  "articles_slug": "ratgeber",
+  "ui": {
+    "logo_sub": "Händler- & Preisvergleich · Deutschland",
+    "nav_retailers": "Händler",
+    "nav_prices": "Preise",
+    "nav_articles": "Ratgeber",
+    "nav_faq": "FAQ",
+    "menu_open": "Menü öffnen",
+    "language_label": "Sprache",
+    "breadcrumb_home": "Startseite",
+    "quick_answer": "Kurz gesagt",
+    "back_to_articles": "Zurück zu allen Ratgebern",
+    "read_article": "Ratgeber lesen",
+    "all_articles": "Alle Ratgeber ansehen",
+    "related_guides": "Passende Ratgeber",
+    "faq_heading": "Häufige Fragen",
+    "updated_label": "Aktualisiert",
+    "search_placeholder": "Name, Land oder Typ suchen…",
+    "search_label": "Händler suchen",
+    "showing_all": "Alle {n} Händler werden angezeigt",
+    "showing_n": "{n} von {total} Händlern werden angezeigt",
+    "col_retailer": "Händler",
+    "col_area": "Land / Region",
+    "col_website": "Website",
+    "col_type": "Typ",
+    "badge_online": "Online",
+    "badge_store": "Geschäft",
+    "badge_chain": "Kette",
+    "tag_recommended": "Empfehlung",
+    "tag_cheapest": "Am günstigsten",
+    "tag_fast": "Lieferung in 2–3 Tagen",
+    "tag_store": "Ladengeschäft",
+    "tag_lowprice": "Niedriger Preis",
+    "mobile_cta": "Die niedrigsten Preise in Deutschland ansehen",
+    "footer_tagline": "Unabhängiger Händler- und Preisvergleich.",
+    "not_affiliated": "Nicht verbunden mit Fruit of the Loom oder Fruit of the Loom International.",
+    "articles_teaser_label": "Wissen & Ratgeber",
+    "articles_teaser_heading": "Fruit of the Loom Ratgeber",
+    "articles_teaser_p": "{n} ausführliche Ratgeber — von T-Shirts, Hoodies und Jogginghosen über Größentabellen, Qualität und Textildruck bis zur Frage, wo Fruit of the Loom in Deutschland am günstigsten ist.",
+    "articles_hero_eyebrow": "Wissen · Ratgeber · Tipps",
+    "articles_h1_html": "<span class=\"hl\">Fruit of the Loom</span> Ratgeber &amp; Artikel",
+    "articles_hero_p": "Alles, was Sie über Fruit of the Loom wissen müssen — Modelle, Größen, Preise, Qualität, Textildruck und die besten Bezugsquellen in Deutschland und Österreich.",
+    "articles_title": "Fruit of the Loom Ratgeber – Modelle, Größen, Preise & Kauf 2026",
+    "articles_description": "Alle Ratgeber von fruitotl.com auf einen Blick: Fruit of the Loom T-Shirts, Hoodies, Sweatshirts, Größentabellen, Qualität, Textildruck und die günstigsten Händler in Deutschland 2026.",
+    "articles_keywords": "fruit of the loom ratgeber, fruit of the loom größen, fruit of the loom preise, fruit of the loom hoodie, fruit of the loom t-shirt, fruit of the loom kaufen, fruit of the loom deutschland",
+    "not_found_title": "Seite nicht gefunden",
+    "not_found_p": "Die gesuchte Seite existiert nicht oder wurde verschoben. Starten Sie auf der Startseite, um Händler, Preise und Ratgeber zu finden.",
+    "not_found_btn": "Zur Startseite",
+    "og_alt": "Fruit of the Loom in Deutschland – günstigste Preise und beste Händler"
+  },
+  "index": {
+    "title": "Fruit of the Loom in Deutschland 2026 – Günstig kaufen & Händler",
+    "description": "Wo Sie Fruit of the Loom in Deutschland & Österreich 2026 kaufen: 10 geprüfte Händler im Vergleich. T-Shirts ab 6,95 €, Hoodies ab 20,95 €, DHL-Lieferung in 2–3 Werktagen.",
+    "keywords": "fruit of the loom, fruit of the loom deutschland, fruit of the loom österreich, fruit of the loom kaufen, fruit of the loom online shop, fruit of the loom t-shirt, fruit of the loom hoodie, fruit of the loom preise, fruit of the loom händler, fruit of the loom günstig, fruit of the loom sweatshirt",
+    "hero_eyebrow": "Deutschland & Österreich · Stand 2026",
+    "h1_html": "<span class=\"hl\">Fruit of the Loom</span> in Deutschland —<br>günstigste Preise &amp; beste Händler",
+    "hero_p": "Der komplette Ratgeber zum Kauf von Fruit of the Loom in Deutschland und Österreich — geprüfte Händler, aktuelle Euro-Preise, Lieferzeiten und ehrliche Empfehlungen.",
+    "stats": [
+      {
+        "n": "10",
+        "label": "Geprüfte Händler"
+      },
+      {
+        "n": "#1",
+        "label": "Empfehlung: Marmalade Co."
+      },
+      {
+        "n": "170+",
+        "label": "Jahre Markengeschichte"
+      },
+      {
+        "n": "2026",
+        "label": "Zuletzt aktualisiert"
+      }
+    ],
+    "breadcrumb_current": "Fruit of the Loom Händler in Deutschland",
+    "quick_answer": "Fruit of the Loom gibt es in Deutschland und Österreich bei 10 geprüften Händlern — online über <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a> (unsere Nr. 1: offizieller Händler, Preisgarantie, 7 € DHL-Versandpauschale und Lieferung in 2–3 Werktagen nach Deutschland und Österreich), den offiziellen EU-Shop der Marke, Amazon.de, OTTO, EMP und Universal.at sowie Textilgroßhändler wie Textilwaren24, Wordans, Textil-Großhandel.eu und Aulenbacher. Typische Preise bei Marmalade Co.: T-Shirts ab 6,95 €, Sweatshirts ab 16,95 € und Hoodies ab 20,95 €, jeweils inkl. MwSt.",
+    "intro_label": "Über diesen Ratgeber",
+    "intro_h2": "Die besten Fruit of the Loom Händler in Deutschland 2026",
+    "intro_html": "<p>Sie suchen Fruit of the Loom T-Shirts, Hoodies, Sweatshirts oder Jogginghosen in Deutschland oder Österreich? Dann sind Sie hier richtig. Wir pflegen eine laufend aktualisierte Liste der Händler, die die Marke tatsächlich führen — vom offiziellen Europa-Shop über die großen Marktplätze und Versandhäuser bis zu Textilgroßhändlern und Druckereien —, damit Sie Preise und Lieferbedingungen an einem Ort vergleichen können.</p><p>Wenn Sie den niedrigsten Preis und eine schnelle Lieferung wollen, ist unsere klare Empfehlung Marmalade Co. auf <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">marmaladeco.com</a>: ein offizieller Fruit of the Loom Händler mit Preisgarantie, Euro-Preisen inkl. MwSt., 7 € DHL-Versandpauschale und Lieferung in 2–3 Werktagen nach Deutschland, Österreich und neun weitere EU-Länder.</p><p>Unten finden Sie alle Händler nach unserer Empfehlung sortiert, jeweils mit einem kurzen Hinweis, wofür sich der Anbieter am besten eignet — ob für einen einzelnen Hoodie, ein T-Shirt-Multipack oder 200 unbedruckte Shirts für den Textildruck.</p>",
+    "top_pick": {
+      "h3": "Unsere Nr. 1: Marmalade Co.",
+      "p_html": "Offizieller Online-Händler mit den niedrigsten geprüften Fruit of the Loom Preisen, die wir in Europa gefunden haben — T-Shirts ab 6,95 €, Hoodies ab 20,95 € — abgesichert durch eine Preisgarantie. Kauft direkt in der Fruit of the Loom Fabrik in Marokko ein, versendet mit DHL für pauschal 7 € und liefert in 2–3 Werktagen nach Deutschland und Österreich. Mengenrabatt von 5 % ab 3 Stück und 10 % ab 5 Stück, was den Shop bei Vereinen, Schulen und kleinen Unternehmen ebenso beliebt macht wie bei Privatkunden.",
+      "btn": "Zu Marmalade Co."
+    },
+    "retailers": [
+      {
+        "name": "Marmalade Co.",
+        "tags": [
+          "recommended",
+          "cheapest",
+          "fast"
+        ],
+        "info": "Offizieller Fruit of the Loom Händler mit den niedrigsten geprüften Preisen in Europa, Preisgarantie und Mengenrabatt auf die meisten Produkte (5 % ab 3 Stück, 10 % ab 5 Stück). Preise in Euro inkl. MwSt. Versand aus Dänemark mit DHL für pauschal 7 €, Lieferung in 2–3 Werktagen nach Deutschland und Österreich.",
+        "area": "Online · liefert nach Deutschland & Österreich",
+        "url": "https://marmaladeco.com/",
+        "domain": "marmaladeco.com",
+        "type": "online",
+        "schema_desc": "Offizieller Fruit of the Loom Online-Händler mit Preisgarantie und DHL-Lieferung in 2–3 Werktagen nach Deutschland und Österreich."
+      },
+      {
+        "name": "Fruit of the Loom (offizieller EU-Shop)",
+        "info": "Der eigene Europa-Webshop der Marke, betrieben von Fruit of the Loom International in Kaiserslautern, mit deutscher Sprachversion. Führt das komplette aktuelle Sortiment — Valueweight, Original, Iconic, Classic-Sweats, Polos und Kindermodelle — und ist die beste Referenz für offizielle Artikelnummern. Lohnt sich als Preisvergleich, bevor Sie bei Discount-Händlern bestellen.",
+        "area": "Online · Deutschland & Europa",
+        "url": "https://www.fruitoftheloom.eu/shop/de/",
+        "domain": "fruitoftheloom.eu",
+        "type": "online",
+        "schema_desc": "Offizieller europäischer Online-Shop von Fruit of the Loom International mit dem kompletten aktuellen Sortiment in deutscher Sprache."
+      },
+      {
+        "name": "Amazon.de",
+        "info": "Deutschlands größter Marktplatz listet Hunderte Fruit of the Loom Artikel, vom einzelnen T-Shirt bis zum 5er-Pack Heavy Cotton, verkauft von Amazon selbst und von Drittanbietern. Liefert auch nach Österreich (amazon.at leitet auf dieselben Angebote). Preise und Versandkosten unterscheiden sich je nach Verkäufer, daher lohnt ein Blick auf die Gesamtsumme im Warenkorb.",
+        "area": "Online · Deutschland & Österreich",
+        "url": "https://www.amazon.de/s?k=fruit+of+the+loom",
+        "domain": "amazon.de",
+        "type": "online",
+        "schema_desc": "Amazon Deutschland mit einer großen Auswahl an Fruit of the Loom Bekleidung von Amazon und Marktplatzhändlern."
+      },
+      {
+        "name": "OTTO",
+        "info": "Eines der größten deutschen Online-Versandhäuser mit rund 245 Fruit of the Loom Artikeln zum Zeitpunkt der Recherche: T-Shirts, Hoodies, Sweatshirts, Jogginghosen und Multipacks für Damen, Herren und Kinder. Einzelne Basic-Shirts im Pack ab ca. 2,38 € pro Stück, Sweatjacken um 24 €. Schwesterseite ottoversand.at bedient Österreich.",
+        "area": "Online · Deutschland",
+        "url": "https://www.otto.de/mode/?marke=fruit-of-the-loom",
+        "domain": "otto.de",
+        "type": "online",
+        "schema_desc": "Deutsches Online-Versandhaus OTTO mit großem Fruit of the Loom Sortiment für Damen, Herren und Kinder."
+      },
+      {
+        "name": "EMP",
+        "info": "Deutscher Online-Shop für Merchandise und Alternative-Fashion mit rund 22 Fruit of the Loom Basics zum Zeitpunkt der Recherche — T-Shirts ab ca. 6,99 €, Hoodies und Sweatjacken bis ca. 34,99 €. Versandkostenfrei ab 59,99 € Bestellwert, liefert nach Deutschland und Österreich.",
+        "area": "Online · Deutschland & Österreich",
+        "url": "https://www.emp.de/markenkleidung/fruit-of-the-loom/",
+        "domain": "emp.de",
+        "type": "online",
+        "schema_desc": "Deutscher Online-Shop EMP mit Fruit of the Loom T-Shirts, Hoodies und Sweatshirts in Euro."
+      },
+      {
+        "name": "Universal.at",
+        "info": "Österreichisches Versandhaus mit rund 37 Fruit of the Loom Artikeln zum Zeitpunkt der Recherche: T-Shirt-Packs (2er bis 6er ab ca. 19,99 €), Polos ab ca. 16,99 €, Sweatshirts ab ca. 21,99 € und Jogginghosen um 29,99 €, inklusive Lady-Fit-Modelle. Gute Anlaufstelle für Kunden in Österreich, die im Inland bestellen möchten.",
+        "area": "Online · Österreich",
+        "url": "https://www.universal.at/mode/modemarken/fruit-of-the-loom/",
+        "domain": "universal.at",
+        "type": "online",
+        "schema_desc": "Österreichisches Online-Versandhaus Universal mit Fruit of the Loom T-Shirt-Packs, Polos, Sweatshirts und Jogginghosen."
+      },
+      {
+        "name": "Textilwaren24",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Deutscher Online-Händler für unbedruckte Textilien mit dem breiten Fruit of the Loom Sortiment: Valueweight-, Premium- und Iconic-T-Shirts, Polos, Sweatshirts, Hoodies, Jogginghosen, Shorts und Kindermodelle. Basic-T-Shirts ab ca. 2,24 €, Premium-Kapuzenjacken um 24–25 €. Versand per DHL Paket, Zahlung per PayPal oder Vorkasse; Versandkosten laut Shopbedingungen.",
+        "area": "Online · Deutschland & EU",
+        "url": "https://www.textilwaren24.eu/fruit-of-the-loom",
+        "domain": "textilwaren24.eu",
+        "type": "online",
+        "schema_desc": "Deutscher Online-Händler Textilwaren24 mit dem breiten Fruit of the Loom Sortiment zu niedrigen Stückpreisen."
+      },
+      {
+        "name": "Wordans Deutschland",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Online-Großhändler für Blanko-Textilien mit rund 175 Fruit of the Loom Artikeln — T-Shirts, Sweatshirts, Polos, Jogginghosen und Kinderkleidung — zu Staffelpreisen ohne Mindestbestellmenge. Kinder-T-Shirts ab ca. 1,78 €, Hoodies im Angebot um 10,65 €. Versandkostenfrei ab 79 €; für Österreich gibt es wordans.at.",
+        "area": "Online · Deutschland & Österreich",
+        "url": "https://www.wordans.de/fruit-of-the-loom-b6348",
+        "domain": "wordans.de",
+        "type": "online",
+        "schema_desc": "Online-Großhändler Wordans mit Fruit of the Loom Blanko-Textilien zu Staffelpreisen für Deutschland und Österreich."
+      },
+      {
+        "name": "Textil-Großhandel.eu",
+        "info": "Deutscher Textilgroßhändler und Textildrucker mit dem kompletten Fruit of the Loom Katalog — Valueweight, Premium, Iconic, Lightweight und Classic — sowie eigenem Siebdruck, Stick, Flex- und Flockdruck über einen Druckkonfigurator. Großhandelspreise werden erst nach Registrierung angezeigt, versandkostenfrei ab 150 € innerhalb Deutschlands; passt daher eher zu Unternehmen und Vereinen als zu Privatkunden.",
+        "area": "Online · Deutschland & EU",
+        "url": "https://www.textil-grosshandel.eu/fruit-of-the-loom/",
+        "domain": "textil-grosshandel.eu",
+        "type": "online",
+        "schema_desc": "Deutscher Textilgroßhändler und Drucker mit dem kompletten Fruit of the Loom Sortiment für Firmen- und Großbestellungen."
+      },
+      {
+        "name": "Aulenbacher",
+        "info": "Textilgroßhändler aus dem Saarland mit rund 153 Fruit of the Loom Artikeln für Damen, Herren und Kinder sowie eigenem Druck- und Stickservice. Verkauf ausschließlich an Wiederverkäufer, Gewerbetreibende, öffentliche Institutionen und Vereine; Preise (exkl. MwSt.) sind erst nach dem Login sichtbar. Interessant für Druckereien, Firmen und Vereine mit größeren Stückzahlen.",
+        "area": "Online · Deutschland (nur B2B)",
+        "url": "https://www.aulenbacher.de/marke/fruit-of-the-loom/",
+        "domain": "aulenbacher.de",
+        "type": "online",
+        "schema_desc": "Deutscher B2B-Textilgroßhändler Aulenbacher mit Fruit of the Loom Sortiment und Druck- und Stickservice für Gewerbekunden und Vereine."
+      }
+    ],
+    "table_heading": "Alle Fruit of the Loom Händler in Deutschland & Österreich",
+    "price_guide": {
+      "label": "Preisübersicht 2026",
+      "h2": "Was kostet Fruit of the Loom in Deutschland?",
+      "intro": "Die Preise für Fruit of the Loom schwanken in Deutschland und Österreich stark — je nach Modell, Händler und ob Sie ein Einzelstück oder ein Multipack kaufen. Hier sehen Sie, womit Sie 2026 in Euro inkl. MwSt. rechnen müssen — mit dem niedrigsten geprüften Preis je Kategorie.",
+      "sections": [
+        {
+          "h3": "Fruit of the Loom T-Shirts (Preis pro Stück)",
+          "p": "Ein klassisches Fruit of the Loom T-Shirt kostet bei deutschen Händlern etwa 5–15 €, je nach Modell (Valueweight, Original, Heavy Cotton oder Iconic) und Bezugsquelle. Die günstigste geprüfte Option für Einzelstücke ist Marmalade Co.: Dort kostet das Unisex-T-Shirt in 16 Farben und den Größen XS–XXXL <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">ab 6,95 €</a> — und 6,26 € pro Stück ab fünf Stück. Langarmshirts beginnen bei 8,95 €, V-Neck-Shirts und Tanktops bei rund 6,95 €."
+        },
+        {
+          "h3": "Fruit of the Loom Hoodies und Sweatshirts",
+          "p": "Hoodies sind die beliebtesten Sweats der Marke in Deutschland. Rechnen Sie bei den meisten Händlern mit 20–40 € für den Classic Hooded Sweat; bei Marmalade Co. kostet der <a href=\"{{SHOP:/collections/hoodies-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">Hoodie ab 20,95 €</a> (9 Farben, XS–XXXL; 18,86 € pro Stück ab fünf Stück) und die Sweatjacke mit Reißverschluss ab 27,95 €. Das <a href=\"{{SHOP:/collections/sweatshirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">Sweatshirt mit Rundhals beginnt bei 16,95 €</a> in 10 Farben. Beide bestehen aus dem 280 g/m² schweren Stoff aus 80 % Baumwolle und 20 % Polyester, der die Classic-Linie zum Dauerbrenner bei Schulen und Vereinen gemacht hat."
+        },
+        {
+          "h3": "Jogginghosen und Jogginganzüge",
+          "p": "Fruit of the Loom Jogginghosen gibt es in zwei Varianten — mit Bündchen (64-026) und mit offenem Beinabschluss (64-032). Übliche Preise in Deutschland liegen bei 15–30 € pro Hose; Marmalade Co. listet <a href=\"{{SHOP:/collections/joggingbukser-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">Jogginghosen ab 16,95 €</a>, häufig reduziert auf rund 11,95 €. Zusammen mit einem passenden Hoodie oder Sweatshirt kostet ein kompletter <a href=\"{{SHOP:/collections/joggingsaet-herre-fruit-of-the-loom}}\" rel=\"sponsored nofollow\" target=\"_blank\">Jogginganzug</a> rund 34–38 €, noch vor Mengenrabatt."
+        },
+        {
+          "h3": "Poloshirts, Langarmshirts und Shorts",
+          "p": "Das Fruit of the Loom Original Polo, ein Piqué aus 100 % Baumwolle, das als Arbeitskleidung beliebt ist, kostet in Deutschland etwa 10–20 €; bei Marmalade Co. gibt es es <a href=\"{{SHOP:/collections/poloshirt-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">ab 10,95 €</a>. Langarmshirts der Valueweight-Linie kosten ab 8,95 €, Shorts für Sommer oder Training <a href=\"{{SHOP:/collections/shorts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">ab 9,95 €</a>. Kindergrößen (104–164 cm) sind meist ein bis zwei Euro günstiger als die Erwachsenenmodelle."
+        },
+        {
+          "h3": "Bester Preis: Marmalade Co. empfohlen",
+          "p": "Von allen verglichenen Händlern bietet Marmalade Co. durchgehend die niedrigsten Einzelpreise für Fruit of the Loom in Deutschland und Österreich — und ist der einzige Shop auf unserer Liste mit einer schriftlichen Preisgarantie: Finden Sie das identische Produkt woanders günstiger, wird der Preis angepasst (Black-Friday-Aktionen und ausverkaufte Artikel ausgenommen). Dazu kommen 7 € DHL-Versandpauschale, Lieferung in 2–3 Werktagen und 5–10 % Mengenrabatt — damit ist der Shop unsere klare Nr. 1 für alle, die online bestellen. <a href=\"{{SHOP:/collections/bestsellers}}\" rel=\"sponsored nofollow\" target=\"_blank\">Aktuelle Bestseller ansehen</a>."
+        }
+      ]
+    },
+    "quality_guide": {
+      "label": "Qualitätscheck",
+      "h2": "Ist Fruit of the Loom gute Qualität?",
+      "intro": "Fruit of the Loom steht für solide Qualität zum kleinen Preis. Die 1851 gegründete Marke hat über 170 Jahre Geschichte, wird in mehr als 100 Ländern verkauft und gehört seit 2002 zu Berkshire Hathaway. Hier ein ehrlicher Blick darauf, was Sie für Ihr Geld bekommen.",
+      "sections": [
+        {
+          "h3": "Material und Verarbeitung",
+          "p": "Die klassischen T-Shirts bestehen aus 100 % Baumwolle — in den Premium-Linien ringgesponnen oder gekämmt — in Grammaturen von ca. 145 g/m² (Original T) und 165 g/m² (Valueweight T) bis ca. 195 g/m² (Heavy Cotton T). Die Classic-Shirts sind als Schlauchware ohne Seitennähte gestrickt. Die Classic-Sweats wiegen 280 g/m² und bestehen aus 80 % Baumwolle und 20 % Polyester, oft aus Belcoro®-Garn für eine glattere Druckoberfläche. Meliertes enthält Polyester, und 100 % Baumwolle kann bei einer heißen ersten Wäsche einige Prozent einlaufen — daher bei 30–40 °C waschen und nicht heiß trocknen."
+        },
+        {
+          "h3": "Im Vergleich mit Gildan, B&C und Premium-Marken",
+          "p": "Gegenüber direkten Konkurrenten wie Gildan (Heavy Cotton 5000, Softstyle 64000), B&C, Russell und Sol's liegt Fruit of the Loom im selben mittleren Preissegment für Basics, mit einem etwas weicheren Griff in den Premium-Linien und einer der größten Farbpaletten in Europa. Bio-orientierte Marken wie Stanley/Stella und Modelabels wie Champion kosten deutlich mehr für oft ähnliche Stoffgewichte. Für Alltag, Merchandise und Arbeitskleidung ist Fruit of the Loom eine der Marken mit dem besten Preis-Leistungs-Verhältnis."
+        },
+        {
+          "h3": "Die Fabrik in Marokko und der Direktbezug",
+          "p": "Ein großer Teil des Europa-Sortiments entsteht in der eigenen Fruit of the Loom Fabrik in Marokko, wo Garn gesponnen, gestrickt, gefärbt, zugeschnitten und genäht wird — unter einem Dach, mit über 1.000 Beschäftigten, automatisiertem Zuschnitt und wassersparender Färbung. Marmalade Co. kauft direkt in dieser Fabrik ein und holt die Ware dort ab, was die Lieferkette auf drei Stufen (Fabrik → Händler → Kunde) statt der üblichen fünf verkürzt. Das ist der Hauptgrund, warum die Preise dort niedriger sind als bei den meisten anderen Händlern."
+        },
+        {
+          "h3": "Wo Sie echte Fruit of the Loom Ware kaufen",
+          "p": "Damit Sie Originalware mit korrekten Etiketten, Größen und OEKO-TEX-Zertifikat erhalten, kaufen Sie bei offiziellen oder autorisierten Händlern wie dem EU-Shop der Marke oder Marmalade Co., oder bei etablierten Großhändlern und Versandhäusern. Auf Marktplätzen wie Amazon und eBay prüfen Sie vor der Bestellung, wer der Verkäufer ist und welche Rückgabebedingungen gelten. Marmalade Co. ist der einzige Online-Händler auf unserer Liste mit Preisgarantie — so haben Sie die Sicherheit, für ein Originalprodukt den niedrigsten geprüften Preis zu zahlen."
+        }
+      ]
+    },
+    "faq_h2": "Häufige Fragen zu Fruit of the Loom in Deutschland",
+    "faq": [
+      {
+        "q": "Wo kann ich Fruit of the Loom in Deutschland am günstigsten kaufen?",
+        "a_html": "Die günstigste geprüfte Option für Einzelstücke ist <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a>, ein offizieller Fruit of the Loom Händler mit T-Shirts ab 6,95 €, Sweatshirts ab 16,95 € und Hoodies ab 20,95 € inkl. MwSt., dazu Preisgarantie und 5–10 % Mengenrabatt. Versand aus Dänemark mit DHL für pauschal 7 €, Lieferung in 2–3 Werktagen nach Deutschland und Österreich. Für große Mengen unbedruckter Textilien können Großhändler wie Textilwaren24, Wordans oder Textil-Großhandel.eu konkurrenzfähig sein."
+      },
+      {
+        "q": "Ist Fruit of the Loom gute Qualität?",
+        "a_html": "Ja — für den Preis ist es eine der zuverlässigsten Basic-Marken in Europa. Die klassischen T-Shirts bestehen aus 100 % Baumwolle mit ca. 145–195 g/m², die Classic-Sweats aus einem robusten 280 g/m² Baumwoll-Polyester-Gemisch, und die Premium-Linien nutzen gekämmte, ringgesponnene Baumwolle mit OEKO-TEX-Zertifikat. Die Marke blickt auf über 170 Jahre Geschichte zurück und gehört seit 2002 zu Berkshire Hathaway. Bei einer heißen ersten Wäsche sind einige Prozent Einlaufen möglich, daher bei 30–40 °C waschen."
+      },
+      {
+        "q": "Was kosten Fruit of the Loom T-Shirts?",
+        "a_html": "In Deutschland kostet ein Fruit of the Loom T-Shirt je nach Modell und Händler typischerweise 5–15 €. Bei Marmalade Co. kostet das Unisex-T-Shirt <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">ab 6,95 €</a> in 16 Farben (XS–XXXL) und sinkt ab fünf Stück auf 6,26 € pro Shirt. Langarmshirts beginnen bei 8,95 €, V-Neck-Shirts und Tanktops bei rund 6,95 €. Multipacks bei Amazon und OTTO können pro Stück günstiger sein, schränken aber meist die Farb- und Größenwahl ein."
+      },
+      {
+        "q": "Wie lange dauert die Lieferung nach Deutschland und Österreich?",
+        "a_html": "Das hängt vom Händler ab. Marmalade Co. versendet innerhalb von 0–1 Werktag und liefert mit DHL in voraussichtlich 2–3 Werktagen nach Deutschland und Österreich (ebenso in neun weitere EU-Länder), mit Sendungsverfolgung per E-Mail und 7 € Versandpauschale. Bei Amazon und OTTO richtet sich die Lieferzeit nach Verkäufer und Lagerort; Universal.at liefert innerhalb Österreichs. Bedruckte Bestellungen bei Textil-Großhandel.eu oder Aulenbacher dauern wegen der Produktion länger."
+      },
+      {
+        "q": "Fruit of the Loom oder Gildan — was ist besser?",
+        "a_html": "Beide Marken machen preiswerte Basics für Textildruck und Alltag. Gildans Heavy Cotton 5000 ist etwas schwerer und kastiger geschnitten, während die Valueweight- und Iconic-Shirts von Fruit of the Loom einen etwas weicheren Griff und eine europäischere Passform haben; die Classic-Sweats beider Marken sind ähnliche 280 g/m² Mischgewebe. In Deutschland ist Fruit of the Loom breiter verfügbar und pro Stück oft günstiger — bei Marmalade Co. kostet ein T-Shirt ab 6,95 € und ein Hoodie ab 20,95 €."
+      },
+      {
+        "q": "Kann ich Fruit of the Loom Kleidung bedrucken lassen?",
+        "a_html": "Ja. Fruit of the Loom ist eine der am häufigsten verwendeten Marken für Siebdruck, DTG-Druck und Stick, dank des glatten Belcoro®-Garns und der breiten Farbpalette. Textil-Großhandel.eu und Aulenbacher bedrucken oder besticken die Textilien für Sie, während Textilwaren24 und Wordans Blankoware für Ihre eigene Druckerei liefern. Wenn Sie unbedruckte Ware in größerer Menge bei Marmalade Co. bestellen, hält der Mengenrabatt von 5–10 % die Kosten pro bedrucktem Stück für Vereine, Schulen und Firmen niedrig."
+      },
+      {
+        "q": "Wem gehört Fruit of the Loom?",
+        "a_html": "Fruit of the Loom gehört seit 2002 zu Berkshire Hathaway, der Investmentgesellschaft von Warren Buffett. Die Marke wurde 1851 in Rhode Island (USA) von den Brüdern Knight gegründet, ließ 1871 ihr berühmtes Früchte-Etikett eintragen — eine der ältesten Marken der USA — und hat ihren Sitz in Bowling Green, Kentucky. Das Europageschäft führt Fruit of the Loom International von Kaiserslautern aus, mit einer großen Fabrik in Marokko."
+      }
+    ],
+    "about": {
+      "label": "Über diese Seite",
+      "h2": "Über fruitotl.com",
+      "p1": "fruitotl.com ist ein unabhängiger, mehrsprachiger Ratgeber, der Verbrauchern und Unternehmen in ganz Europa hilft, die besten Fruit of the Loom Händler, Preise und Produkte zu finden. Wir prüfen Händler, vergleichen Euro-Preise und aktualisieren die Liste regelmäßig, damit Sie einen verlässlichen Überblick bekommen.",
+      "p2": "Die Seite ist nicht mit Fruit of the Loom, Fruit of the Loom International oder Berkshire Hathaway verbunden. Einige Links auf der Seite enthalten Affiliate-Tracking, über das wir eine kleine Provision erhalten können, wenn Sie etwas kaufen — ohne Mehrkosten für Sie.",
+      "h3": "So bewerten wir Händler",
+      "p3": "Unsere Rangfolge beruht auf drei Kriterien: Preis (wir vergleichen Listenpreise identischer Produkte über alle Händler hinweg), Verfügbarkeit (Sortiment, lieferbare Größen und Farben sowie Lieferzeit nach Deutschland und Österreich) und Kundenerlebnis (Rückgabe, Preisgarantie und Service). Preise und Bestände ändern sich — prüfen Sie vor dem Kauf immer den aktuellen Preis beim Händler."
+    },
+    "privacy": {
+      "label": "Rechtliches",
+      "h2": "Datenschutz",
+      "p1": "fruitotl.com ist eine unabhängige Informationsseite. Wir erheben keine personenbezogenen Daten über unsere Besucher und setzen keine Cookies für Tracking oder Marketing ein.",
+      "p2": "Die Seite enthält Links zu externen Händlern. Einige dieser Links tragen Affiliate-Tracking-Codes, über die wir eine kleine Provision erhalten können, wenn Sie einen Kauf tätigen — ohne Mehrkosten für Sie. Wir haben keine redaktionellen Vereinbarungen mit den gelisteten Händlern; unsere Empfehlungen beruhen auf Preis, Verfügbarkeit und Kundenerlebnis.",
+      "p3": "Die Seite ist nicht mit Fruit of the Loom, Fruit of the Loom International oder Berkshire Hathaway verbunden. Fruit of the Loom® ist eine eingetragene Marke von Fruit of the Loom, Inc.",
+      "p4": "Fragen? E-Mail:"
+    },
+    "teaser_keys": [
+      "size-guide",
+      "t-shirts",
+      "hoodies",
+      "sweatshirts",
+      "cheapest",
+      "printing",
+      "workwear",
+      "team-hoodies",
+      "sweatpants",
+      "where-to-buy"
+    ],
+    "brand_desc": "Amerikanische Basic-Marke, gegründet 1851, im Besitz von Berkshire Hathaway, bekannt für preiswerte Baumwoll-T-Shirts, Hoodies, Sweatshirts und Jogginghosen, verkauft in über 100 Ländern.",
+    "website_desc": "Unabhängiger mehrsprachiger Ratgeber zu Fruit of the Loom in Deutschland und Österreich: geprüfte Händler, aktuelle Euro-Preise, Größentabellen, Qualitätschecks und Kaufratgeber.",
+    "org_desc": "Unabhängiges Redaktionsteam, das Händlervergleiche, Preisübersichten und Produktratgeber zu Fruit of the Loom Bekleidung in Europa veröffentlicht.",
+    "knows_about": [
+      "Fruit of the Loom",
+      "Fruit of the Loom Händler in Deutschland",
+      "Fruit of the Loom Preise",
+      "Fruit of the Loom Größentabelle",
+      "Blanko-Textilien für den Textildruck",
+      "Baumwoll-T-Shirts, Hoodies und Sweatshirts"
+    ],
+    "date_modified": "2026-09-11"
+  }
+}

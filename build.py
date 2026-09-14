@@ -86,7 +86,7 @@ def expand(text, lang, site, articles_by_key, ctx):
         key, label = m.group(1), m.group(2)
         art = articles_by_key.get(key)
         if not art:
-            ctx["errors"].append(f"[{lang}] unknown LINK key '{key}'")
+            (ctx["errors"] if lang == "en" else ctx["warnings"]).append(f"[{lang}] LINK key '{key}' has no article (yet)")
             return label
         return f'<a href="{art["slug"]}">{label}</a>'
     text = re.sub(r"\{\{LINK:([^|}]+)\|([^}]+)\}\}", link, text)
@@ -439,7 +439,7 @@ def build_index(site, languages, articles_by_key, all_sites, ctx):
     X = lambda s: expand(s, lang, site, articles_by_key, ctx)
     url = page_url(site)
     per = {L["lang"]: page_url(L) for L in languages}
-    alts = alternates_for(languages, per)
+    alts = alternates_for(languages, per) + [("da", "https://fruitoftheloom.dk/")]   # Danish sister site
     target = lambda L: (f"/{L['dir']}/" if L["dir"] else "/")
 
     retailers = ix["retailers"]
@@ -537,10 +537,14 @@ def build_index(site, languages, articles_by_key, all_sites, ctx):
 </div></section>
 """)
     cards = []
-    for k in ix["teaser_keys"]:
+    teaser_keys = list(ix["teaser_keys"])
+    have = [k for k in teaser_keys if k in articles_by_key]
+    if len(have) < 6:
+        teaser_keys += [k for k in articles_by_key if k not in teaser_keys][: 10 - len(have)]
+    for k in teaser_keys:
         a = articles_by_key.get(k)
         if not a:
-            ctx["errors"].append(f"[{lang}] teaser key '{k}' has no article"); continue
+            (ctx["errors"] if lang == "en" else ctx["warnings"]).append(f"[{lang}] teaser key '{k}' has no article (yet)"); continue
         cards.append(f'      <a href="{a["slug"]}" class="teaser-card"><span class="teaser-tag">{esc(a["card_tag"])}</span><strong>{esc(a["card_title"])}</strong></a>\n')
     b.append(f"""<section class="articles-teaser" id="articles"><div class="articles-teaser-inner">
   <div class="section-label">{esc(ui['articles_teaser_label'])}</div>
@@ -638,7 +642,7 @@ def build_article(site, languages, a, articles_by_key, all_sites, ctx):
     for k in a.get("related", []):
         r = articles_by_key.get(k)
         if not r:
-            ctx["errors"].append(f"[{lang}] {a['key']}: related key '{k}' missing"); continue
+            (ctx["errors"] if lang == "en" else ctx["warnings"]).append(f"[{lang}] {a['key']}: related key '{k}' missing (yet)"); continue
         if r["key"] != a["key"]:
             rel_items.append(f'      <li><a href="{r["slug"]}">{esc(r["card_title"])}</a></li>\n')
     related = f'  <div class="related"><h3>{esc(ui["related_guides"])}</h3><ul>\n{"".join(rel_items)}    </ul></div>\n' if rel_items else ""
@@ -718,6 +722,8 @@ def main():
         adir = os.path.join(d, "articles")
         for fn in sorted(os.listdir(adir)) if os.path.isdir(adir) else []:
             if fn.endswith(".json"): arts.append(read_json(os.path.join(adir, fn)))
+        if not arts:
+            print(f"skip  language '{L['lang']}' has no articles yet"); continue
         validate(site, arts, ctx)
         arts.sort(key=lambda a: (a.get("order", 999), a.get("date_published","")), reverse=False)
         all_sites[L["lang"]] = {"site": site, "articles": arts, "articles_by_key": {a["key"]: a for a in arts}}
@@ -734,7 +740,7 @@ def main():
         d = site["dir"]
         prefix = f"{d}/" if d else ""
         pages[f"{prefix}index.html"] = build_index(site, langs, abk, all_sites, ctx)
-        urls.append((page_url(site), site["index"].get("date_modified", TODAY), "1.0", "weekly", alternates_for(langs, {x["lang"]: page_url(x) for x in langs})))
+        urls.append((page_url(site), site["index"].get("date_modified", TODAY), "1.0", "weekly", alternates_for(langs, {x["lang"]: page_url(x) for x in langs}) + [("da", "https://fruitoftheloom.dk/")]))
         pages[f"{prefix}{site['articles_slug']}.html"] = build_articles_list(site, langs, arts, abk, all_sites, ctx)
         urls.append((page_url(site, site["articles_slug"]), max([a["date_modified"] for a in arts] or [TODAY]), "0.9", "weekly", alternates_for(langs, {x["lang"]: page_url(x, x["articles_slug"]) for x in langs})))
         for a in arts:

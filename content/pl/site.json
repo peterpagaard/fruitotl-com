@@ -1,0 +1,313 @@
+{
+  "articles_slug": "poradniki",
+  "ui": {
+    "logo_sub": "Przewodnik po sklepach i cenach · Polska",
+    "nav_retailers": "Sklepy",
+    "nav_prices": "Ceny",
+    "nav_articles": "Poradniki",
+    "nav_faq": "FAQ",
+    "menu_open": "Otwórz menu",
+    "language_label": "Język",
+    "breadcrumb_home": "Strona główna",
+    "quick_answer": "Krótka odpowiedź",
+    "back_to_articles": "Wróć do wszystkich poradników",
+    "read_article": "Czytaj poradnik",
+    "all_articles": "Zobacz wszystkie poradniki",
+    "related_guides": "Powiązane poradniki",
+    "faq_heading": "Najczęściej zadawane pytania",
+    "updated_label": "Aktualizacja",
+    "search_placeholder": "Szukaj po nazwie, miejscu lub typie…",
+    "search_label": "Szukaj sklepów",
+    "showing_all": "Wyświetlamy wszystkie sklepy: {n}",
+    "showing_n": "Wyświetlamy {n} z {total} sklepów",
+    "col_retailer": "Sklep",
+    "col_area": "Kraj / miejsce",
+    "col_website": "Strona www",
+    "col_type": "Typ",
+    "badge_online": "Online",
+    "badge_store": "Sklep stacjonarny",
+    "badge_chain": "Sieć",
+    "tag_recommended": "Polecamy",
+    "tag_cheapest": "Najtaniej",
+    "tag_fast": "Dostawa 2–3 dni",
+    "tag_store": "Sklep stacjonarny",
+    "tag_lowprice": "Niska cena",
+    "mobile_cta": "Zobacz najniższe ceny w Polsce",
+    "footer_tagline": "Niezależny przewodnik po sklepach i cenach.",
+    "not_affiliated": "Serwis nie jest powiązany z Fruit of the Loom ani Fruit of the Loom International.",
+    "articles_teaser_label": "Wiedza i poradniki",
+    "articles_teaser_heading": "Poradniki Fruit of the Loom",
+    "articles_teaser_p": "{n} szczegółowych poradników — od koszulek, bluz z kapturem i spodni dresowych po tabele rozmiarów, jakość, nadruki, odzież firmową i to, gdzie w Polsce kupić najtaniej.",
+    "articles_hero_eyebrow": "Wiedza · Poradniki · Porady",
+    "articles_h1_html": "<span class=\"hl\">Fruit of the Loom</span> — poradniki i artykuły",
+    "articles_hero_p": "Wszystko, co warto wiedzieć o Fruit of the Loom — modele, rozmiary, ceny, jakość, nadruki i najlepsze miejsca zakupu w Polsce.",
+    "articles_title": "Fruit of the Loom – poradniki: modele, rozmiary, ceny, gdzie kupić 2026",
+    "articles_description": "Wszystkie poradniki fruitotl.com w jednym miejscu: koszulki, bluzy i dresy Fruit of the Loom, tabele rozmiarów, jakość, nadruki i najtańsze sklepy w Polsce 2026.",
+    "articles_keywords": "fruit of the loom poradnik, fruit of the loom rozmiary, fruit of the loom ceny, bluza fruit of the loom, koszulka fruit of the loom, gdzie kupić fruit of the loom",
+    "not_found_title": "Strona nie została znaleziona",
+    "not_found_p": "Strona, której szukasz, nie istnieje lub została przeniesiona. Zacznij od strony głównej, aby znaleźć sklepy, ceny i poradniki.",
+    "not_found_btn": "Przejdź na stronę główną",
+    "og_alt": "Fruit of the Loom w Polsce – najniższe ceny i najlepsze sklepy"
+  },
+  "index": {
+    "title": "Fruit of the Loom w Polsce 2026 – najniższe ceny i sklepy",
+    "description": "Gdzie kupić Fruit of the Loom w Polsce w 2026: 10 sprawdzonych sklepów w jednym miejscu. Koszulki od 6,95 €, bluzy z kapturem od 20,95 €, dostawa DHL w 2–3 dni.",
+    "keywords": "fruit of the loom, fruit of the loom polska, fruit of the loom sklep, koszulka fruit of the loom, bluza fruit of the loom, fruit of the loom ceny, gdzie kupić fruit of the loom, fruit of the loom hurtownia, fruit of the loom tanio, spodnie dresowe fruit of the loom",
+    "hero_eyebrow": "Polska · Aktualizacja 2026",
+    "h1_html": "<span class=\"hl\">Fruit of the Loom</span> w Polsce —<br>najniższe ceny i najlepsze sklepy",
+    "hero_p": "Kompletny przewodnik po zakupach Fruit of the Loom w Polsce — sprawdzone sklepy, aktualne ceny w EUR i PLN, czasy dostawy i uczciwe rekomendacje.",
+    "stats": [
+      {
+        "n": "10",
+        "label": "Sprawdzonych sklepów"
+      },
+      {
+        "n": "#1",
+        "label": "Nasz wybór: Marmalade Co."
+      },
+      {
+        "n": "170+",
+        "label": "Lat historii marki"
+      },
+      {
+        "n": "2026",
+        "label": "Ostatnia aktualizacja"
+      }
+    ],
+    "breadcrumb_current": "Sklepy z Fruit of the Loom w Polsce",
+    "quick_answer": "Fruit of the Loom kupisz w Polsce w 10 sprawdzonych przez nas sklepach — online w <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a> (nasz wybór nr 1: oficjalny sprzedawca, gwarancja najniższej ceny, wysyłka DHL za stałe 7 € i dostawa do Polski w 2–3 dni robocze), w oficjalnym sklepie marki na Europę, na Amazon.pl i Allegro, w polskich sklepach OwocowaKoszulka.pl, T-shirt.pl i Artkoszulka.pl oraz w hurtowniach odzieży reklamowej Albafruit, Hurt.Koszulkowo i Logos Dystrybucja. Typowe ceny w Marmalade Co.: koszulki od 6,95 € (ok. 30 zł), bluzy bez kaptura od 16,95 €, bluzy z kapturem od 20,95 € (ok. 90 zł) — wszystko z VAT.",
+    "intro_label": "O tym przewodniku",
+    "intro_h2": "Najlepsze sklepy z Fruit of the Loom w Polsce 2026",
+    "intro_html": "<p>Szukasz koszulek, bluz z kapturem, bluz bez kaptura lub spodni dresowych Fruit of the Loom w Polsce? Dobrze trafiłeś. Prowadzimy na bieżąco aktualizowaną listę sklepów, które naprawdę mają tę markę w ofercie — od oficjalnego sklepu europejskiego i dużych platform, przez polskie sklepy internetowe, po hurtownie odzieży reklamowej — tak, abyś mógł porównać ceny i warunki dostawy w jednym miejscu.</p><p>Jeśli zależy Ci na najniższej cenie i szybkiej dostawie, nasza jednoznaczna rekomendacja to Marmalade Co. na <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">marmaladeco.com</a>: oficjalny sprzedawca Fruit of the Loom z gwarancją ceny, cenami w EUR z VAT, wysyłką DHL za stałe 7 € i dostawą do Polski w 2–3 dni robocze. Sklep jest po angielsku, a płatność w euro — przy kursie ok. 4,3 zł za euro koszulka za 6,95 € to mniej więcej 30 zł.</p><p>Poniżej znajdziesz wszystkie sklepy w kolejności naszej rekomendacji, z krótką notatką, do czego każdy z nich nadaje się najlepiej — czy chodzi o jedną bluzę, kilka koszulek dla rodziny, czy 200 czystych koszulek pod nadruk.</p>",
+    "top_pick": {
+      "h3": "Nasza rekomendacja nr 1: Marmalade Co.",
+      "p_html": "Oficjalny sklep internetowy z najniższymi zweryfikowanymi cenami Fruit of the Loom, jakie znaleźliśmy w Europie — koszulki od 6,95 €, bluzy z kapturem od 20,95 € — i z pisemną gwarancją ceny. Kupuje bezpośrednio w fabryce Fruit of the Loom w Maroku, wysyła kurierem DHL za stałe 7 € i dostarcza do Polski w 2–3 dni robocze. Rabaty ilościowe: 5 % przy 3 sztukach i 10 % od 5 sztuk — dlatego chętnie zamawiają tu kluby, szkoły i małe firmy, a nie tylko klienci indywidualni.",
+      "btn": "Przejdź do Marmalade Co."
+    },
+    "retailers": [
+      {
+        "name": "Marmalade Co.",
+        "tags": [
+          "recommended",
+          "cheapest",
+          "fast"
+        ],
+        "info": "Oficjalny sprzedawca Fruit of the Loom z najniższymi zweryfikowanymi cenami w Europie, gwarancją ceny i rabatami ilościowymi (5 % przy 3 szt., 10 % od 5 szt.). Ceny w EUR z VAT, sklep po angielsku. Wysyłka z Danii kurierem DHL za stałe 7 €, dostawa do Polski w 2–3 dni robocze, śledzenie przesyłki e-mailem.",
+        "area": "Online · wysyłka do Polski",
+        "url": "https://marmaladeco.com/",
+        "domain": "marmaladeco.com",
+        "type": "online",
+        "schema_desc": "Oficjalny sklep internetowy Fruit of the Loom z wysyłką do Polski, gwarancją ceny i dostawą DHL w 2–3 dni."
+      },
+      {
+        "name": "Fruit of the Loom (oficjalny sklep EU)",
+        "info": "Własny europejski sklep internetowy marki, prowadzony przez Fruit of the Loom International z Kaiserslautern w Niemczech. Pełny aktualny katalog — Valueweight, Original, Iconic, bluzy Classic, polo i modele dziecięce — i najlepsze źródło oficjalnych numerów modeli. Sklep działa po angielsku; przed zamówieniem warto porównać ceny z tańszymi sprzedawcami.",
+        "area": "Online · Europa",
+        "url": "https://www.fruitoftheloom.eu/shop/en/",
+        "domain": "fruitoftheloom.eu",
+        "type": "online",
+        "schema_desc": "Oficjalny europejski sklep internetowy Fruit of the Loom International z pełnym aktualnym asortymentem."
+      },
+      {
+        "name": "Amazon.pl",
+        "info": "Polska wersja Amazona z cenami w złotych i dostawą na terenie Polski. W chwili pisania wyszukiwarka pokazuje dziesiątki tysięcy wyników dla Fruit of the Loom — głównie wielopaki koszulek (np. Iconic Tee i Heavy Cotton po 5 sztuk za ok. 72–80 zł), bluzy i odzież dziecięca — sprzedawane przez Amazon i sprzedawców zewnętrznych. Ceny i koszt dostawy zależą od sprzedawcy.",
+        "area": "Online · Polska",
+        "url": "https://www.amazon.pl/s?k=fruit+of+the+loom",
+        "domain": "amazon.pl",
+        "type": "online",
+        "schema_desc": "Polska platforma Amazon z szerokim wyborem koszulek, bluz i wielopaków Fruit of the Loom w złotych."
+      },
+      {
+        "name": "Allegro",
+        "info": "Największa polska platforma handlowa z tysiącami ofert Fruit of the Loom od wielu sprzedawców: pojedyncze koszulki już od kilkunastu złotych, bluzy z kapturem, spodnie dresowe i zestawy. Dzięki Allegro Smart! wiele ofert ma darmową dostawę do paczkomatu. Sprawdzaj ocenę sprzedawcy i to, czy oferta dotyczy oryginalnego produktu w konkretnym rozmiarze i kolorze.",
+        "area": "Online · Polska",
+        "url": "https://allegro.pl/listing?string=fruit+of+the+loom",
+        "domain": "allegro.pl",
+        "type": "online",
+        "schema_desc": "Polska platforma Allegro z tysiącami ofert odzieży Fruit of the Loom od różnych sprzedawców."
+      },
+      {
+        "name": "OwocowaKoszulka.pl",
+        "info": "Polski sklep internetowy z Prudnika wyspecjalizowany w Fruit of the Loom: koszulki męskie, damskie i dziecięce, polo, bluzy, spodnie i czapki. W chwili pisania koszulki męskie od ok. 15,90 zł, bluzy z kapturem ok. 80–100 zł, 5-paki od ok. 110 zł. Paczkomat 12,99 zł, kurier 14,99 zł, darmowa wysyłka od 250 zł. Dobra opcja, jeśli wolisz płacić w złotych.",
+        "area": "Online · Polska",
+        "url": "https://www.owocowakoszulka.pl/",
+        "domain": "owocowakoszulka.pl",
+        "type": "online",
+        "schema_desc": "Polski sklep internetowy wyspecjalizowany w odzieży Fruit of the Loom z cenami w złotych i wysyłką na terenie kraju."
+      },
+      {
+        "name": "T-shirt.pl",
+        "info": "Sklep internetowy ze Szczecina z koszulkami gładkimi i z nadrukiem. Dział Fruit of the Loom obejmuje ok. 20 pozycji — koszulki męskie, damskie i dziecięce, w tym Heavy Cotton i duże rozmiary do 5XL — w cenach ok. 12–26 zł za sztukę brutto. Darmowa dostawa od 250 zł.",
+        "area": "Online · Szczecin",
+        "url": "https://t-shirt.pl/pl/producers/fruit-of-the-loom-1252582909.html",
+        "domain": "t-shirt.pl",
+        "type": "online",
+        "schema_desc": "Szczeciński sklep internetowy z koszulkami Fruit of the Loom bez nadruku i z nadrukiem."
+      },
+      {
+        "name": "Artkoszulka.pl",
+        "info": "Polski sklep z odzieżą reklamową, w którym Fruit of the Loom to jedna z głównych marek — ok. 55 modeli: koszulki (dziecięce od ok. 11 zł), polo od ok. 35 zł, bluzy z kapturem od ok. 73 zł, spodnie dresowe i czapki. Oferuje też nadruki. Darmowa dostawa od 70 zł według informacji na stronie.",
+        "area": "Online · Polska",
+        "url": "https://artkoszulka.pl/pl/producers/fruit-of-the-loom-1142347122.html",
+        "domain": "artkoszulka.pl",
+        "type": "online",
+        "schema_desc": "Polski sklep internetowy z odzieżą reklamową Fruit of the Loom dla klientów indywidualnych i firm."
+      },
+      {
+        "name": "Albafruit.pl (Albatros)",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Hurtownia Fruit of the Loom należąca do firmy Albatros, skierowana do drukarni, agencji reklamowych i firm. Odzież męska, damska i dziecięca — koszulki, polo, bluzy, polary, spodnie — w cenach hurtowych netto: koszulki od ok. 10,60 zł, polo ok. 30 zł, bluzy z kapturem ok. 52 zł w chwili pisania. Najbardziej opłacalna przy większych ilościach.",
+        "area": "Online · Polska (hurt)",
+        "url": "https://albafruit.pl/",
+        "domain": "albafruit.pl",
+        "type": "online",
+        "schema_desc": "Polska hurtownia odzieży reklamowej Fruit of the Loom dla firm i drukarni."
+      },
+      {
+        "name": "Hurt.Koszulkowo.com",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Hurtownia odzieży reklamowej z własnym zdobieniem: sitodruk, haft komputerowy, DTG/DTF, flex i sublimacja. Dział Fruit of the Loom obejmuje koszulki (3-pak od ok. 27 zł netto), polo od ok. 17 zł, bluzy od ok. 24 zł i spodnie dresowe od ok. 28 zł netto. Dobre miejsce, gdy chcesz zamówić gotowe koszulki z logo firmy lub klubu.",
+        "area": "Online · Polska (hurt)",
+        "url": "https://hurt.koszulkowo.com/marka/fruit-of-the-loom/",
+        "domain": "hurt.koszulkowo.com",
+        "type": "online",
+        "schema_desc": "Polska hurtownia odzieży Fruit of the Loom z sitodrukiem, haftem i nadrukiem cyfrowym."
+      },
+      {
+        "name": "Logos Dystrybucja",
+        "info": "Sklep B2B z odzieżą firmową i reklamową, w którym Fruit of the Loom ma osobny dział: koszulki od ok. 20 zł netto, polo od ok. 34 zł, bluzy od ok. 71 zł. Ceny spadają przy progach 20, 50, 80 i 120 sztuk. Oferuje nadruki i haft pod własnym logo — rozwiązanie dla firm ubierających pracowników, a nie dla pojedynczych zakupów.",
+        "area": "Online · Polska (B2B)",
+        "url": "https://sklep-logos.pl/odziez-fruit-of-the-loom",
+        "domain": "sklep-logos.pl",
+        "type": "online",
+        "schema_desc": "Polski dystrybutor odzieży firmowej Fruit of the Loom z nadrukiem i haftem dla firm."
+      }
+    ],
+    "table_heading": "Wszystkie sklepy z Fruit of the Loom w Polsce",
+    "price_guide": {
+      "label": "Ceny 2026",
+      "h2": "Ile kosztuje Fruit of the Loom w Polsce?",
+      "intro": "Ceny Fruit of the Loom różnią się mocno w zależności od modelu, sklepu i tego, czy kupujesz jedną sztukę, czy wielopak. Poniżej pokazujemy, ile trzeba zapłacić w 2026 roku — w EUR z VAT, z orientacyjnym przeliczeniem na złote (ok. 4,3 zł za euro) — i gdzie w każdej kategorii cena jest najniższa.",
+      "sections": [
+        {
+          "h3": "Koszulki Fruit of the Loom (cena za sztukę)",
+          "p": "Klasyczna koszulka Fruit of the Loom kosztuje w Polsce od kilkunastu do ok. 30 zł za sztukę w wielopaku na Allegro czy Amazon.pl, a w sklepach z odzieżą reklamową zwykle 15–26 zł. Najtańsza zweryfikowana opcja przy zakupie pojedynczych sztuk w EUR to Marmalade Co., gdzie koszulka unisex w 16 kolorach i rozmiarach XS–XXXL kosztuje <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">od 6,95 €</a> (ok. 30 zł) — a przy pięciu sztukach 6,26 € za sztukę. Koszulki z długim rękawem od 8,95 €, koszulki w serek i podkoszulki ok. 6,95 €."
+        },
+        {
+          "h3": "Bluzy z kapturem i bluzy bez kaptura",
+          "p": "Bluza z kapturem to najpopularniejszy produkt marki. W polskich sklepach Classic Hooded Sweat kosztuje zwykle 80–125 zł; w Marmalade Co. <a href=\"{{SHOP:/collections/hoodies-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">bluza z kapturem kosztuje od 20,95 €</a> (ok. 90 zł; 9 kolorów, XS–XXXL; 18,86 € za sztukę przy pięciu), a bluza rozpinana od 27,95 €. Klasyczna <a href=\"{{SHOP:/collections/sweatshirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">bluza bez kaptura zaczyna się od 16,95 €</a> (ok. 73 zł) w 10 kolorach. Obie uszyte są z dzianiny 280 g/m² (80 % bawełny / 20 % poliestru), od lat wybieranej przez szkoły i kluby."
+        },
+        {
+          "h3": "Spodnie dresowe, joggery i dresy",
+          "p": "Spodnie dresowe Fruit of the Loom występują w dwóch wersjach — ze ściągaczami (64-026) i z prostą nogawką (64-032). W Polsce kosztują zwykle 60–110 zł; Marmalade Co. ma <a href=\"{{SHOP:/collections/joggingbukser-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">spodnie dresowe od 16,95 €</a> (ok. 73 zł), często w promocji za ok. 11,95 €. Połącz je z bluzą z kapturem lub bez w tym samym kolorze i pełny <a href=\"{{SHOP:/collections/joggingsaet-herre-fruit-of-the-loom}}\" rel=\"sponsored nofollow\" target=\"_blank\">dres</a> wychodzi ok. 34–38 € (ok. 145–165 zł) przed rabatem ilościowym."
+        },
+        {
+          "h3": "Koszulki polo, długi rękaw i szorty",
+          "p": "Koszulka polo Original z piki 100 % bawełny, popularna jako odzież firmowa, kosztuje w Polsce ok. 35–50 zł; w Marmalade Co. <a href=\"{{SHOP:/collections/poloshirt-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">od 10,95 €</a> (ok. 47 zł). Koszulki Valueweight z długim rękawem od 8,95 €, a szorty na lato lub trening <a href=\"{{SHOP:/collections/shorts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">od 9,95 €</a>. Rozmiary dziecięce (104–164 cm) są zwykle o euro lub dwa tańsze od odpowiedników dla dorosłych."
+        },
+        {
+          "h3": "Najlepsza cena: polecamy Marmalade Co.",
+          "p": "Spośród wszystkich porównanych sklepów Marmalade Co. konsekwentnie oferuje najniższe ceny pojedynczych sztuk Fruit of the Loom w Europie i jako jedyny sklep na naszej liście ma pisemną gwarancję ceny: jeśli znajdziesz identyczny produkt taniej, wyrównują cenę (z wyłączeniem promocji typu Black Friday i produktów niedostępnych). Dodaj wysyłkę DHL za stałe 7 € do Polski, dostawę w 2–3 dni i rabaty 5–10 % przy większych ilościach — i masz naszego jednoznacznego faworyta dla zakupów online. <a href=\"{{SHOP:/collections/bestsellers}}\" rel=\"sponsored nofollow\" target=\"_blank\">Zobacz aktualne bestsellery</a>."
+        }
+      ]
+    },
+    "quality_guide": {
+      "label": "Przewodnik po jakości",
+      "h2": "Czy Fruit of the Loom to dobra jakość?",
+      "intro": "Fruit of the Loom słynie z solidnej jakości w niskiej cenie. Marka założona w 1851 roku ma ponad 170 lat historii, jest sprzedawana w ponad 100 krajach i od 2002 roku należy do Berkshire Hathaway. Oto uczciwe spojrzenie na to, co dostajesz za swoje pieniądze.",
+      "sections": [
+        {
+          "h3": "Materiały i wykonanie",
+          "p": "Klasyczne koszulki to 100 % bawełny — w liniach premium czesanej lub ring-spun — o gramaturze od ok. 145 g/m² (Original T) i 165 g/m² (Valueweight T) do ok. 195 g/m² (Heavy Cotton T). Klasyczne modele mają konstrukcję tubularną, bez szwów bocznych. Bluzy Classic mają 280 g/m² w mieszance 80 % bawełny / 20 % poliestru, często z przędzy Belcoro®, która daje gładszą powierzchnię pod nadruk. Kolory melanżowe zawierają poliester, a 100 % bawełna może skurczyć się o kilka procent po pierwszym gorącym praniu — pierz w 30–40 °C i unikaj suszenia w wysokiej temperaturze."
+        },
+        {
+          "h3": "Porównanie z Gildan, B&C i markami premium",
+          "p": "Na tle bezpośrednich konkurentów — Gildan (Heavy Cotton 5000, Softstyle 64000), B&C, Russell czy Sol's — Fruit of the Loom plasuje się w tym samym segmencie średnio wycenionych basiców, z nieco miększym chwytem w liniach premium i jedną z najszerszych palet kolorów w Europie. Marki ekologiczne jak Stanley/Stella i modowe jak Champion kosztują znacznie więcej za często podobną gramaturę dzianiny. Do codziennego noszenia, na merch i do odzieży firmowej Fruit of the Loom to jeden z najlepszych stosunków jakości do ceny na rynku."
+        },
+        {
+          "h3": "Fabryka w Maroku i zakupy bezpośrednio od producenta",
+          "p": "Duża część europejskiego asortymentu powstaje we własnej fabryce Fruit of the Loom w Maroku, gdzie przędza jest przędzona, dziana, farbowana, krojona i szyta pod jednym dachem przez ponad 1000 pracowników, z automatycznym krojeniem i wodooszczędnym farbowaniem. Marmalade Co. kupuje bezpośrednio w tej fabryce i tam odbiera towar, co skraca łańcuch dostaw do trzech ogniw (fabryka → sklep → klient) zamiast zwykłych pięciu. To główny powód, dla którego jego ceny są niższe niż u większości sprzedawców."
+        },
+        {
+          "h3": "Gdzie kupić oryginalne Fruit of the Loom",
+          "p": "Aby mieć pewność, że dostajesz oryginalne produkty z właściwymi metkami, rozmiarówką i certyfikatem OEKO-TEX, kupuj u oficjalnych lub autoryzowanych sprzedawców — w sklepie marki na Europę lub w Marmalade Co. — albo w ugruntowanych polskich hurtowniach i sklepach z odzieżą reklamową. Na Allegro i Amazon.pl sprawdź, kto jest sprzedawcą i jakie są warunki zwrotu, zanim zamówisz. Marmalade Co. jako jedyny sklep internetowy na naszej liście ma gwarancję ceny, więc masz pewność, że płacisz najniższą zweryfikowaną cenę za oryginalny produkt."
+        }
+      ]
+    },
+    "faq_h2": "Najczęstsze pytania o Fruit of the Loom w Polsce",
+    "faq": [
+      {
+        "q": "Gdzie kupić Fruit of the Loom najtaniej w Polsce?",
+        "a_html": "Najtańsza zweryfikowana opcja przy zakupie pojedynczych sztuk to <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a> — oficjalny sprzedawca Fruit of the Loom z koszulkami od 6,95 €, bluzami bez kaptura od 16,95 € i bluzami z kapturem od 20,95 € z VAT, gwarancją ceny i rabatami ilościowymi 5–10 %. Wysyła z Danii kurierem DHL za stałe 7 € i dostarcza do Polski w 2–3 dni robocze. Przy hurtowych zamówieniach czystych koszulek konkurencyjne bywają polskie hurtownie, np. Albafruit czy Hurt.Koszulkowo."
+      },
+      {
+        "q": "Czy Fruit of the Loom to dobra jakość?",
+        "a_html": "Tak — jak na tę cenę to jedna z najbardziej niezawodnych marek basiców w Europie. Klasyczne koszulki to 100 % bawełny o gramaturze ok. 145–195 g/m², bluzy Classic to solidna dzianina 280 g/m² z bawełny i poliestru, a linie premium używają czesanej bawełny ring-spun z certyfikatem OEKO-TEX. Marka ma ponad 170 lat historii i od 2002 roku należy do Berkshire Hathaway. Po pierwszym gorącym praniu bawełna może skurczyć się o kilka procent, więc pierz w 30–40 °C."
+      },
+      {
+        "q": "Ile kosztuje koszulka Fruit of the Loom?",
+        "a_html": "W Polsce koszulka Fruit of the Loom kosztuje zwykle od kilkunastu do ok. 30 zł za sztukę, w zależności od modelu, sklepu i tego, czy kupujesz wielopak. W Marmalade Co. koszulka unisex kosztuje <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">od 6,95 €</a> (ok. 30 zł) w 16 kolorach (XS–XXXL), a przy pięciu sztukach 6,26 € za sztukę. Koszulki z długim rękawem od 8,95 €, w serek i podkoszulki ok. 6,95 €. Wielopaki na Allegro i Amazon.pl bywają tańsze za sztukę, ale ograniczają wybór kolorów i rozmiarów."
+      },
+      {
+        "q": "Jak długo trwa dostawa do Polski?",
+        "a_html": "To zależy od sklepu. Marmalade Co. wysyła w ciągu 0–1 dnia roboczego i dostarcza kurierem DHL do Polski w szacowanym czasie 2–3 dni roboczych, ze śledzeniem przesyłki e-mailem i stałym kosztem 7 €. Na Allegro i Amazon.pl czas dostawy zależy od sprzedawcy i miejsca, z którego wysyła towar — polscy sprzedawcy zwykle dostarczają w 1–2 dni. Polskie sklepy, takie jak OwocowaKoszulka.pl czy T-shirt.pl, wysyłają paczkomatem lub kurierem w kraju. Zamówienia z nadrukiem z hurtowni trwają dłużej ze względu na produkcję."
+      },
+      {
+        "q": "Fruit of the Loom czy Gildan — co jest lepsze?",
+        "a_html": "Obie marki robią dobre basice do nadruku i na co dzień. Gildan Heavy Cotton 5000 jest odrobinę cięższy i bardziej pudełkowy, a koszulki Valueweight i Iconic od Fruit of the Loom mają nieco miększy chwyt i bardziej europejski krój; bluzy Classic obu marek to podobne mieszanki 280 g/m². W Polsce Fruit of the Loom jest szerzej dostępny i często tańszy za sztukę — w Marmalade Co. koszulka kosztuje od 6,95 €, a bluza z kapturem od 20,95 €."
+      },
+      {
+        "q": "Czy mogę zamówić Fruit of the Loom z nadrukiem?",
+        "a_html": "Tak. Fruit of the Loom to jedna z najczęściej wybieranych marek pod sitodruk, DTG i haft dzięki gładkiej przędzy Belcoro® i szerokiej palecie kolorów. Polskie hurtownie, takie jak Hurt.Koszulkowo, Logos Dystrybucja czy Artkoszulka.pl, nadrukują lub wyhaftują logo za Ciebie, a Albafruit sprzedaje czyste koszulki dla Twojej drukarni. Jeśli zamawiasz gładką odzież w większej ilości w Marmalade Co., rabat 5–10 % obniża koszt jednej sztuki z nadrukiem dla klubów, szkół i firm."
+      },
+      {
+        "q": "Do kogo należy Fruit of the Loom?",
+        "a_html": "Od 2002 roku Fruit of the Loom należy do Berkshire Hathaway, spółki inwestycyjnej Warrena Buffetta. Marka została założona w 1851 roku w Rhode Island w USA przez braci Knight, w 1871 roku zarejestrowała swoje słynne logo z owocami — jeden z najstarszych amerykańskich znaków towarowych — a jej siedziba mieści się w Bowling Green w stanie Kentucky. Europejską działalność prowadzi Fruit of the Loom International z Kaiserslautern w Niemczech, z dużą fabryką w Maroku."
+      }
+    ],
+    "about": {
+      "label": "O serwisie",
+      "h2": "O fruitotl.com",
+      "p1": "fruitotl.com to niezależny, wielojęzyczny przewodnik, który pomaga klientom indywidualnym i firmom w całej Europie znaleźć najlepsze sklepy, ceny i produkty Fruit of the Loom. Sprawdzamy sklepy, porównujemy ceny w EUR i regularnie aktualizujemy listę, abyś miał rzetelny obraz rynku.",
+      "p2": "Serwis nie jest powiązany z Fruit of the Loom, Fruit of the Loom International ani Berkshire Hathaway. Niektóre linki na stronie zawierają śledzenie afiliacyjne, dzięki któremu możemy otrzymać niewielką prowizję, jeśli coś kupisz — bez dodatkowych kosztów dla Ciebie.",
+      "h3": "Jak układamy ranking sklepów",
+      "p3": "Nasz ranking opiera się na trzech rzeczach: cenie (porównujemy ceny katalogowe identycznych produktów w różnych sklepach), dostępności (asortyment, rozmiary i kolory na stanie oraz czas dostawy do Polski) i doświadczeniu klienta (zwroty, gwarancje ceny, obsługa). Ceny i stany magazynowe się zmieniają — przed zakupem zawsze sprawdź aktualną cenę w sklepie."
+    },
+    "privacy": {
+      "label": "Informacje prawne",
+      "h2": "Polityka prywatności",
+      "p1": "fruitotl.com to niezależny serwis informacyjny. Nie zbieramy danych osobowych odwiedzających i nie używamy plików cookie do śledzenia ani marketingu.",
+      "p2": "Serwis zawiera linki do zewnętrznych sklepów. Część z nich ma kody śledzenia afiliacyjnego, dzięki którym możemy otrzymać niewielką prowizję od zakupu — bez dodatkowych kosztów dla Ciebie. Nie mamy umów redakcyjnych z wymienionymi sklepami, a nasze rekomendacje opierają się na cenie, dostępności i doświadczeniu klienta.",
+      "p3": "Serwis nie jest powiązany z Fruit of the Loom, Fruit of the Loom International ani Berkshire Hathaway. Fruit of the Loom® jest zastrzeżonym znakiem towarowym Fruit of the Loom, Inc.",
+      "p4": "Masz pytania? Napisz do nas:"
+    },
+    "teaser_keys": [
+      "size-guide",
+      "t-shirts",
+      "hoodies",
+      "sweatshirts",
+      "cheapest",
+      "printing",
+      "workwear",
+      "team-hoodies",
+      "sweatpants",
+      "where-to-buy"
+    ],
+    "brand_desc": "Amerykańska marka basiców założona w 1851 roku, należąca do Berkshire Hathaway, znana z niedrogich bawełnianych koszulek, bluz z kapturem, bluz i spodni dresowych sprzedawanych w ponad 100 krajach.",
+    "website_desc": "Niezależny wielojęzyczny przewodnik po Fruit of the Loom w Polsce i Europie: sprawdzone sklepy, aktualne ceny w EUR, tabele rozmiarów, oceny jakości i poradniki zakupowe.",
+    "org_desc": "Niezależny zespół redakcyjny publikujący porównania sklepów, przewodniki cenowe i poradniki produktowe o odzieży Fruit of the Loom w Polsce i Europie.",
+    "knows_about": [
+      "Fruit of the Loom",
+      "Sklepy z Fruit of the Loom w Polsce",
+      "Ceny Fruit of the Loom",
+      "Tabela rozmiarów Fruit of the Loom",
+      "Odzież bez nadruku do zdobienia",
+      "Bawełniane koszulki, bluzy z kapturem i bluzy"
+    ],
+    "date_modified": "2026-09-11"
+  }
+}

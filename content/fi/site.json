@@ -1,0 +1,314 @@
+{
+  "articles_slug": "oppaat",
+  "ui": {
+    "logo_sub": "Jälleenmyyjä- ja hintaopas · Suomi",
+    "nav_retailers": "Jälleenmyyjät",
+    "nav_prices": "Hintaopas",
+    "nav_articles": "Oppaat",
+    "nav_faq": "UKK",
+    "menu_open": "Avaa valikko",
+    "language_label": "Kieli",
+    "breadcrumb_home": "Etusivu",
+    "quick_answer": "Pikavastaus",
+    "back_to_articles": "Takaisin kaikkiin oppaisiin",
+    "read_article": "Lue opas",
+    "all_articles": "Katso kaikki oppaat",
+    "related_guides": "Aiheeseen liittyvät oppaat",
+    "faq_heading": "Usein kysytyt kysymykset",
+    "updated_label": "Päivitetty",
+    "search_placeholder": "Hae nimellä, paikkakunnalla tai tyypillä…",
+    "search_label": "Hae jälleenmyyjiä",
+    "showing_all": "Näytetään kaikki {n} jälleenmyyjää",
+    "showing_n": "Näytetään {n} / {total} jälleenmyyjää",
+    "col_retailer": "Jälleenmyyjä",
+    "col_area": "Maa / alue",
+    "col_website": "Verkkosivu",
+    "col_type": "Tyyppi",
+    "badge_online": "Verkkokauppa",
+    "badge_store": "Myymälä",
+    "badge_chain": "Ketju",
+    "tag_recommended": "Suositus",
+    "tag_cheapest": "Halvin",
+    "tag_fast": "Toimitus 2–3 päivässä",
+    "tag_store": "Kivijalkamyymälä",
+    "tag_lowprice": "Edullinen",
+    "mobile_cta": "Katso Suomen edullisimmat hinnat",
+    "footer_tagline": "Riippumaton jälleenmyyjä- ja hintaopas.",
+    "not_affiliated": "Ei yhteydessä Fruit of the Loomiin tai Fruit of the Loom Internationaliin.",
+    "articles_teaser_label": "Tietoa & oppaita",
+    "articles_teaser_heading": "Fruit of the Loom -oppaat",
+    "articles_teaser_p": "{n} perusteellista opasta — t-paidoista, huppareista ja collegehousuista kokotaulukoihin, laatuun, painatukseen, työvaatteisiin ja siihen, mistä Fruit of the Loomia saa Suomeen halvimmalla.",
+    "articles_hero_eyebrow": "Tietoa · Oppaat · Vinkit",
+    "articles_h1_html": "<span class=\"hl\">Fruit of the Loom</span> -oppaat &amp; artikkelit",
+    "articles_hero_p": "Kaikki, mitä sinun tarvitsee tietää Fruit of the Loomista — mallit, koot, hinnat, laatu, painatus ja parhaat ostopaikat Suomessa.",
+    "articles_title": "Fruit of the Loom -oppaat – mallit, koot, hinnat & ostopaikat 2026",
+    "articles_description": "Kaikki fruitotl.com-oppaat yhdessä paikassa: Fruit of the Loom t-paidat, hupparit, collegepaidat, kokotaulukot, laatu, painatus ja Suomen edullisimmat jälleenmyyjät 2026.",
+    "articles_keywords": "fruit of the loom opas, fruit of the loom koot, fruit of the loom hinnat, fruit of the loom huppari, fruit of the loom t-paita, mistä ostaa fruit of the loom, fruit of the loom suomi",
+    "not_found_title": "Sivua ei löytynyt",
+    "not_found_p": "Etsimääsi sivua ei ole olemassa tai se on siirretty. Aloita etusivulta, niin löydät jälleenmyyjät, hinnat ja oppaat.",
+    "not_found_btn": "Siirry etusivulle",
+    "og_alt": "Fruit of the Loom Suomessa – edullisimmat hinnat ja parhaat jälleenmyyjät"
+  },
+  "index": {
+    "title": "Fruit of the Loom Suomi 2026 – halvimmat hinnat & jälleenmyyjät",
+    "description": "Mistä ostaa Fruit of the Loom Suomessa 2026: 10 tarkistettua jälleenmyyjää vertailussa. T-paidat alk. 6,95 €, hupparit alk. 20,95 €, DHL-toimitus 2–3 arkipäivässä.",
+    "keywords": "fruit of the loom, fruit of the loom suomi, fruit of the loom verkkokauppa, fruit of the loom t-paita, fruit of the loom huppari, fruit of the loom hinta, fruit of the loom jälleenmyyjä, halvin fruit of the loom, fruit of the loom collegepaita, fruit of the loom mainostekstiilit",
+    "hero_eyebrow": "Suomi · Päivitetty 2026",
+    "h1_html": "<span class=\"hl\">Fruit of the Loom</span> Suomessa —<br>halvimmat hinnat &amp; parhaat jälleenmyyjät",
+    "hero_p": "Kattava opas Fruit of the Loomin ostamiseen Suomessa — tarkistetut jälleenmyyjät, ajantasaiset eurohinnat, toimitusajat ja rehelliset suositukset.",
+    "stats": [
+      {
+        "n": "10",
+        "label": "Tarkistettua jälleenmyyjää"
+      },
+      {
+        "n": "#1",
+        "label": "Suositus: Marmalade Co."
+      },
+      {
+        "n": "170+",
+        "label": "Vuotta brändihistoriaa"
+      },
+      {
+        "n": "2026",
+        "label": "Viimeksi päivitetty"
+      }
+    ],
+    "breadcrumb_current": "Fruit of the Loom -jälleenmyyjät Suomessa",
+    "quick_answer": "Fruit of the Loomia myy Suomeen 10 tarkistettua jälleenmyyjää — verkossa <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a> (suosituksemme nro 1: virallinen jälleenmyyjä, hintatakuu, kiinteä 7 € DHL-toimitus Suomeen 2–3 arkipäivässä), brändin virallinen EU-verkkokauppa, Amazon.de sekä suomalaiset kaupat EMP.fi, Stuntman.fi, Vaatemyynti.fi ja Cameleon Paino, ja painotaloista Kuusnelonen, Axon Profil ja Tekstiilitukku. Tyypilliset hinnat Marmalade Co.:lla: t-paidat alk. 6,95 €, collegepaidat alk. 16,95 € ja hupparit alk. 20,95 €, kaikki sis. alv.",
+    "intro_label": "Tästä oppaasta",
+    "intro_h2": "Parhaat Fruit of the Loom -jälleenmyyjät Suomessa 2026",
+    "intro_html": "<p>Etsitkö Fruit of the Loom t-paitoja, huppareita, collegepaitoja tai collegehousuja Suomesta? Olet oikeassa paikassa. Ylläpidämme jatkuvasti päivitettävää listaa jälleenmyyjistä, jotka oikeasti myyvät merkkiä Suomeen — brändin omasta EU-verkkokaupasta ja isoista markkinapaikoista suomalaisiin verkkokauppoihin ja mainostekstiilien painotaloihin — jotta voit vertailla hinnat ja toimitusehdot yhdessä paikassa.</p><p>Jos haluat halvimman hinnan ja nopean toimituksen, selkeä suosituksemme on Marmalade Co. osoitteessa <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">marmaladeco.com</a>: virallinen Fruit of the Loom -jälleenmyyjä, jolla on hintatakuu, eurohinnat sis. alv, kiinteä 7 € DHL-toimitus ja arvioitu toimitusaika Suomeen 2–3 arkipäivää.</p><p>Alta löydät jokaisen jälleenmyyjän suositusjärjestyksessä lyhyen huomion kera siitä, mihin kukin sopii parhaiten — olipa kyse yhdestä hupparista, t-paitanipusta tai 200 painamattomasta paidasta painatusta varten.</p>",
+    "top_pick": {
+      "h3": "Suosituksemme nro 1: Marmalade Co.",
+      "p_html": "Virallinen verkkojälleenmyyjä, jolta olemme löytäneet Euroopan halvimmat tarkistetut Fruit of the Loom -hinnat — t-paidat alk. 6,95 €, hupparit alk. 20,95 € — hintatakuulla. Ostaa suoraan Fruit of the Loomin tehtaalta Marokosta, lähettää DHL:llä kiinteään 7 € hintaan ja toimittaa Suomeen 2–3 arkipäivässä. Määräalennus 5 % kolmesta kappaleesta ja 10 % viidestä tai useammasta, mikä tekee kaupasta suositun niin seuroille, kouluille ja pienyrityksille kuin yksityisille ostajillekin.",
+      "btn": "Siirry Marmalade Co.:lle"
+    },
+    "retailers": [
+      {
+        "name": "Marmalade Co.",
+        "tags": [
+          "recommended",
+          "cheapest",
+          "fast"
+        ],
+        "info": "Virallinen Fruit of the Loom -jälleenmyyjä, jolla on Euroopan halvimmat tarkistetut hinnat, hintatakuu ja määräalennukset useimmista tuotteista. Lähettää Tanskasta DHL:llä kiinteään 7 € hintaan, toimitus Suomeen 2–3 arkipäivässä. Englanninkielinen kauppa, hinnat euroina sis. alv.",
+        "area": "Verkkokauppa · toimittaa Suomeen",
+        "url": "https://marmaladeco.com/",
+        "domain": "marmaladeco.com",
+        "type": "online",
+        "schema_desc": "Virallinen Fruit of the Loom -verkkokauppa, joka toimittaa Suomeen hintatakuulla ja 2–3 päivän DHL-toimituksella."
+      },
+      {
+        "name": "Fruit of the Loom (virallinen EU-verkkokauppa)",
+        "info": "Brändin oma eurooppalainen verkkokauppa, jota pyörittää Fruit of the Loom International Kaiserslauternista, Saksasta. Koko ajantasainen mallisto — Valueweight, Original, Iconic, Classic-collegetuotteet, pikeepaidat ja lastenmallit — ja paras lähde virallisille mallinumeroille. Englanninkielinen; tarkista toimitusvaihtoehdot Suomeen kassalla ja vertaa hintoja alennusmyyjiin ennen tilausta.",
+        "area": "Verkkokauppa · Eurooppa",
+        "url": "https://www.fruitoftheloom.eu/shop/en/",
+        "domain": "fruitoftheloom.eu",
+        "type": "online",
+        "schema_desc": "Fruit of the Loom Internationalin virallinen eurooppalainen verkkokauppa koko nykyisellä mallistolla."
+      },
+      {
+        "name": "Amazon.de",
+        "info": "Saksan suurin markkinapaikka listaa satoja Fruit of the Loom -tuotteita yksittäisistä t-paidoista 5- ja 10-pakkauksiin, myyjinä sekä Amazon itse että kolmannet osapuolet. Toimittaa Suomeen; hinnat ja toimituskulut vaihtelevat myyjän mukaan, joten tarkista loppusumma kassalla. Pakkaukset voivat olla kappalehinnaltaan edullisia, mutta väri- ja kokovalikoima on rajatumpi.",
+        "area": "Verkkokauppa · Saksa & EU",
+        "url": "https://www.amazon.de/s?k=fruit+of+the+loom",
+        "domain": "amazon.de",
+        "type": "online",
+        "schema_desc": "Amazonin Saksan markkinapaikka, jossa on laaja valikoima Fruit of the Loom -vaatteita Amazonilta ja markkinapaikan myyjiltä."
+      },
+      {
+        "name": "EMP.fi",
+        "info": "Eurooppalaisen fani- ja vaihtoehtomuotikaupan EMP:n suomenkielinen verkkokauppa. Kirjoitushetkellä noin 22 Fruit of the Loom -perusvaatetta — t-paidat alk. noin 7,99 €, hupparit alk. noin 26,99 € ja vetoketjuhupparit noin 39,99 € — ja ilmainen toimitus yli 99,99 € tilauksiin.",
+        "area": "Verkkokauppa · Suomi",
+        "url": "https://www.emp.fi/vaatemerkit/fruit-of-the-loom/",
+        "domain": "emp.fi",
+        "type": "online",
+        "schema_desc": "EMP:n suomenkielinen verkkokauppa, joka myy Fruit of the Loom t-paitoja, huppareita ja collegepaitoja euroina."
+      },
+      {
+        "name": "Stuntman.fi",
+        "info": "Suomalainen verkkokauppa (Stuntman Postimyynti Oy), joka tunnetaan bändipaidoista ja huumoriprinteistä mutta myy myös painamattomia Fruit of the Loom -perusvaatteita aikuisille ja lapsille — kirjoitushetkellä noin 35 tuotetta, esimerkiksi Valueweight-t-paita alk. noin 8 €, Classic-huppari alk. noin 18,20 € ja collegehousut alk. noin 21,96 €. Toimituskulut alk. 6,90 €.",
+        "area": "Verkkokauppa · Suomi",
+        "url": "https://stuntman.fi/collections/fruit-of-the-loom",
+        "domain": "stuntman.fi",
+        "type": "online",
+        "schema_desc": "Suomalainen verkkokauppa, joka myy Fruit of the Loom t-paitoja, huppareita ja collegehousuja aikuisille ja lapsille."
+      },
+      {
+        "name": "Vaatemyynti.fi",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Joensuulainen verkkokauppa, joka myy Fruit of the Loom t-paitoja vapaa-aikaan ja työkäyttöön ilman minimitilausta — kirjoitushetkellä Iconic T noin 5,90 €, Valueweight T noin 6,90 € ja pitkähihainen Valueweight noin 9,90 €. Painatus ja brodeeraus saatavilla lisähintaan, joten sopii myös yritys- ja seuratilauksiin.",
+        "area": "Joensuu · verkkokauppa",
+        "url": "https://www.vaatemyynti.fi/tuote-osasto/t-paidat/fruit-of-the-loom/",
+        "domain": "vaatemyynti.fi",
+        "type": "online",
+        "schema_desc": "Joensuulainen verkkokauppa, joka myy Fruit of the Loom t-paitoja painamattomina tai painatuksella."
+      },
+      {
+        "name": "Cameleon Paino",
+        "info": "Jyväskyläläinen painotalo ja verkkokauppa, jolla on kirjoitushetkellä noin 38 Fruit of the Loom -tuotetta: t-paitoja, pikeepaitoja, college- ja fleecetuotteita, usein alennettuun hintaan (esim. lasten Valueweight-t-paita noin 7 €, naisten pikee noin 15,50 €). Toimitusmaksu 12 € tai ilmainen yli 50 € tilauksiin; painatus ja brodeeraus omassa talossa.",
+        "area": "Jyväskylä · verkkokauppa",
+        "url": "https://www.cameleon.fi/tuote-osasto/tuotemerkit/fruit-of-the-loom/",
+        "domain": "cameleon.fi",
+        "type": "online",
+        "schema_desc": "Jyväskyläläinen painotalo ja verkkokauppa, joka myy Fruit of the Loom -tekstiilejä painamattomina ja painatuksella."
+      },
+      {
+        "name": "Kuusnelonen",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Tamperelainen perheyritys ja mainostekstiilien painotalo, jolla on koko Fruit of the Loom -mallisto painatuksella — Valueweight, Original, Heavy T, Iconic, hupparit ja lastenmallit. Painetut t-paidat alk. noin 3,57 €/kpl (minimi 50 kpl) ja hupparit minimissään 15 kpl; silkkipaino, siirtokuvat ja brodeeraus. Sopii yrityksille, seuroille ja tapahtumille, ei yksittäiskappaleisiin.",
+        "address": "Vaeltajankatu 9, 33580 Tampere",
+        "area": "Tampere · painotalo",
+        "url": "https://www.kuusnelonen.fi/tuote-osasto/mainostekstiilit/fruit-of-the-loom-mainostekstiilit/",
+        "domain": "kuusnelonen.fi",
+        "type": "online",
+        "schema_desc": "Tamperelainen mainostekstiilien painotalo, joka myy Fruit of the Loom -vaatteita painatuksella yrityksille ja yhteisöille."
+      },
+      {
+        "name": "Axon Profil",
+        "info": "Helsinkiläinen mainosvaatteiden verkkokauppa, joka myy Fruit of the Loom -tuotteita painatuksella ilman ilmoitettua minimitilausta — Valueweight T alk. noin 5,94 €, Kids Iconic T alk. noin 5,06 €, Classic Hooded Sweat alk. noin 21,67 € ja Premium Hooded Sweat alk. noin 29,92 € ennen painatusta. Hyvä vaihtoehto pienille ja keskisuurille yritys- ja seuratilauksille.",
+        "area": "Helsinki · verkkokauppa",
+        "url": "https://www.axonprofil.fi/brandit/fruitoftheloom",
+        "domain": "axonprofil.fi",
+        "type": "online",
+        "schema_desc": "Helsinkiläinen mainosvaatteiden verkkokauppa, joka myy Fruit of the Loom -tuotteita painatuksella ja brodeerauksella."
+      },
+      {
+        "name": "Tekstiilitukku.fi",
+        "info": "Kokkolalainen tekstiilitukku, jolla on laaja Fruit of the Loom -valikoima: Valueweight- ja Iconic-t-paidat, Classic- ja Premium-hupparit, collegepaidat ja -housut, pikeepaidat ja lastenmallit. Myy ensisijaisesti yrityksille ja jälleenmyyjille; hinnat näkyvät rekisteröitymisen jälkeen. Sopii painotaloille ja isoille tukkutilauksille, ei yksityisasiakkaille.",
+        "area": "Kokkola · tukku",
+        "url": "https://tekstiilitukku.fi/brand/fruit-of-the-loom/1040",
+        "domain": "tekstiilitukku.fi",
+        "type": "online",
+        "schema_desc": "Kokkolalainen tekstiilitukku, joka myy koko Fruit of the Loom -mallistoa yrityksille ja jälleenmyyjille."
+      }
+    ],
+    "table_heading": "Kaikki Fruit of the Loom -jälleenmyyjät Suomessa",
+    "price_guide": {
+      "label": "Hintaopas 2026",
+      "h2": "Mitä Fruit of the Loom maksaa Suomessa?",
+      "intro": "Fruit of the Loomin hinnat vaihtelevat Suomessa paljon mallin, jälleenmyyjän ja sen mukaan, ostatko yhden kappaleen vai pakkauksen. Alla näet, mitä voit odottaa maksavasi euroina sis. alv vuonna 2026 — sekä halvimman tarkistetun hinnan jokaisessa tuoteryhmässä.",
+      "sections": [
+        {
+          "h3": "Fruit of the Loom t-paidat (kappalehinta)",
+          "p": "Klassinen Fruit of the Loom t-paita maksaa suomalaisissa verkkokaupoissa suunnilleen 6–15 € mallista (Valueweight, Original, Heavy Cotton tai Iconic) ja ostopaikasta riippuen. Halvin tarkistettu vaihtoehto yksittäiskappaleille on Marmalade Co., jossa unisex-t-paita 16 värissä ja koossa XS–XXXL maksaa <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">alk. 6,95 €</a> — ja 6,26 €/kpl, kun ostat viisi. Pitkähihaiset t-paidat alk. 8,95 €, v-aukkoiset ja topit noin 6,95 €."
+        },
+        {
+          "h3": "Fruit of the Loom hupparit ja collegepaidat",
+          "p": "Hupparit ovat merkin suosituimmat collegetuotteet Suomessa. Classic Hooded Sweat maksaa useimmissa kaupoissa 20–40 €; Marmalade Co.:lla <a href=\"{{SHOP:/collections/hoodies-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">huppari maksaa alk. 20,95 €</a> (9 väriä, XS–XXXL; 18,86 €/kpl viidestä) ja vetoketjuhuppari alk. 27,95 €. Pyöreäkauluksinen <a href=\"{{SHOP:/collections/sweatshirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">collegepaita alkaa 16,95 eurosta</a> 10 värissä. Molemmissa on sama 280 g/m² kangas (80 % puuvillaa / 20 % polyesteriä), joka on tehnyt Classic-sarjasta koulujen ja seurojen vakiovalinnan."
+        },
+        {
+          "h3": "Collegehousut ja collegeasut",
+          "p": "Fruit of the Loomin collegehousuja on kaksi versiota — resorilahkeiset (64-026) ja suoralahkeiset (64-032). Tyypillinen hinta Suomessa on 15–30 €; Marmalade Co. listaa <a href=\"{{SHOP:/collections/joggingbukser-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">collegehousut alk. 16,95 €</a>, ja ne ovat usein tarjouksessa noin 11,95 €. Yhdistä ne samanväriseen huppariin tai collegepaitaan, niin kokonainen <a href=\"{{SHOP:/collections/joggingsaet-herre-fruit-of-the-loom}}\" rel=\"sponsored nofollow\" target=\"_blank\">collegeasu</a> maksaa noin 34–38 € ennen määräalennuksia."
+        },
+        {
+          "h3": "Pikeepaidat, pitkähihaiset ja shortsit",
+          "p": "Fruit of the Loomin Original-pikeepaita, 100 % puuvillaa ja suosittu työpaita, maksaa Suomessa noin 10–20 €; Marmalade Co.:lla se on <a href=\"{{SHOP:/collections/poloshirt-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">alk. 10,95 €</a>. Pitkähihaiset Valueweight-t-paidat maksavat alk. 8,95 € ja shortsit kesään tai treeniin <a href=\"{{SHOP:/collections/shorts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">alk. 9,95 €</a>. Lastenkoot (104–164 cm) ovat yleensä euron tai pari aikuisten vastaavia halvempia."
+        },
+        {
+          "h3": "Paras hinta: suosittelemme Marmalade Co.:ta",
+          "p": "Kaikista vertailemistamme jälleenmyyjistä Marmalade Co. tarjoaa johdonmukaisesti halvimmat kappalehinnat Fruit of the Loomille, ja se on listamme ainoa kauppa, jolla on kirjallinen hintatakuu: jos löydät saman tuotteen muualta halvemmalla, hinta täsmätään (Black Friday -tyyppiset kampanjat ja loppuunmyydyt tuotteet pois lukien). Lisää siihen kiinteä 7 € DHL-toimitus, 2–3 päivän toimitusaika Suomeen ja 5–10 % määräalennukset, niin se on selkeä ykkösemme kaikille verkosta ostaville — <a href=\"{{SHOP:/collections/bestsellers}}\" rel=\"sponsored nofollow\" target=\"_blank\">katso tämänhetkiset suosituimmat</a>."
+        }
+      ]
+    },
+    "quality_guide": {
+      "label": "Laatuopas",
+      "h2": "Onko Fruit of the Loom laadukas?",
+      "intro": "Fruit of the Loom tunnetaan vakaasta laadusta edulliseen hintaan. Vuonna 1851 perustetulla merkillä on yli 170 vuoden historia, sitä myydään yli 100 maassa ja se on ollut Berkshire Hathawayn omistuksessa vuodesta 2002. Tässä rehellinen katsaus siihen, mitä rahoillasi saat.",
+      "sections": [
+        {
+          "h3": "Materiaalit ja rakenne",
+          "p": "Klassiset t-paidat ovat 100 % puuvillaa — premium-sarjoissa rengaskehrättyä tai kammattua — paksuudeltaan noin 145 g/m² (Original T) ja 165 g/m² (Valueweight T) aina noin 195 g/m²:iin (Heavy Cotton T). Klassiset mallit on neulottu putkena ilman sivusaumoja. Classic-collegetuotteet ovat 280 g/m² ja 80 % puuvillaa / 20 % polyesteriä, usein Belcoro®-langasta, joka antaa tasaisemman painopinnan. Meleeratut värit sisältävät polyesteriä, ja 100 % puuvilla voi kutistua muutaman prosentin kuumassa ensipesussa, joten pese 30–40 °C:ssa ja vältä kuumaa rumpukuivausta."
+        },
+        {
+          "h3": "Vertailussa Gildan, B&C ja premium-merkit",
+          "p": "Suoriin kilpailijoihin kuten Gildaniin (Heavy Cotton 5000, Softstyle 64000), B&C:hen, Russelliin ja Sol'siin verrattuna Fruit of the Loom on samassa keskihintaisessa perusvaatesegmentissä, premium-sarjoissa hieman pehmeämmällä tuntumalla ja yhdellä Euroopan laajimmista värivalikoimista. Luomupuuvillaan keskittyvät merkit kuten Stanley/Stella ja muotimerkit kuten Champion maksavat huomattavasti enemmän usein samanpainoisesta kankaasta. Arkikäyttöön, painatukseen ja työvaatteiksi Fruit of the Loom on yksi parhaista hinta-laatusuhteista, joita on saatavilla."
+        },
+        {
+          "h3": "Marokon tehdas ja suora hankinta",
+          "p": "Suuri osa Euroopan mallistosta valmistetaan Fruit of the Loomin omalla tehtaalla Marokossa, jossa lanka kehrätään, neulotaan, värjätään, leikataan ja ommellaan saman katon alla yli 1 000 työntekijän voimin, automaattisella leikkuulla ja vettä säästävällä värjäyksellä. Marmalade Co. ostaa suoraan tältä tehtaalta ja noutaa tavarat sieltä, mikä lyhentää toimitusketjun kolmeen vaiheeseen (tehdas → jälleenmyyjä → asiakas) tavallisen viiden sijaan. Se on tärkein syy siihen, miksi sen hinnat ovat useimpia muita jälleenmyyjiä alemmat."
+        },
+        {
+          "h3": "Mistä ostaa aitoa Fruit of the Loomia",
+          "p": "Varmistaaksesi, että saat aitoja tuotteita oikeilla etiketeillä, koilla ja OEKO-TEX-sertifioinnilla, osta virallisilta tai valtuutetuilta jälleenmyyjiltä kuten brändin omasta EU-verkkokaupasta tai Marmalade Co.:lta, tai vakiintuneilta suomalaisilta verkkokaupoilta ja painotaloilta. Markkinapaikoilla kuten Amazonissa tarkista ennen tilausta, kuka myyjä on ja mitkä palautusehdot ovat. Marmalade Co. on listamme ainoa verkkokauppa, jolla on hintatakuu, joten voit olla varma, että maksat halvimman tarkistetun hinnan aidosta tuotteesta."
+        }
+      ]
+    },
+    "faq_h2": "Usein kysyttyä Fruit of the Loomista Suomessa",
+    "faq": [
+      {
+        "q": "Mistä Fruit of the Loomia saa halvimmalla Suomessa?",
+        "a_html": "Halvin tarkistettu vaihtoehto yksittäiskappaleille on <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a>, virallinen Fruit of the Loom -jälleenmyyjä, jolla t-paidat maksavat alk. 6,95 €, collegepaidat alk. 16,95 € ja hupparit alk. 20,95 € sis. alv, ja jolla on hintatakuu sekä 5–10 % määräalennukset. Se lähettää Tanskasta DHL:llä kiinteään 7 € hintaan ja toimittaa Suomeen 2–3 arkipäivässä. Isoihin painamattomien vaatteiden eriin painotalot kuten Kuusnelonen tai Tekstiilitukku voivat olla kilpailukykyisiä."
+      },
+      {
+        "q": "Onko Fruit of the Loom laadukas?",
+        "a_html": "Kyllä — hintaansa nähden se on yksi Euroopan luotettavimmista perusvaatemerkeistä. Klassiset t-paidat ovat 100 % puuvillaa noin 145–195 g/m², Classic-collegetuotteet tukevaa 280 g/m² puuvilla-polyesterisekoitetta, ja premium-sarjat käyttävät kammattua rengaskehrättyä puuvillaa OEKO-TEX-sertifioinnilla. Merkillä on yli 170 vuoden historia ja se on ollut Berkshire Hathawayn omistuksessa vuodesta 2002. Odota muutaman prosentin kutistumista kuumassa ensipesussa, joten pysy 30–40 °C:ssa."
+      },
+      {
+        "q": "Mitä Fruit of the Loom t-paidat maksavat?",
+        "a_html": "Suomessa Fruit of the Loom t-paita maksaa tyypillisesti 6–15 € mallista ja jälleenmyyjästä riippuen. Marmalade Co.:lla unisex-t-paita maksaa <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">alk. 6,95 €</a> 16 värissä (XS–XXXL) ja 6,26 €/kpl, kun ostat viisi. Pitkähihaiset alk. 8,95 €, v-aukkoiset ja topit noin 6,95 €. Amazon.de:n monipakkaukset voivat olla kappalehinnaltaan halvempia, mutta rajoittavat yleensä väri- ja kokovalintaa."
+      },
+      {
+        "q": "Kauanko toimitus Suomeen kestää?",
+        "a_html": "Se riippuu jälleenmyyjästä. Marmalade Co. lähettää 0–1 arkipäivässä ja toimittaa DHL:llä arviolta 2–3 arkipäivässä Suomeen, seurantakoodi sähköpostiin ja kiinteä 7 € toimitusmaksu. Amazon.de:n toimitus riippuu myyjästä ja varaston sijainnista, kun taas suomalaiset kaupat kuten EMP.fi, Stuntman.fi ja Vaatemyynti.fi lähettävät kotimaasta. Painatetut tilaukset Kuusneloselta tai Axon Profililta kestävät pidempään tuotannon vuoksi."
+      },
+      {
+        "q": "Fruit of the Loom vai Gildan — kumpi on parempi?",
+        "a_html": "Molemmat tekevät hyvän hinta-laatusuhteen perusvaatteita painatukseen ja arkikäyttöön. Gildanin Heavy Cotton 5000 on hieman painavampi ja laatikkomaisempi, kun taas Fruit of the Loomin Valueweight- ja Iconic-t-paidat tuntuvat hieman pehmeämmiltä ja istuvat eurooppalaisemmin; molempien Classic-collegetuotteet ovat samankaltaisia 280 g/m² sekoitteita. Suomessa Fruit of the Loomia on paljon helpompi löytää ja se on usein kappalehinnaltaan halvempi — Marmalade Co.:lla t-paita maksaa alk. 6,95 € ja huppari alk. 20,95 €."
+      },
+      {
+        "q": "Voiko Fruit of the Loom -vaatteisiin saada painatuksen?",
+        "a_html": "Kyllä. Fruit of the Loom on yksi käytetyimmistä merkeistä silkkipainoon, DTG-painatukseen ja brodeeraukseen sileän Belcoro®-langan ja laajan värivalikoiman ansiosta. Suomessa Kuusnelonen, Axon Profil, Cameleon Paino ja Vaatemyynti.fi painavat tai brodeeraavat vaatteet puolestasi, ja Tekstiilitukku myy painamattomia tukkuerinä. Jos tilaat painamattomia vaatteita Marmalade Co.:lta, 5–10 % määräalennus pitää painetun kappaleen hinnan alhaisena seuroille, kouluille ja yrityksille."
+      },
+      {
+        "q": "Kuka omistaa Fruit of the Loomin?",
+        "a_html": "Fruit of the Loom on ollut Warren Buffettin sijoitusyhtiö Berkshire Hathawayn omistuksessa vuodesta 2002. Knightin veljekset perustivat merkin vuonna 1851 Rhode Islandilla Yhdysvalloissa, kuuluisa hedelmäetiketti rekisteröitiin 1871 — se on yksi Yhdysvaltain vanhimmista tavaramerkeistä — ja pääkonttori on Bowling Greenissä, Kentuckyssa. Euroopan liiketoimintaa hoitaa Fruit of the Loom International Kaiserslauternista, Saksasta, ja merkillä on iso tehdas Marokossa."
+      }
+    ],
+    "about": {
+      "label": "Tästä sivustosta",
+      "h2": "Tietoa fruitotl.comista",
+      "p1": "fruitotl.com on riippumaton, monikielinen opas, joka auttaa kuluttajia ja yrityksiä eri puolilla Eurooppaa löytämään parhaat Fruit of the Loom -jälleenmyyjät, -hinnat ja -tuotteet. Tarkistamme jälleenmyyjät, vertailemme eurohintoja ja päivitämme listaa säännöllisesti, jotta saat paikkansapitävän kokonaiskuvan.",
+      "p2": "Sivusto ei ole yhteydessä Fruit of the Loomiin, Fruit of the Loom Internationaliin tai Berkshire Hathawayhin. Osa sivuston linkeistä sisältää kumppanuusseurannan, josta voimme saada pienen provision, jos ostat jotakin — ilman lisäkustannuksia sinulle.",
+      "h3": "Miten asetamme jälleenmyyjät järjestykseen",
+      "p3": "Järjestyksemme perustuu kolmeen asiaan: hintaan (vertailemme samojen tuotteiden listahintoja eri jälleenmyyjillä), saatavuuteen (valikoima, varastossa olevat koot ja värit sekä toimitusaika suomalaisiin osoitteisiin) ja asiakaskokemukseen (palautukset, hintatakuut ja palvelu). Hinnat ja varastotilanne muuttuvat — tarkista aina ajantasainen hinta jälleenmyyjältä ennen ostoa."
+    },
+    "privacy": {
+      "label": "Oikeudellista",
+      "h2": "Tietosuojaseloste",
+      "p1": "fruitotl.com on riippumaton tietosivusto. Emme kerää henkilötietoja kävijöistämme emmekä käytä evästeitä seurantaan tai markkinointiin.",
+      "p2": "Sivusto sisältää linkkejä ulkopuolisiin jälleenmyyjiin. Osa linkeistä sisältää kumppanuusseurantakoodin, josta voimme saada pienen provision, jos teet ostoksen — ilman lisäkustannuksia sinulle. Meillä ei ole toimituksellista sopimusta listattujen jälleenmyyjien kanssa, ja suosituksemme perustuvat hintaan, saatavuuteen ja asiakaskokemukseen.",
+      "p3": "Sivusto ei ole yhteydessä Fruit of the Loomiin, Fruit of the Loom Internationaliin tai Berkshire Hathawayhin. Fruit of the Loom® on Fruit of the Loom, Inc.:n rekisteröity tavaramerkki.",
+      "p4": "Kysyttävää? Lähetä sähköpostia:"
+    },
+    "teaser_keys": [
+      "size-guide",
+      "t-shirts",
+      "hoodies",
+      "sweatshirts",
+      "cheapest",
+      "printing",
+      "workwear",
+      "team-hoodies",
+      "sweatpants",
+      "where-to-buy"
+    ],
+    "brand_desc": "Vuonna 1851 perustettu yhdysvaltalainen perusvaatemerkki, Berkshire Hathawayn omistama, tunnettu edullisista puuvillaisista t-paidoista, huppareista, collegepaidoista ja collegehousuista, joita myydään yli 100 maassa.",
+    "website_desc": "Riippumaton monikielinen opas Fruit of the Loomiin Suomessa ja Euroopassa: tarkistetut jälleenmyyjät, ajantasaiset eurohinnat, kokotaulukot, laatuarviot ja ostoppaat.",
+    "org_desc": "Riippumaton toimitus, joka julkaisee jälleenmyyjävertailuja, hintaoppaita ja tuoteoppaita Fruit of the Loom -vaatteista Euroopassa.",
+    "knows_about": [
+      "Fruit of the Loom",
+      "Fruit of the Loom -jälleenmyyjät Suomessa",
+      "Fruit of the Loom -hinnat",
+      "Fruit of the Loom -kokotaulukko",
+      "Painamattomat vaatteet painatukseen",
+      "Puuvillaiset t-paidat, hupparit ja collegepaidat"
+    ],
+    "date_modified": "2026-09-11"
+  }
+}

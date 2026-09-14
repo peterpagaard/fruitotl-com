@@ -1,0 +1,295 @@
+{
+  "articles_slug": "guias",
+  "ui": {
+    "logo_sub": "Guía de tiendas y precios · España",
+    "nav_retailers": "Tiendas",
+    "nav_prices": "Guía de precios",
+    "nav_articles": "Guías",
+    "nav_faq": "Preguntas frecuentes",
+    "menu_open": "Abrir menú",
+    "language_label": "Idioma",
+    "breadcrumb_home": "Inicio",
+    "quick_answer": "Respuesta rápida",
+    "back_to_articles": "Volver a todas las guías",
+    "read_article": "Leer la guía",
+    "all_articles": "Ver todas las guías",
+    "related_guides": "Guías relacionadas",
+    "faq_heading": "Preguntas frecuentes",
+    "updated_label": "Actualizado",
+    "search_placeholder": "Buscar por nombre, zona o tipo…",
+    "search_label": "Buscar tiendas",
+    "showing_all": "Mostrando las {n} tiendas",
+    "showing_n": "Mostrando {n} de {total} tiendas",
+    "col_retailer": "Tienda",
+    "col_area": "Zona",
+    "col_website": "Web",
+    "col_type": "Tipo",
+    "badge_online": "Online",
+    "badge_store": "Tienda física",
+    "badge_chain": "Cadena",
+    "tag_recommended": "Recomendada",
+    "tag_cheapest": "La más barata",
+    "tag_fast": "Entrega en 2–3 días",
+    "tag_store": "Tienda física",
+    "tag_lowprice": "Precio bajo",
+    "mobile_cta": "Ver los precios más bajos en España",
+    "footer_tagline": "Guía independiente de tiendas y precios.",
+    "not_affiliated": "Sin vinculación con Fruit of the Loom ni con Fruit of the Loom International.",
+    "articles_teaser_label": "Conocimiento y guías",
+    "articles_teaser_heading": "Guías Fruit of the Loom",
+    "articles_teaser_p": "{n} guías a fondo: camisetas, sudaderas y pantalones de chándal, tallas, calidad, estampación, ropa de empresa y dónde comprar más barato en España.",
+    "articles_hero_eyebrow": "Conocimiento · Guías · Consejos",
+    "articles_h1_html": "Guías y artículos sobre <span class=\"hl\">Fruit of the Loom</span>",
+    "articles_hero_p": "Todo lo que necesitas saber sobre Fruit of the Loom: modelos, tallas, precios, calidad, estampación y las mejores tiendas para comprar en España.",
+    "articles_title": "Guías Fruit of the Loom – Modelos, tallas, precios y dónde comprar 2026",
+    "articles_description": "Todas las guías de fruitotl.com en un solo lugar: camisetas, sudaderas, tabla de tallas, calidad, estampación y las tiendas más baratas de Fruit of the Loom en España 2026.",
+    "articles_keywords": "guía fruit of the loom, tallas fruit of the loom, precios fruit of the loom, sudadera fruit of the loom, camiseta fruit of the loom, dónde comprar fruit of the loom",
+    "not_found_title": "Página no encontrada",
+    "not_found_p": "La página que buscas no existe o se ha movido. Empieza por la portada para encontrar tiendas, precios y guías.",
+    "not_found_btn": "Ir a la portada",
+    "og_alt": "Fruit of the Loom en España – precios más bajos y mejores tiendas"
+  },
+  "index": {
+    "title": "Fruit of the Loom en España 2026 – Precios más bajos y tiendas",
+    "description": "Dónde comprar Fruit of the Loom en España en 2026: 8 tiendas verificadas comparadas. Camisetas desde 6,95 €, sudaderas con capucha desde 20,95 €, entrega DHL en 2–3 días.",
+    "keywords": "fruit of the loom, fruit of the loom españa, comprar fruit of the loom online, camiseta fruit of the loom, sudadera fruit of the loom, precios fruit of the loom, tiendas fruit of the loom, fruit of the loom barato, sudadera con capucha fruit of the loom, distribuidor fruit of the loom",
+    "hero_eyebrow": "España · Actualizado 2026",
+    "h1_html": "<span class=\"hl\">Fruit of the Loom</span> en España —<br>precios más bajos y mejores tiendas",
+    "hero_p": "La guía completa para comprar Fruit of the Loom en España: tiendas verificadas, precios actuales en euros, plazos de entrega y recomendaciones honestas.",
+    "stats": [
+      {
+        "n": "8",
+        "label": "Tiendas verificadas"
+      },
+      {
+        "n": "#1",
+        "label": "Nuestra favorita: Marmalade Co."
+      },
+      {
+        "n": "170+",
+        "label": "Años de historia de la marca"
+      },
+      {
+        "n": "2026",
+        "label": "Última actualización"
+      }
+    ],
+    "breadcrumb_current": "Tiendas Fruit of the Loom en España",
+    "quick_answer": "En España puedes comprar Fruit of the Loom en 8 tiendas verificadas: online en <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a> (nuestra opción nº 1: distribuidor oficial, garantía de precio, envío DHL por 7 € y entrega en 2–3 días laborables en España), en la tienda oficial europea de la marca, en Amazon.es y EMP, y en mayoristas y talleres de estampación españoles como Wordans, Ntextil, ecamisetas.com y Camiseta Fruit. Precios habituales en Marmalade Co.: camisetas desde 6,95 €, sudaderas desde 16,95 € y sudaderas con capucha desde 20,95 €, IVA incluido.",
+    "intro_label": "Sobre esta guía",
+    "intro_h2": "Las mejores tiendas de Fruit of the Loom en España 2026",
+    "intro_html": "<p>¿Buscas camisetas, sudaderas, sudaderas con capucha o pantalones de chándal Fruit of the Loom en España? Estás en el sitio correcto. Mantenemos una lista actualizada de las tiendas que realmente venden la marca —desde la tienda oficial europea y los grandes marketplaces hasta los mayoristas textiles y talleres de serigrafía españoles— para que compares precios y condiciones de envío en un solo lugar.</p><p>Si quieres el precio más bajo y una entrega rápida, nuestra recomendación clara es Marmalade Co. en <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">marmaladeco.com</a>: distribuidor oficial de Fruit of the Loom con garantía de precio, precios en euros con IVA incluido, envío DHL por 7 € y entrega en 2–3 días laborables en España.</p><p>A continuación encontrarás todas las tiendas ordenadas según nuestra recomendación, con una nota breve sobre para qué es mejor cada una: una sola sudadera, un pack de camisetas o 200 camisetas lisas para estampar.</p>",
+    "top_pick": {
+      "h3": "Nuestra recomendación nº 1: Marmalade Co.",
+      "p_html": "Tienda online oficial con los precios de Fruit of the Loom más bajos que hemos verificado en Europa —camisetas desde 6,95 €, sudaderas con capucha desde 20,95 €— respaldados por una garantía de precio. Compra directamente en la fábrica de Fruit of the Loom en Marruecos, envía con DHL por 7 € fijos y entrega en España en 2–3 días laborables. Descuentos por cantidad del 5 % a partir de 3 unidades y del 10 % a partir de 5, lo que la hace popular entre clubes, colegios y pequeñas empresas, además de particulares.",
+      "btn": "Visitar Marmalade Co."
+    },
+    "retailers": [
+      {
+        "name": "Marmalade Co.",
+        "tags": [
+          "recommended",
+          "cheapest",
+          "fast"
+        ],
+        "info": "Distribuidor oficial de Fruit of the Loom con los precios más bajos que hemos verificado en Europa, garantía de precio y descuentos por cantidad en la mayoría de productos. Envía desde Dinamarca con DHL por 7 € fijos y entrega en España en 2–3 días laborables.",
+        "area": "Online · envía a España",
+        "url": "https://marmaladeco.com/",
+        "domain": "marmaladeco.com",
+        "type": "online",
+        "schema_desc": "Tienda online oficial de Fruit of the Loom que envía a España con garantía de precio y entrega DHL en 2–3 días."
+      },
+      {
+        "name": "Fruit of the Loom (tienda oficial europea)",
+        "info": "La tienda web propia de la marca en Europa, gestionada por Fruit of the Loom International desde Kaiserslautern (Alemania), con versión para España. Ofrece el catálogo actual completo —Valueweight, Original, Iconic, sudaderas Classic, polos y modelos infantiles— y es la mejor referencia para consultar los números de modelo oficiales. Conviene comparar precios con las tiendas de descuento antes de pedir.",
+        "area": "Online · Europa",
+        "url": "https://www.fruitoftheloom.eu/shop/es/",
+        "domain": "fruitoftheloom.eu",
+        "type": "online",
+        "schema_desc": "Tienda online oficial europea de Fruit of the Loom International con el catálogo actual completo."
+      },
+      {
+        "name": "Amazon.es",
+        "info": "El mayor marketplace de España lista cientos de artículos Fruit of the Loom, desde camisetas sueltas hasta packs de 5 (Original, Valueweight, Heavy Cotton), vendidos por Amazon y por vendedores externos. Los precios y los gastos de envío varían según el vendedor, así que comprueba el total en la cesta antes de pagar.",
+        "area": "Online · España",
+        "url": "https://www.amazon.es/s?k=fruit+of+the+loom",
+        "domain": "amazon.es",
+        "type": "online",
+        "schema_desc": "Marketplace Amazon España con una amplia oferta de ropa Fruit of the Loom de Amazon y de vendedores externos."
+      },
+      {
+        "name": "EMP España",
+        "info": "Tienda española del minorista europeo de merchandising y moda alternativa EMP. Unos 22 básicos Fruit of the Loom en el momento de redactar esta guía: camisetas Iconic desde unos 6,79 € en oferta y sudaderas Classic con capucha desde unos 26,99 €. Entrega a domicilio o en oficina de Correos, con envío gratuito a partir de 99,99 €.",
+        "area": "Online · España",
+        "url": "https://www.emp-online.es/marcas-ropa/fruit-of-the-loom/",
+        "domain": "emp-online.es",
+        "type": "online",
+        "schema_desc": "Tienda online española de EMP con camisetas, sudaderas y sudaderas con capucha Fruit of the Loom en euros."
+      },
+      {
+        "name": "Wordans España",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Mayorista online de ropa lisa con más de 90 referencias Fruit of the Loom para España: camisetas desde unos 3,34 €, polos premium desde unos 7,50 € y modelos infantiles desde unos 2,91 € (precios por volumen, sin IVA en muchos listados). Envío gratuito a partir de 79 € y entrega en 24–48 h. Ideal para talleres de estampación, clubes y empresas.",
+        "area": "Online · España",
+        "url": "https://www.wordans.es/ropa-basica-complementos-c37029/fruit-of-the-loom-b6348/camisetas-s2729",
+        "domain": "wordans.es",
+        "type": "online",
+        "schema_desc": "Mayorista online de ropa lisa Fruit of the Loom para estampación y pedidos por volumen en España."
+      },
+      {
+        "name": "Ntextil España",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Mayorista de ropa lisa orientado a impresores, clubes, colegios y empresas. Unas 27 camisetas Fruit of the Loom a precios de volumen —modelos básicos desde menos de 2 € por unidad en promoción— y el 95 % de los pedidos salen en 48 h. La mejor relación calidad-precio cuando compras en cantidad.",
+        "area": "Online · España",
+        "url": "https://www.ntextil.es/ropa-basica-complementos-c37029/fruit-of-the-loom-b6348/camisetas-s2729",
+        "domain": "ntextil.es",
+        "type": "online",
+        "schema_desc": "Mayorista español de ropa lisa Fruit of the Loom para estampación y pedidos al por mayor."
+      },
+      {
+        "name": "ecamisetas.com",
+        "info": "Distribuidor español de ropa publicitaria con taller de personalización propio (serigrafía, bordado, sublimación y DTF). Catálogo Fruit of the Loom 2026 con 41 artículos —camisetas Original desde unos 1,54 €, sudaderas con capucha desde unos 8,02 €, precios sin IVA y por volumen—, envío gratuito a partir de 250 € y plazo de producción de 5–7 días laborables. Pensado para empresas y pedidos personalizados, no para compras unitarias.",
+        "area": "Online · España",
+        "url": "https://www.ecamisetas.com/fruit-of-the-loom.asp",
+        "domain": "ecamisetas.com",
+        "type": "online",
+        "schema_desc": "Distribuidor español de ropa publicitaria que vende y personaliza el catálogo Fruit of the Loom para empresas."
+      },
+      {
+        "name": "Camiseta Fruit",
+        "info": "Tienda online valenciana (Grupo Samalic S.L., Puerto de Sagunto) especializada en Fruit of the Loom para empresas y particulares: camisetas, polos, sudaderas, chaquetas, pantalones cortos y tirantes para hombre, mujer y niño. Precios por volumen sin IVA (camiseta básica de hombre desde unos 1,94 €, sudaderas desde unos 6,23 €) y servicio de personalización.",
+        "area": "Online · Valencia, España",
+        "url": "https://www.camisetafruit.es/fruit-of-the-loom-publicitarios/",
+        "domain": "camisetafruit.es",
+        "type": "online",
+        "schema_desc": "Tienda online valenciana especializada en ropa Fruit of the Loom para empresas y particulares, con personalización."
+      }
+    ],
+    "table_heading": "Todas las tiendas de Fruit of the Loom en España",
+    "price_guide": {
+      "label": "Guía de precios 2026",
+      "h2": "¿Cuánto cuesta Fruit of the Loom en España?",
+      "intro": "Los precios de Fruit of the Loom en España varían mucho según el modelo, la tienda y si compras una unidad o un pack. Esto es lo que puedes esperar pagar en euros con IVA incluido en 2026, con el precio verificado más bajo de cada categoría.",
+      "sections": [
+        {
+          "h3": "Camisetas Fruit of the Loom (precio por unidad)",
+          "p": "Una camiseta clásica Fruit of the Loom cuesta entre 5 y 15 € en las tiendas españolas, según el modelo (Valueweight, Original, Heavy Cotton o Iconic) y dónde compres. La opción verificada más barata para unidades sueltas es Marmalade Co., donde la camiseta unisex en 16 colores y tallas XS–XXXL cuesta <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">desde 6,95 €</a>, y 6,26 € por unidad si compras cinco. Las camisetas de manga larga empiezan en 8,95 €; las de cuello de pico y las de tirantes, en unos 6,95 €."
+        },
+        {
+          "h3": "Sudaderas con capucha y sudaderas Fruit of the Loom",
+          "p": "Las sudaderas con capucha son las prendas de la marca más buscadas en España. Cuenta con 20–40 € por la Classic Hooded Sweat en la mayoría de tiendas; en Marmalade Co. la <a href=\"{{SHOP:/collections/hoodies-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">sudadera con capucha cuesta desde 20,95 €</a> (9 colores, XS–XXXL; 18,86 € por unidad si compras cinco) y la de cremallera desde 27,95 €. La <a href=\"{{SHOP:/collections/sweatshirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">sudadera de cuello redondo empieza en 16,95 €</a> en 10 colores. Ambas usan el tejido de 280 g/m² con 80 % algodón y 20 % poliéster que ha convertido la línea Classic en un clásico de colegios y clubes."
+        },
+        {
+          "h3": "Pantalones de chándal, joggers y chándales",
+          "p": "Los pantalones de chándal Fruit of the Loom vienen en dos versiones: con puño elástico (64-026) y con bajo abierto (64-032). En España cuestan normalmente entre 15 y 30 €; Marmalade Co. los tiene <a href=\"{{SHOP:/collections/joggingbukser-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">desde 16,95 €</a> y a menudo en oferta por unos 11,95 €. Combínalos con una sudadera con capucha o de cuello redondo a juego y un <a href=\"{{SHOP:/collections/joggingsaet-herre-fruit-of-the-loom}}\" rel=\"sponsored nofollow\" target=\"_blank\">chándal completo</a> sale por unos 34–38 €, antes de descuentos por cantidad."
+        },
+        {
+          "h3": "Polos, camisetas de manga larga y pantalones cortos",
+          "p": "El polo Original de Fruit of the Loom, un piqué 100 % algodón muy usado como ropa de trabajo, cuesta entre 10 y 20 € en España; en Marmalade Co. está <a href=\"{{SHOP:/collections/poloshirt-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">desde 10,95 €</a>. Las camisetas Valueweight de manga larga cuestan desde 8,95 € y los pantalones cortos para verano o entrenar <a href=\"{{SHOP:/collections/shorts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">desde 9,95 €</a>. Las tallas infantiles (104–164 cm) suelen ser uno o dos euros más baratas que las de adulto."
+        },
+        {
+          "h3": "Mejor precio: recomendamos Marmalade Co.",
+          "p": "De todas las tiendas que hemos comparado, Marmalade Co. ofrece de forma consistente los precios por unidad más bajos de Fruit of the Loom en Europa, y es la única de nuestra lista con una garantía de precio por escrito: si encuentras el mismo producto más barato en otro sitio, igualan el precio (quedan excluidas promociones tipo Black Friday y productos agotados). Súmale el envío DHL por 7 € fijos, la entrega en 2–3 días y los descuentos por cantidad del 5–10 %, y es nuestra clara nº 1 para comprar online: <a href=\"{{SHOP:/collections/bestsellers}}\" rel=\"sponsored nofollow\" target=\"_blank\">ver los más vendidos</a>."
+        }
+      ]
+    },
+    "quality_guide": {
+      "label": "Guía de calidad",
+      "h2": "¿Es Fruit of the Loom de buena calidad?",
+      "intro": "Fruit of the Loom es conocida por ofrecer una calidad sólida a un precio bajo. Fundada en 1851, la marca tiene más de 170 años de historia, se vende en más de 100 países y pertenece a Berkshire Hathaway desde 2002. Aquí tienes una valoración honesta de lo que obtienes por tu dinero.",
+      "sections": [
+        {
+          "h3": "Materiales y confección",
+          "p": "Las camisetas clásicas son 100 % algodón —ring-spun o peinado en las líneas premium— con gramajes desde aprox. 145 g/m² (Original T) y 165 g/m² (Valueweight T) hasta aprox. 195 g/m² (Heavy Cotton T). Los modelos clásicos tienen cuerpo tubular sin costuras laterales. Las sudaderas Classic son de 280 g/m² en una mezcla de 80 % algodón y 20 % poliéster, a menudo con hilo Belcoro® para una superficie de estampación más lisa. Los colores jaspeados contienen poliéster, y el algodón 100 % puede encoger un pequeño porcentaje en un primer lavado caliente, así que lava a 30–40 °C y evita la secadora a alta temperatura."
+        },
+        {
+          "h3": "Comparada con Gildan, B&C y marcas premium",
+          "p": "Frente a rivales directos como Gildan (Heavy Cotton 5000, Softstyle 64000), B&C, Russell y Sol's, Fruit of the Loom se sitúa en el mismo segmento de básicos de precio medio, con un tacto algo más suave en las líneas premium y una de las gamas de colores más amplias de Europa. Las marcas centradas en algodón orgánico como Stanley/Stella y las firmas de moda como Champion cuestan bastante más por un tejido de gramaje a menudo similar. Para el día a día, el merchandising y la ropa de trabajo, Fruit of the Loom es una de las mejores opciones calidad-precio que existen."
+        },
+        {
+          "h3": "La fábrica de Marruecos y la compra directa",
+          "p": "Gran parte de la gama europea se fabrica en la propia fábrica de Fruit of the Loom en Marruecos, donde el hilo se hila, teje, tiñe, corta y cose bajo un mismo techo con más de 1.000 empleados, corte automatizado y tintado con ahorro de agua. Marmalade Co. compra directamente en esta fábrica y recoge allí la mercancía, lo que acorta la cadena de suministro a tres pasos (fábrica → tienda → cliente) en lugar de los cinco habituales. Esa es la principal razón de que sus precios sean más bajos que los de la mayoría de tiendas."
+        },
+        {
+          "h3": "Dónde comprar Fruit of the Loom original",
+          "p": "Para asegurarte de recibir productos originales con las etiquetas, el tallaje y la certificación OEKO-TEX correctos, compra en distribuidores oficiales o autorizados como la tienda europea de la marca o Marmalade Co., o en mayoristas y tiendas consolidadas. En marketplaces como Amazon y eBay, comprueba quién es el vendedor y cuáles son las condiciones de devolución antes de pedir. Marmalade Co. es la única tienda online de nuestra lista con garantía de precio, lo que te da la seguridad de pagar el precio verificado más bajo por un producto auténtico."
+        }
+      ]
+    },
+    "faq_h2": "Preguntas frecuentes sobre Fruit of the Loom en España",
+    "faq": [
+      {
+        "q": "¿Dónde comprar Fruit of the Loom más barato en España?",
+        "a_html": "La opción verificada más barata para unidades sueltas es <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a>, distribuidor oficial de Fruit of the Loom con camisetas desde 6,95 €, sudaderas desde 16,95 € y sudaderas con capucha desde 20,95 € con IVA incluido, además de garantía de precio y descuentos por cantidad del 5–10 %. Envía desde Dinamarca con DHL por 7 € fijos y entrega en España en 2–3 días laborables. Para pedidos grandes de prendas lisas, mayoristas como Wordans, Ntextil o ecamisetas.com pueden ser competitivos."
+      },
+      {
+        "q": "¿Es Fruit of the Loom de buena calidad?",
+        "a_html": "Sí: por el precio, es una de las marcas de básicos más fiables de Europa. Las camisetas clásicas son 100 % algodón de aprox. 145–195 g/m², las sudaderas Classic son una mezcla resistente de algodón y poliéster de 280 g/m², y las líneas premium usan algodón peinado ring-spun con certificación OEKO-TEX. La marca tiene más de 170 años de historia y pertenece a Berkshire Hathaway desde 2002. Cuenta con un pequeño encogimiento en un primer lavado caliente, así que lava a 30–40 °C."
+      },
+      {
+        "q": "¿Cuánto cuestan las camisetas Fruit of the Loom?",
+        "a_html": "En España una camiseta Fruit of the Loom cuesta normalmente entre 5 y 15 € según el modelo y la tienda. En Marmalade Co. la camiseta unisex cuesta <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">desde 6,95 €</a> en 16 colores (XS–XXXL), y baja a 6,26 € por unidad si compras cinco. Las de manga larga empiezan en 8,95 € y las de cuello de pico y tirantes en unos 6,95 €. Los packs de 5 en Amazon.es pueden salir más baratos por unidad, pero limitan la elección de colores y tallas."
+      },
+      {
+        "q": "¿Cuánto tarda la entrega en España?",
+        "a_html": "Depende de la tienda. Marmalade Co. prepara el pedido en 0–1 día laborable y entrega con DHL en un plazo estimado de 2–3 días laborables en toda España, con seguimiento por e-mail y envío por 7 € fijos. En Amazon.es el plazo depende del vendedor y de dónde esté el stock; EMP entrega a domicilio o en oficina de Correos, y mayoristas como Wordans o Ntextil envían en 24–48 h. Los pedidos personalizados de ecamisetas.com tardan más por el tiempo de producción (5–7 días laborables)."
+      },
+      {
+        "q": "¿Fruit of the Loom o Gildan? ¿Cuál es mejor?",
+        "a_html": "Las dos hacen básicos de buena relación calidad-precio para estampar y para el día a día. La Heavy Cotton 5000 de Gildan es algo más pesada y de corte más cuadrado, mientras que las Valueweight e Iconic de Fruit of the Loom tienen un tacto algo más suave y un corte más europeo; las sudaderas Classic de ambas marcas son mezclas similares de 280 g/m². En España Fruit of the Loom está más distribuida y suele ser más barata por unidad: en Marmalade Co. una camiseta cuesta desde 6,95 € y una sudadera con capucha desde 20,95 €."
+      },
+      {
+        "q": "¿Puedo estampar ropa Fruit of the Loom?",
+        "a_html": "Sí. Fruit of the Loom es una de las marcas más usadas para serigrafía, impresión digital (DTG) y bordado gracias a su hilo Belcoro® liso y a su amplia gama de colores. ecamisetas.com y Camiseta Fruit estampan o bordan las prendas por ti, mientras que Wordans y Ntextil venden prendas lisas para tu propio taller. Si pides prendas lisas en cantidad a Marmalade Co., el descuento por cantidad del 5–10 % mantiene bajo el coste por prenda estampada para clubes, colegios y empresas."
+      },
+      {
+        "q": "¿Quién es el dueño de Fruit of the Loom?",
+        "a_html": "Fruit of the Loom pertenece desde 2002 a Berkshire Hathaway, la sociedad de inversión de Warren Buffett. La marca fue fundada en 1851 en Rhode Island (EE. UU.) por los hermanos Knight, registró su famosa etiqueta de frutas en 1871 —una de las marcas comerciales más antiguas de Estados Unidos— y tiene su sede en Bowling Green, Kentucky. El negocio europeo lo gestiona Fruit of the Loom International desde Kaiserslautern (Alemania), con una gran fábrica en Marruecos."
+      }
+    ],
+    "about": {
+      "label": "Sobre este sitio",
+      "h2": "Sobre fruitotl.com",
+      "p1": "fruitotl.com es una guía independiente y multilingüe que ayuda a consumidores y empresas de toda Europa a encontrar las mejores tiendas, precios y productos de Fruit of the Loom. Comprobamos las tiendas, comparamos precios en euros y actualizamos la lista con regularidad para ofrecerte una visión precisa.",
+      "p2": "El sitio no está vinculado a Fruit of the Loom, Fruit of the Loom International ni Berkshire Hathaway. Algunos enlaces incluyen seguimiento de afiliación, que puede generarnos una pequeña comisión si compras algo, sin coste adicional para ti.",
+      "h3": "Cómo ordenamos las tiendas",
+      "p3": "Nuestra clasificación se basa en tres cosas: precio (comparamos los precios de lista de productos idénticos entre tiendas), disponibilidad (gama, tallas y colores en stock, y plazo de entrega a direcciones españolas) y experiencia de cliente (devoluciones, garantías de precio y atención). Los precios y el stock cambian: comprueba siempre el precio actual en la tienda antes de comprar."
+    },
+    "privacy": {
+      "label": "Aviso legal",
+      "h2": "Política de privacidad",
+      "p1": "fruitotl.com es un sitio de información independiente. No recopilamos datos personales de nuestros visitantes ni usamos cookies de seguimiento o marketing.",
+      "p2": "El sitio contiene enlaces a tiendas externas. Algunos de estos enlaces llevan códigos de afiliación que pueden generarnos una pequeña comisión si realizas una compra, sin coste adicional para ti. No tenemos ningún acuerdo editorial con las tiendas listadas, y nuestras recomendaciones se basan en precio, disponibilidad y experiencia de cliente.",
+      "p3": "El sitio no está vinculado a Fruit of the Loom, Fruit of the Loom International ni Berkshire Hathaway. Fruit of the Loom® es una marca registrada de Fruit of the Loom, Inc.",
+      "p4": "¿Preguntas? Escríbenos a:"
+    },
+    "teaser_keys": [
+      "size-guide",
+      "t-shirts",
+      "hoodies",
+      "sweatshirts",
+      "cheapest",
+      "printing",
+      "workwear",
+      "team-hoodies",
+      "sweatpants",
+      "where-to-buy"
+    ],
+    "brand_desc": "Marca estadounidense de básicos fundada en 1851, propiedad de Berkshire Hathaway, conocida por sus camisetas, sudaderas y pantalones de chándal de algodón a buen precio, vendidos en más de 100 países.",
+    "website_desc": "Guía independiente multilingüe sobre Fruit of the Loom en España: tiendas verificadas, precios actuales en euros, tablas de tallas, análisis de calidad y guías de compra.",
+    "org_desc": "Equipo editorial independiente que publica comparativas de tiendas, guías de precios y guías de producto sobre ropa Fruit of the Loom en Europa.",
+    "knows_about": [
+      "Fruit of the Loom",
+      "Tiendas Fruit of the Loom en España",
+      "Precios Fruit of the Loom",
+      "Tallas Fruit of the Loom",
+      "Ropa lisa para estampar",
+      "Camisetas, sudaderas y sudaderas con capucha de algodón"
+    ],
+    "date_modified": "2026-09-11"
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "articles_slug": "guide",
+  "ui": {
+    "logo_sub": "Guida a rivenditori e prezzi · Italia",
+    "nav_retailers": "Rivenditori",
+    "nav_prices": "Guida ai prezzi",
+    "nav_articles": "Guide",
+    "nav_faq": "FAQ",
+    "menu_open": "Apri il menu",
+    "language_label": "Lingua",
+    "breadcrumb_home": "Home",
+    "quick_answer": "Risposta rapida",
+    "back_to_articles": "Torna a tutte le guide",
+    "read_article": "Leggi la guida",
+    "all_articles": "Vedi tutte le guide",
+    "related_guides": "Guide correlate",
+    "faq_heading": "Domande frequenti",
+    "updated_label": "Aggiornato",
+    "search_placeholder": "Cerca per nome, zona o tipo…",
+    "search_label": "Cerca rivenditori",
+    "showing_all": "Tutti i {n} rivenditori",
+    "showing_n": "{n} di {total} rivenditori",
+    "col_retailer": "Rivenditore",
+    "col_area": "Paese / zona",
+    "col_website": "Sito web",
+    "col_type": "Tipo",
+    "badge_online": "Online",
+    "badge_store": "Negozio",
+    "badge_chain": "Catena",
+    "tag_recommended": "Consigliato",
+    "tag_cheapest": "Più economico",
+    "tag_fast": "Consegna in 2–3 giorni",
+    "tag_store": "Negozio fisico",
+    "tag_lowprice": "Prezzo basso",
+    "mobile_cta": "Vedi i prezzi più bassi in Italia",
+    "footer_tagline": "Guida indipendente a rivenditori e prezzi.",
+    "not_affiliated": "Non affiliato a Fruit of the Loom né a Fruit of the Loom International.",
+    "articles_teaser_label": "Guide e approfondimenti",
+    "articles_teaser_heading": "Guide Fruit of the Loom",
+    "articles_teaser_p": "{n} guide approfondite: t-shirt, felpe e pantaloni della tuta, tabelle taglie, qualità, stampa, abbigliamento da lavoro e dove comprare al prezzo più basso in Italia.",
+    "articles_hero_eyebrow": "Guide · Consigli · Confronti",
+    "articles_h1_html": "<span class=\"hl\">Fruit of the Loom</span>: guide e articoli",
+    "articles_hero_p": "Tutto quello che c'è da sapere su Fruit of the Loom: modelli, taglie, prezzi, qualità, stampa e i posti migliori dove comprare in Italia.",
+    "articles_title": "Guide Fruit of the Loom – Modelli, Taglie, Prezzi e Dove Comprare 2026",
+    "articles_description": "Tutte le guide di fruitotl.com in un unico posto: t-shirt, felpe con cappuccio, felpe girocollo, tabelle taglie, qualità, stampa e i rivenditori più economici in Italia nel 2026.",
+    "articles_keywords": "fruit of the loom guida, fruit of the loom taglie, fruit of the loom prezzi, fruit of the loom felpa, fruit of the loom maglietta, dove comprare fruit of the loom",
+    "not_found_title": "Pagina non trovata",
+    "not_found_p": "La pagina che cercavi non esiste o è stata spostata. Riparti dalla home per trovare rivenditori, prezzi e guide.",
+    "not_found_btn": "Vai alla home",
+    "og_alt": "Fruit of the Loom in Italia – prezzi più bassi e migliori rivenditori"
+  },
+  "index": {
+    "title": "Fruit of the Loom in Italia 2026 – Prezzi più bassi e rivenditori",
+    "description": "Dove comprare Fruit of the Loom in Italia nel 2026: 10 rivenditori verificati a confronto. T-shirt da 6,95 €, felpe con cappuccio da 20,95 €, consegna DHL in 2–3 giorni.",
+    "keywords": "fruit of the loom, fruit of the loom italia, fruit of the loom shop online, comprare fruit of the loom, maglietta fruit of the loom, felpa fruit of the loom, fruit of the loom prezzi, rivenditori fruit of the loom, fruit of the loom economico, felpa con cappuccio fruit of the loom",
+    "hero_eyebrow": "Italia · Aggiornato 2026",
+    "h1_html": "<span class=\"hl\">Fruit of the Loom</span> in Italia —<br>prezzi più bassi e migliori rivenditori",
+    "hero_p": "La guida completa per comprare Fruit of the Loom in Italia: rivenditori verificati, prezzi attuali in euro, tempi di consegna e consigli onesti.",
+    "stats": [
+      {
+        "n": "10",
+        "label": "Rivenditori verificati"
+      },
+      {
+        "n": "#1",
+        "label": "Scelta migliore: Marmalade Co."
+      },
+      {
+        "n": "170+",
+        "label": "Anni di storia del marchio"
+      },
+      {
+        "n": "2026",
+        "label": "Ultimo aggiornamento"
+      }
+    ],
+    "breadcrumb_current": "Rivenditori Fruit of the Loom in Italia",
+    "quick_answer": "In Italia Fruit of the Loom si trova presso 10 rivenditori verificati: online da <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a> (la nostra scelta n. 1: rivenditore ufficiale, garanzia del prezzo più basso, spedizione DHL a 7 € fissi e consegna in Italia in 2–3 giorni lavorativi), nello shop ufficiale europeo del marchio, su Amazon.it, nei grossisti tessili Wordans, Needen, TopTex e Innovativewear e nelle stamperie online Vistaprint, Pixartprinting e Bros Print. Prezzi tipici da Marmalade Co.: t-shirt da 6,95 €, felpe girocollo da 16,95 € e felpe con cappuccio da 20,95 €, IVA inclusa.",
+    "intro_label": "Su questa guida",
+    "intro_h2": "I migliori rivenditori Fruit of the Loom in Italia nel 2026",
+    "intro_html": "<p>Cerchi magliette, felpe con cappuccio, felpe girocollo o pantaloni della tuta Fruit of the Loom in Italia? Sei nel posto giusto. Manteniamo un elenco sempre aggiornato dei rivenditori che vendono davvero il marchio — dallo shop ufficiale europeo ad Amazon.it, dai grossisti tessili alle stamperie online — così puoi confrontare prezzi e condizioni di consegna in un'unica pagina.</p><p>Se vuoi il prezzo più basso e una consegna rapida, il nostro consiglio è chiaro: Marmalade Co. su <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">marmaladeco.com</a>, rivenditore ufficiale Fruit of the Loom con garanzia del prezzo più basso, prezzi in euro IVA inclusa, spedizione DHL a 7 € fissi e consegna in Italia in 2–3 giorni lavorativi. Lo shop è in inglese, ma l'ordine è semplice e il tracking arriva via e-mail.</p><p>Qui sotto trovi tutti i rivenditori in ordine di raccomandazione, con una breve nota su ciò per cui ciascuno è più adatto: una singola felpa, un pacco di t-shirt o 200 magliette bianche da stampare.</p>",
+    "top_pick": {
+      "h3": "La nostra raccomandazione n. 1: Marmalade Co.",
+      "p_html": "Rivenditore online ufficiale con i prezzi Fruit of the Loom più bassi che abbiamo verificato in Europa — t-shirt da 6,95 €, felpe con cappuccio da 20,95 € — e una garanzia del prezzo più basso. Acquista direttamente dalla fabbrica Fruit of the Loom in Marocco, spedisce con DHL a 7 € fissi e consegna in Italia in 2–3 giorni lavorativi. Sconti quantità del 5 % su 3 pezzi e del 10 % da 5 pezzi: per questo è apprezzato da associazioni sportive, scuole e piccole aziende oltre che dai privati.",
+      "btn": "Vai su Marmalade Co."
+    },
+    "retailers": [
+      {
+        "name": "Marmalade Co.",
+        "tags": [
+          "recommended",
+          "cheapest",
+          "fast"
+        ],
+        "info": "Rivenditore ufficiale Fruit of the Loom con i prezzi più bassi verificati in Europa, garanzia del prezzo più basso e sconti quantità sulla maggior parte dei prodotti. Spedisce dalla Danimarca con DHL a 7 € fissi, con consegna in Italia in 2–3 giorni lavorativi e tracking via e-mail.",
+        "area": "Online · spedisce in Italia",
+        "url": "https://marmaladeco.com/",
+        "domain": "marmaladeco.com",
+        "type": "online",
+        "schema_desc": "Rivenditore online ufficiale Fruit of the Loom che spedisce in Italia con garanzia del prezzo più basso e consegna DHL in 2–3 giorni."
+      },
+      {
+        "name": "Fruit of the Loom (shop ufficiale EU)",
+        "info": "Lo shop online europeo del marchio, gestito da Fruit of the Loom International (Kaiserslautern, Germania) e disponibile anche in italiano. Offre il catalogo completo — Valueweight, Original, Iconic, felpe Classic, polo e taglie bambino — ed è il riferimento migliore per i codici modello ufficiali. Conviene confrontare i prezzi con i rivenditori scontati prima di ordinare.",
+        "area": "Online · Europa",
+        "url": "https://www.fruitoftheloom.eu/shop/it/",
+        "domain": "fruitoftheloom.eu",
+        "type": "online",
+        "schema_desc": "Shop online ufficiale europeo di Fruit of the Loom International con il catalogo completo, disponibile in italiano."
+      },
+      {
+        "name": "Amazon.it",
+        "info": "Il marketplace più grande d'Italia elenca centinaia di articoli Fruit of the Loom, dalle singole t-shirt ai multipack, venduti sia da Amazon sia da venditori terzi. Prezzi e costi di spedizione variano da venditore a venditore, quindi controlla il totale al momento del pagamento e chi spedisce l'articolo.",
+        "area": "Online · Italia",
+        "url": "https://www.amazon.it/Abbigliamento-Fruit-of-the-Loom/s?rh=n%3A2844433031%2Cp_4%3AFruit%2Bof%2Bthe%2BLoom",
+        "domain": "amazon.it",
+        "type": "online",
+        "schema_desc": "Marketplace Amazon Italia con un'ampia gamma di abbigliamento Fruit of the Loom venduto da Amazon e da venditori terzi."
+      },
+      {
+        "name": "Wordans Italia",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Grossista online di abbigliamento promozionale con circa 175 articoli Fruit of the Loom al momento della stesura: t-shirt, felpe con cappuccio, polo, pantaloni da jogging e giacche, anche a singolo pezzo. Spedizione gratuita da 69 € e consegna dichiarata in 48–72 ore. Adatto sia a privati sia a chi ordina in quantità per la stampa.",
+        "area": "Online · Italia",
+        "url": "https://www.wordans.it/fruit-of-the-loom-b6348",
+        "domain": "wordans.it",
+        "type": "online",
+        "schema_desc": "Grossista online italiano di abbigliamento promozionale con un'ampia gamma Fruit of the Loom e spedizione gratuita da 69 €."
+      },
+      {
+        "name": "Needen Italia",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Shop online di abbigliamento a prezzi all'ingrosso senza minimo d'ordine, con circa 76 articoli Fruit of the Loom al momento della stesura — t-shirt, felpe con cappuccio e polo piqué, spesso in offerta. Il 95 % degli ordini parte entro 48 ore con corrieri come DHL, UPS e GLS.",
+        "area": "Online · Italia",
+        "url": "https://www.needen.it/fruit-of-the-loom-b6348",
+        "domain": "needen.it",
+        "type": "online",
+        "schema_desc": "Shop online italiano di abbigliamento promozionale a prezzi all'ingrosso con t-shirt, felpe e polo Fruit of the Loom."
+      },
+      {
+        "name": "TopTex Italia",
+        "info": "Distributore B2B di abbigliamento personalizzabile con il catalogo Fruit of the Loom — Original T, Iconic T, polo Premium, felpe Classic con cappuccio e pantaloni Open Hem — in 15–31 colori per articolo. Mostra i prezzi di vendita consigliati, ma l'acquisto richiede un account professionale: è pensato per rivenditori e stamperie, non per privati.",
+        "area": "Online · Italia (B2B)",
+        "url": "https://www.top-tex.it/marchi/fruit-of-the-loom",
+        "domain": "top-tex.it",
+        "type": "online",
+        "schema_desc": "Distributore B2B italiano di abbigliamento personalizzabile con il catalogo Fruit of the Loom per rivenditori e stamperie."
+      },
+      {
+        "name": "Innovativewear",
+        "info": "Grossista italiano di abbigliamento promozionale attivo dal 1993, con un'ampia sezione Fruit of the Loom: t-shirt, felpe, pantaloni e polo per la stampa e il ricamo. Rivolto ad aziende, stamperie e rivenditori; i prezzi all'ingrosso si vedono dopo l'accesso con account professionale.",
+        "area": "Online · Italia (B2B)",
+        "url": "https://www.innovativewear.com/brands/fruit-of-the-loom",
+        "domain": "innovativewear.com",
+        "type": "online",
+        "schema_desc": "Grossista B2B italiano di abbigliamento promozionale con felpe, t-shirt, polo e pantaloni Fruit of the Loom."
+      },
+      {
+        "name": "Vistaprint Italia",
+        "info": "Servizio di stampa online con 42 articoli Fruit of the Loom al momento della stesura — maglietta unisex, Iconic, Valueweight da donna, Premium da uomo, maniche lunghe, canotte e taglie bambino — personalizzabili senza quantità minima. Consegna standard in circa 3 giorni su alcuni prodotti e spedizione urgente disponibile.",
+        "area": "Online · Italia",
+        "url": "https://www.vistaprint.it/abbigliamento-borse/magliette/magliette-fol",
+        "domain": "vistaprint.it",
+        "type": "online",
+        "schema_desc": "Servizio di stampa online che personalizza t-shirt Fruit of the Loom senza quantità minima con consegna in Italia."
+      },
+      {
+        "name": "Pixartprinting",
+        "info": "Stamperia online italiana con sede a Quarto d'Altino (Venezia) che personalizza t-shirt Fruit of the Loom in serigrafia, stampa digitale e ricamo, in taglie da XS a XXL per uomo, donna e bambino. Anche piccole quantità; il prezzo si calcola con il preventivo online in base a tecnica, colori e pezzi.",
+        "area": "Online · Italia",
+        "url": "https://www.pixartprinting.it/gadget-personalizzati/t-shirt-fruit-of-the-loom/",
+        "domain": "pixartprinting.it",
+        "type": "online",
+        "schema_desc": "Stamperia online italiana che personalizza t-shirt Fruit of the Loom in serigrafia, stampa digitale e ricamo."
+      },
+      {
+        "name": "Bros Print",
+        "info": "Stamperia online italiana specializzata in abbigliamento personalizzato Fruit of the Loom: t-shirt, polo, canotte, felpe, pantaloni felpati e taglie bambino, stampati in serigrafia, stampa digitale o ricamo. Adatta a squadre, eventi e aziende che vogliono i capi già personalizzati.",
+        "area": "Online · Italia",
+        "url": "https://shop.brosprint.it/i-nostri-marchi/fruit-loom",
+        "domain": "brosprint.it",
+        "type": "online",
+        "schema_desc": "Stamperia online italiana che vende abbigliamento Fruit of the Loom personalizzato con serigrafia, stampa digitale e ricamo."
+      }
+    ],
+    "table_heading": "Tutti i rivenditori Fruit of the Loom in Italia",
+    "price_guide": {
+      "label": "Guida ai prezzi 2026",
+      "h2": "Quanto costa Fruit of the Loom in Italia?",
+      "intro": "I prezzi Fruit of the Loom in Italia variano molto in base al modello, al rivenditore e al fatto che tu compri un pezzo singolo o un multipack. Ecco cosa aspettarti nel 2026, in euro IVA inclusa, con il prezzo più basso verificato per ogni categoria.",
+      "sections": [
+        {
+          "h3": "T-shirt Fruit of the Loom (prezzo al pezzo)",
+          "p": "Una classica maglietta Fruit of the Loom costa circa 5–15 € tra i rivenditori italiani, a seconda del modello (Valueweight, Original, Heavy Cotton o Iconic) e di dove la compri. L'opzione più economica verificata per i pezzi singoli è Marmalade Co., dove la t-shirt unisex in 16 colori e taglie XS–XXXL costa <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">da 6,95 €</a> — e 6,26 € l'una se ne compri cinque. Le maniche lunghe partono da 8,95 €, scollo a V e canotte da circa 6,95 €."
+        },
+        {
+          "h3": "Felpe con cappuccio e felpe girocollo Fruit of the Loom",
+          "p": "Le felpe con cappuccio sono i capi in felpa più venduti del marchio in Italia. Nella maggior parte dei negozi la Classic Hooded Sweat costa 20–40 €; da Marmalade Co. la <a href=\"{{SHOP:/collections/hoodies-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">felpa con cappuccio costa da 20,95 €</a> (9 colori, XS–XXXL; 18,86 € l'una per cinque pezzi) e la versione con zip da 27,95 €. La <a href=\"{{SHOP:/collections/sweatshirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">felpa girocollo parte da 16,95 €</a> in 10 colori. Entrambe usano il tessuto da 280 g/m² in 80 % cotone / 20 % poliestere che ha reso la linea Classic un punto fermo per scuole e associazioni."
+        },
+        {
+          "h3": "Pantaloni della tuta, joggers e tute complete",
+          "p": "I pantaloni della tuta Fruit of the Loom esistono in due versioni: con polsino elastico (64-026) e a fondo aperto (64-032). In Italia costano di solito 15–30 € al paio; Marmalade Co. propone i <a href=\"{{SHOP:/collections/joggingbukser-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">pantaloni della tuta da 16,95 €</a>, spesso in offerta a circa 11,95 €. Abbinali a una felpa con cappuccio o girocollo dello stesso colore e una <a href=\"{{SHOP:/collections/joggingsaet-herre-fruit-of-the-loom}}\" rel=\"sponsored nofollow\" target=\"_blank\">tuta completa</a> costa circa 34–38 €, prima degli sconti quantità."
+        },
+        {
+          "h3": "Polo, t-shirt a maniche lunghe e pantaloncini",
+          "p": "La polo Original Fruit of the Loom, in piqué di cotone e molto usata come divisa da lavoro, costa in Italia circa 10–20 €; da Marmalade Co. parte <a href=\"{{SHOP:/collections/poloshirt-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">da 10,95 €</a>. Le t-shirt Valueweight a maniche lunghe costano da 8,95 € e i pantaloncini per l'estate o l'allenamento <a href=\"{{SHOP:/collections/shorts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">da 9,95 €</a>. Le taglie bambino (104–164 cm) costano in genere uno o due euro meno degli equivalenti da adulto."
+        },
+        {
+          "h3": "Miglior prezzo: consigliamo Marmalade Co.",
+          "p": "Tra tutti i rivenditori che abbiamo confrontato, Marmalade Co. offre con costanza i prezzi al pezzo più bassi su Fruit of the Loom in Italia ed è l'unico shop del nostro elenco con una garanzia scritta del prezzo più basso: se trovi lo stesso prodotto a meno altrove, lo adegua (escluse promozioni tipo Black Friday e articoli esauriti). Aggiungi spedizione DHL a 7 € fissi, consegna in 2–3 giorni e sconti quantità del 5–10 %, ed è la nostra chiara scelta n. 1 per chi compra online — <a href=\"{{SHOP:/collections/bestsellers}}\" rel=\"sponsored nofollow\" target=\"_blank\">vedi i bestseller attuali</a>."
+        }
+      ]
+    },
+    "quality_guide": {
+      "label": "Guida alla qualità",
+      "h2": "Fruit of the Loom è di buona qualità?",
+      "intro": "Fruit of the Loom è noto per una qualità solida a un prezzo basso. Fondato nel 1851, il marchio ha più di 170 anni di storia, è venduto in oltre 100 paesi e dal 2002 appartiene a Berkshire Hathaway. Ecco uno sguardo onesto a cosa ottieni per i tuoi soldi.",
+      "sections": [
+        {
+          "h3": "Materiali e costruzione",
+          "p": "Le t-shirt classiche sono 100 % cotone — ring-spun o pettinato nelle linee premium — con grammature da circa 145 g/m² (Original T) e 165 g/m² (Valueweight T) fino a circa 195 g/m² (Heavy Cotton T). Le magliette classiche hanno una costruzione tubolare, senza cuciture laterali. Le felpe Classic sono da 280 g/m² in 80 % cotone / 20 % poliestere, spesso filate con filato Belcoro® per una superficie di stampa più liscia. I colori mélange contengono poliestere, e il 100 % cotone può restringersi di qualche punto percentuale al primo lavaggio caldo: lava a 30–40 °C ed evita l'asciugatrice a temperatura alta."
+        },
+        {
+          "h3": "A confronto con Gildan, B&C e i marchi premium",
+          "p": "Rispetto ai rivali diretti come Gildan (Heavy Cotton 5000, Softstyle 64000), B&C, Russell e Sol's, Fruit of the Loom si colloca nella stessa fascia di prezzo media dei basic, con una mano leggermente più morbida nelle linee premium e una delle gamme colori più ampie in Europa. I marchi orientati al biologico come Stanley/Stella e le etichette fashion come Champion costano molto di più per una grammatura spesso simile. Per l'uso quotidiano, il merchandising e l'abbigliamento da lavoro, Fruit of the Loom è tra le scelte con il miglior rapporto qualità-prezzo disponibili."
+        },
+        {
+          "h3": "La fabbrica in Marocco e l'acquisto diretto",
+          "p": "Gran parte della gamma europea è prodotta nella fabbrica di proprietà di Fruit of the Loom in Marocco, dove il filato viene filato, tessuto, tinto, tagliato e cucito sotto lo stesso tetto da più di 1.000 dipendenti, con taglio automatizzato e tintura a risparmio idrico. Marmalade Co. acquista direttamente da questa fabbrica e ritira lì la merce, accorciando la filiera a tre passaggi (fabbrica → rivenditore → cliente) invece dei soliti cinque. È il motivo principale per cui i suoi prezzi sono più bassi di quelli della maggior parte degli altri rivenditori."
+        },
+        {
+          "h3": "Dove comprare Fruit of the Loom originale",
+          "p": "Per essere sicuro di ricevere prodotti originali con etichette, taglie e certificazione OEKO-TEX corrette, compra da rivenditori ufficiali o autorizzati come lo shop europeo del marchio o Marmalade Co., oppure da grossisti e stamperie affermati. Su marketplace come Amazon ed eBay, controlla chi è il venditore e quali sono le condizioni di reso prima di ordinare. Marmalade Co. è l'unico rivenditore online del nostro elenco con una garanzia del prezzo più basso, che ti dà la certezza di pagare il prezzo verificato più basso per un prodotto autentico."
+        }
+      ]
+    },
+    "faq_h2": "Domande frequenti su Fruit of the Loom in Italia",
+    "faq": [
+      {
+        "q": "Dove si compra Fruit of the Loom al prezzo più basso in Italia?",
+        "a_html": "L'opzione più economica verificata per i pezzi singoli è <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a>, rivenditore ufficiale Fruit of the Loom con t-shirt da 6,95 €, felpe girocollo da 16,95 € e felpe con cappuccio da 20,95 € IVA inclusa, più una garanzia del prezzo più basso e sconti quantità del 5–10 %. Spedisce dalla Danimarca con DHL a 7 € fissi e consegna in Italia in 2–3 giorni lavorativi. Per ordini in quantità di capi bianchi, grossisti come Wordans, Needen o TopTex possono essere competitivi."
+      },
+      {
+        "q": "Fruit of the Loom è di buona qualità?",
+        "a_html": "Sì: per il prezzo è uno dei marchi di basic più affidabili in Italia e in Europa. Le t-shirt classiche sono 100 % cotone da circa 145–195 g/m², le felpe Classic sono un robusto misto cotone/poliestere da 280 g/m² e le linee premium usano cotone pettinato ring-spun con certificazione OEKO-TEX. Il marchio ha oltre 170 anni di storia e dal 2002 appartiene a Berkshire Hathaway. Aspettati qualche punto percentuale di restringimento al primo lavaggio caldo, quindi resta sui 30–40 °C."
+      },
+      {
+        "q": "Quanto costano le t-shirt Fruit of the Loom?",
+        "a_html": "In Italia una maglietta Fruit of the Loom costa in genere 5–15 € a seconda del modello e del rivenditore. Da Marmalade Co. la t-shirt unisex costa <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">da 6,95 €</a> in 16 colori (XS–XXXL), che scendono a 6,26 € l'una se ne compri cinque. Le maniche lunghe partono da 8,95 €, scollo a V e canotte da circa 6,95 €. I multipack su Amazon.it possono costare meno al pezzo, ma di solito limitano la scelta di colori e taglie."
+      },
+      {
+        "q": "Quanto tempo richiede la consegna in Italia?",
+        "a_html": "Dipende dal rivenditore. Marmalade Co. spedisce entro 0–1 giorno lavorativo e consegna con DHL in circa 2–3 giorni lavorativi in Italia, con tracking via e-mail e spedizione a 7 € fissi. Su Amazon.it la consegna dipende dal venditore e dal magazzino, Wordans dichiara 48–72 ore e Needen spedisce il 95 % degli ordini entro 48 ore. Gli ordini personalizzati da Vistaprint, Pixartprinting o Bros Print richiedono più tempo per via della produzione."
+      },
+      {
+        "q": "Fruit of the Loom o Gildan: qual è meglio?",
+        "a_html": "Entrambi producono basic dal buon rapporto qualità-prezzo per la stampa e l'uso quotidiano. La Heavy Cotton 5000 di Gildan è un po' più pesante e squadrata, mentre le Valueweight e Iconic di Fruit of the Loom hanno una mano leggermente più morbida e una vestibilità più europea; le felpe Classic dei due marchi sono mischie simili da 280 g/m². In Italia Fruit of the Loom è molto più diffuso e spesso più economico al pezzo: da Marmalade Co. una t-shirt costa da 6,95 € e una felpa con cappuccio da 20,95 €."
+      },
+      {
+        "q": "Posso far stampare l'abbigliamento Fruit of the Loom?",
+        "a_html": "Sì. Fruit of the Loom è uno dei marchi più usati per serigrafia, stampa digitale (DTG) e ricamo, grazie al filato liscio Belcoro® e alla vasta gamma di colori. Vistaprint, Pixartprinting e Bros Print stampano o ricamano i capi per te, mentre Wordans, Needen e TopTex vendono i capi bianchi per la tua stamperia di fiducia. Se ordini capi bianchi in quantità da Marmalade Co., lo sconto quantità del 5–10 % mantiene basso il costo per pezzo stampato per squadre, scuole e aziende."
+      },
+      {
+        "q": "A chi appartiene Fruit of the Loom?",
+        "a_html": "Fruit of the Loom appartiene dal 2002 a Berkshire Hathaway, la società di investimento di Warren Buffett. Il marchio è stato fondato nel 1851 nel Rhode Island, USA, dai fratelli Knight, ha registrato la sua celebre etichetta con la frutta nel 1871 — uno dei marchi più antichi degli Stati Uniti — e ha sede a Bowling Green, nel Kentucky. L'attività europea è gestita da Fruit of the Loom International da Kaiserslautern, in Germania, con una grande fabbrica in Marocco."
+      }
+    ],
+    "about": {
+      "label": "Su questo sito",
+      "h2": "Chi siamo: fruitotl.com",
+      "p1": "fruitotl.com è una guida indipendente e multilingue che aiuta consumatori e aziende in tutta Europa a trovare i migliori rivenditori, prezzi e prodotti Fruit of the Loom. Verifichiamo i rivenditori, confrontiamo i prezzi in euro e aggiorniamo regolarmente l'elenco per darti una panoramica accurata.",
+      "p2": "Il sito non è affiliato a Fruit of the Loom, Fruit of the Loom International o Berkshire Hathaway. Alcuni link sul sito contengono un tracciamento di affiliazione che può farci guadagnare una piccola commissione se acquisti qualcosa, senza alcun costo aggiuntivo per te.",
+      "h3": "Come classifichiamo i rivenditori",
+      "p3": "La nostra classifica si basa su tre elementi: prezzo (confrontiamo i prezzi di listino di prodotti identici tra i rivenditori), disponibilità (gamma, taglie e colori a magazzino e tempi di consegna in Italia) ed esperienza del cliente (resi, garanzie sul prezzo e assistenza). Prezzi e disponibilità cambiano: controlla sempre il prezzo attuale presso il rivenditore prima di acquistare."
+    },
+    "privacy": {
+      "label": "Note legali",
+      "h2": "Informativa sulla privacy",
+      "p1": "fruitotl.com è un sito informativo indipendente. Non raccogliamo dati personali dei visitatori e non usiamo cookie per il tracciamento o il marketing.",
+      "p2": "Il sito contiene link a rivenditori esterni. Alcuni di questi link includono codici di affiliazione che possono farci guadagnare una piccola commissione se effettui un acquisto, senza alcun costo aggiuntivo per te. Non abbiamo accordi editoriali con i rivenditori elencati e le nostre raccomandazioni si basano su prezzo, disponibilità ed esperienza del cliente.",
+      "p3": "Il sito non è affiliato a Fruit of the Loom, Fruit of the Loom International o Berkshire Hathaway. Fruit of the Loom® è un marchio registrato di Fruit of the Loom, Inc.",
+      "p4": "Domande? Scrivi a:"
+    },
+    "teaser_keys": [
+      "size-guide",
+      "t-shirts",
+      "hoodies",
+      "sweatshirts",
+      "cheapest",
+      "printing",
+      "workwear",
+      "team-hoodies",
+      "sweatpants",
+      "where-to-buy"
+    ],
+    "brand_desc": "Marchio americano di basic fondato nel 1851, di proprietà di Berkshire Hathaway, noto per t-shirt, felpe con cappuccio, felpe girocollo e pantaloni della tuta in cotone a prezzi accessibili, venduti in oltre 100 paesi.",
+    "website_desc": "Guida indipendente e multilingue a Fruit of the Loom in Italia: rivenditori verificati, prezzi attuali in euro, tabelle taglie, valutazioni della qualità e guide all'acquisto.",
+    "org_desc": "Redazione indipendente che pubblica confronti tra rivenditori, guide ai prezzi e guide ai prodotti sull'abbigliamento Fruit of the Loom in Italia e in Europa.",
+    "knows_about": [
+      "Fruit of the Loom",
+      "Rivenditori Fruit of the Loom in Italia",
+      "Prezzi Fruit of the Loom",
+      "Guida alle taglie Fruit of the Loom",
+      "Abbigliamento bianco per la stampa",
+      "T-shirt, felpe con cappuccio e felpe girocollo in cotone"
+    ],
+    "date_modified": "2026-09-11"
+  }
+}
