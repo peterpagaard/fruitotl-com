@@ -51,16 +51,28 @@
   },
   "index": {
     "title": "Fruit of the Loom em Portugal 2026 – preços e lojas",
-    "description": "Onde comprar Fruit of the Loom em Portugal em 2026: 8 lojas verificadas comparadas. T-shirts desde 6,95 €, hoodies desde 20,95 € e entrega DHL em 2–3 dias úteis.",
+    "description": "Onde comprar Fruit of the Loom em Portugal em 2026: 8 lojas verificadas. T-shirts desde 6,95 €, hoodies desde 20,95 € e entrega DHL em 2–3 dias úteis.",
     "keywords": "fruit of the loom, fruit of the loom portugal, comprar fruit of the loom online, t-shirt fruit of the loom, hoodie fruit of the loom, sweat fruit of the loom, preços fruit of the loom, lojas fruit of the loom, fruit of the loom barato, sweatshirt fruit of the loom",
     "hero_eyebrow": "Portugal · Atualizado em 2026",
     "h1_html": "<span class=\"hl\">Fruit of the Loom</span> em Portugal —<br>preços mais baixos e melhores lojas",
     "hero_p": "O guia completo para comprar Fruit of the Loom em Portugal — lojas verificadas, preços atuais em euros, prazos de entrega e recomendações honestas.",
     "stats": [
-      {"n": "8", "label": "Lojas verificadas"},
-      {"n": "#1", "label": "Escolha n.º 1: Marmalade Co."},
-      {"n": "170+", "label": "Anos de história da marca"},
-      {"n": "2026", "label": "Última atualização"}
+      {
+        "n": "8",
+        "label": "Lojas verificadas"
+      },
+      {
+        "n": "#1",
+        "label": "Escolha n.º 1: Marmalade Co."
+      },
+      {
+        "n": "170+",
+        "label": "Anos de história da marca"
+      },
+      {
+        "n": "2026",
+        "label": "Última atualização"
+      }
     ],
     "breadcrumb_current": "Lojas Fruit of the Loom em Portugal",
     "quick_answer": "Em Portugal, a Fruit of the Loom é vendida por 8 lojas verificadas — online através da <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a> (a nossa escolha n.º 1: loja oficial, garantia de preço, envio DHL fixo de 7 € e entrega em Portugal em 2–3 dias úteis), da loja oficial europeia da marca, da Amazon.es e da Sport Zone, e ainda de grossistas têxteis como a Wordans, a Needen, a Ntextil e a TopTex. Preços típicos na Marmalade Co.: t-shirts desde 6,95 €, sweatshirts desde 16,95 € e hoodies desde 20,95 €, tudo com IVA incluído.",
@@ -75,7 +87,11 @@
     "retailers": [
       {
         "name": "Marmalade Co.",
-        "tags": ["recommended", "cheapest", "fast"],
+        "tags": [
+          "recommended",
+          "cheapest",
+          "fast"
+        ],
         "info": "Loja oficial Fruit of the Loom com os preços mais baixos verificados, garantia de preço e descontos de quantidade na maioria dos produtos. Preços em euros com IVA. Envia da Dinamarca com DHL por 7 € fixos, com entrega em Portugal em 2–3 dias úteis.",
         "area": "Online · envia para Portugal",
         "url": "https://marmaladeco.com/",
@@ -112,7 +128,9 @@
       },
       {
         "name": "Wordans Portugal",
-        "tags": ["lowprice"],
+        "tags": [
+          "lowprice"
+        ],
         "info": "Grossista online de roupa lisa para personalizar, com mais de 90 modelos de t-shirt Fruit of the Loom à data da consulta e preços desde cerca de 2,95 € em promoção. Pensado para estamparias, revenda e encomendas em quantidade, com entrega em Portugal em 24–48 h.",
         "area": "Online · Portugal",
         "url": "https://www.wordans.pt/roupa-basica-acessorios-c37029/fruit-of-the-loom-b6348/t-shirts-s2729",
@@ -122,7 +140,9 @@
       },
       {
         "name": "Needen Portugal",
-        "tags": ["lowprice"],
+        "tags": [
+          "lowprice"
+        ],
         "info": "Loja online de vestuário básico com cerca de 75 artigos Fruit of the Loom à data da consulta: t-shirts desde cerca de 2,19 €, polos desde 7,99 € e sweatshirts desde 10,99 €, com muitas peças de outlet em desconto. A maioria das encomendas sai em 48 horas.",
         "area": "Online · Portugal",
         "url": "https://www.needen.pt/fruit-of-the-loom-b6348",
@@ -132,7 +152,9 @@
       },
       {
         "name": "Ntextil Portugal",
-        "tags": ["lowprice"],
+        "tags": [
+          "lowprice"
+        ],
         "info": "Fornecedor de roupa lisa para estamparias, clubes, escolas e empresas, com cerca de 65 artigos Fruit of the Loom — t-shirts, sweats, polos e calças — a preços de quantidade. A maioria das encomendas sai em 48 horas por CTT, DHL ou UPS. Compensa sobretudo em encomendas grandes.",
         "area": "Online · Portugal e UE",
         "url": "https://www.ntextil.pt/roupa-basica-acessorios-c37029/fruit-of-the-loom-b6348",
@@ -248,11 +270,29 @@
       "p3": "O site não tem qualquer ligação à Fruit of the Loom, à Fruit of the Loom International ou à Berkshire Hathaway. Fruit of the Loom® é uma marca registada da Fruit of the Loom, Inc.",
       "p4": "Dúvidas? E-mail:"
     },
-    "teaser_keys": ["size-guide", "t-shirts", "hoodies", "sweatshirts", "cheapest", "printing", "workwear", "team-hoodies", "sweatpants", "where-to-buy"],
+    "teaser_keys": [
+      "size-guide",
+      "t-shirts",
+      "hoodies",
+      "sweatshirts",
+      "cheapest",
+      "printing",
+      "workwear",
+      "team-hoodies",
+      "sweatpants",
+      "where-to-buy"
+    ],
     "brand_desc": "Marca norte-americana de básicos fundada em 1851, pertencente à Berkshire Hathaway, conhecida pelas t-shirts, hoodies, sweatshirts e calças de treino de algodão a preços acessíveis, vendidas em mais de 100 países.",
     "website_desc": "Guia independente e multilingue sobre a Fruit of the Loom em Portugal e na Europa: lojas verificadas, preços atuais em euros, tabelas de tamanhos, análises de qualidade e guias de compra.",
     "org_desc": "Equipa editorial independente que publica comparações de lojas, guias de preços e guias de produto sobre roupa Fruit of the Loom na Europa.",
-    "knows_about": ["Fruit of the Loom", "Lojas Fruit of the Loom em Portugal", "Preços Fruit of the Loom", "Tabela de tamanhos Fruit of the Loom", "Roupa lisa para estampar", "T-shirts, hoodies e sweatshirts de algodão"],
+    "knows_about": [
+      "Fruit of the Loom",
+      "Lojas Fruit of the Loom em Portugal",
+      "Preços Fruit of the Loom",
+      "Tabela de tamanhos Fruit of the Loom",
+      "Roupa lisa para estampar",
+      "T-shirts, hoodies e sweatshirts de algodão"
+    ],
     "date_modified": "2026-09-14"
   }
 }
