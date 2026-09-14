@@ -44,5 +44,10 @@ Artikler uden oversættelse i et sprog udelades bare fra det sprogs hreflang/sit
 
 ## Automatik
 
-Planlagt opgave `fruitotl-biweekly` (Claude scheduled task, 1. og 15. i måneden kl. 10:00):
-skriver én ny artikel på alle sprog, bumper `date_modified` på et roterende sæt artikler, bygger, validerer, health-checker det live site og pusher.
+Planlagt opgave `fruitotl-weekly` (Claude scheduled task, hver tirsdag kl. 10:08, kører når Claude-appen er åben):
+1. udfylder manglende oversættelser (maks 8 filer pr. kørsel),
+2. når alle sprog er komplette: skriver én ny artikel fra `TOPIC-BACKLOG.md` på alle sprog,
+3. bumper `date_modified` på de 4 ældste artikler, bygger, validerer, pusher og tjekker det live site,
+4. sender en kort dansk rapport.
+
+Nye emner: tilføj en linje i `TOPIC-BACKLOG.md`.
