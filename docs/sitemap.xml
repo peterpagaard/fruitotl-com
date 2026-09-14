@@ -6,7 +6,12 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://fruitoftheloom.dk/" />
   </url>
   <url>
     <loc>https://fruitotl.com/guides</loc>
@@ -14,6 +19,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/guides" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/ratgeber" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/gidsen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/guides" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/guias" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/guides" />
   </url>
   <url>
@@ -22,6 +31,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-camisetas" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-t-shirts" />
   </url>
   <url>
@@ -30,6 +43,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-sweat-a-capuche" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-sudaderas-con-capucha" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-hoodies" />
   </url>
   <url>
@@ -38,6 +55,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-sweaters" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-sudaderas" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-sweatshirts" />
   </url>
   <url>
@@ -46,6 +67,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-sweatpants" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-jogginghose" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-joggingbroek" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-pantalon-jogging" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-pantalones-chandal" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-sweatpants" />
   </url>
   <url>
@@ -54,6 +79,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-tracksuit" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-jogginganzug" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-joggingpak" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-survetement" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-chandal" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-tracksuit" />
   </url>
   <url>
@@ -62,6 +91,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-polo-shirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-poloshirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-polos" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-polo-shirts" />
   </url>
   <url>
@@ -70,6 +103,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-long-sleeve" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-langarmshirt" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-longsleeve" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-manches-longues" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-camisetas-manga-larga" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-long-sleeve" />
   </url>
   <url>
@@ -78,6 +115,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-shorts-summer" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-shorts-zomer" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-pantalones-cortos-verano" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-shorts-summer" />
   </url>
   <url>
@@ -86,6 +125,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-kids" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-kinderkleding" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-ninos" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-kids" />
   </url>
   <url>
@@ -207,5 +248,481 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/where-to-buy-fruit-of-the-loom-europe" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/where-to-buy-fruit-of-the-loom-europe" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/de/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://fruitoftheloom.dk/" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/de/ratgeber</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/guides" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/ratgeber" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/gidsen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/guides" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/guias" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/guides" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/de/fruit-of-the-loom-t-shirts</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-camisetas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-t-shirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/de/fruit-of-the-loom-hoodies</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-sweat-a-capuche" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-sudaderas-con-capucha" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-hoodies" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/de/fruit-of-the-loom-sweatshirts</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-sweaters" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-sudaderas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-sweatshirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/de/fruit-of-the-loom-jogginghose</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-sweatpants" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-jogginghose" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-joggingbroek" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-pantalon-jogging" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-pantalones-chandal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-sweatpants" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/de/fruit-of-the-loom-jogginganzug</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-tracksuit" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-jogginganzug" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-joggingpak" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-survetement" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-chandal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-tracksuit" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/de/fruit-of-the-loom-poloshirts</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-polo-shirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-poloshirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-polo-shirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/de/fruit-of-the-loom-langarmshirt</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-long-sleeve" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-langarmshirt" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-longsleeve" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-manches-longues" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-camisetas-manga-larga" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-long-sleeve" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://fruitoftheloom.dk/" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/gidsen</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/guides" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/ratgeber" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/gidsen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/guides" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/guias" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/guides" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/fruit-of-the-loom-t-shirts</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-camisetas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-t-shirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/fruit-of-the-loom-hoodies</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-sweat-a-capuche" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-sudaderas-con-capucha" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-hoodies" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/fruit-of-the-loom-sweaters</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-sweaters" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-sudaderas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-sweatshirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/fruit-of-the-loom-joggingbroek</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-sweatpants" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-jogginghose" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-joggingbroek" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-pantalon-jogging" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-pantalones-chandal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-sweatpants" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/fruit-of-the-loom-joggingpak</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-tracksuit" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-jogginganzug" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-joggingpak" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-survetement" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-chandal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-tracksuit" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/fruit-of-the-loom-polos</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-polo-shirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-poloshirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-polo-shirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/fruit-of-the-loom-longsleeve</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-long-sleeve" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-langarmshirt" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-longsleeve" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-manches-longues" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-camisetas-manga-larga" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-long-sleeve" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/fruit-of-the-loom-shorts-zomer</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-shorts-summer" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-shorts-zomer" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-pantalones-cortos-verano" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-shorts-summer" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/nl/fruit-of-the-loom-kinderkleding</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-kids" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-kinderkleding" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-ninos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-kids" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/fr/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://fruitoftheloom.dk/" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/fr/guides</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/guides" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/ratgeber" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/gidsen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/guides" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/guias" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/guides" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/fr/fruit-of-the-loom-t-shirts</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-camisetas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-t-shirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/fr/fruit-of-the-loom-sweat-a-capuche</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-sweat-a-capuche" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-sudaderas-con-capucha" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-hoodies" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/fr/fruit-of-the-loom-sweatshirts</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-sweaters" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-sudaderas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-sweatshirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/fr/fruit-of-the-loom-pantalon-jogging</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-sweatpants" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-jogginghose" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-joggingbroek" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-pantalon-jogging" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-pantalones-chandal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-sweatpants" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/fr/fruit-of-the-loom-survetement</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-tracksuit" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-jogginganzug" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-joggingpak" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-survetement" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-chandal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-tracksuit" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/fr/fruit-of-the-loom-polos</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-polo-shirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-poloshirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-polo-shirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/fr/fruit-of-the-loom-manches-longues</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-long-sleeve" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-langarmshirt" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-longsleeve" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-manches-longues" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-camisetas-manga-larga" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-long-sleeve" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://fruitoftheloom.dk/" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/guias</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/guides" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/ratgeber" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/gidsen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/guides" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/guias" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/guides" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/fruit-of-the-loom-camisetas</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-t-shirts" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-camisetas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-t-shirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/fruit-of-the-loom-sudaderas-con-capucha</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-hoodies" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-sweat-a-capuche" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-sudaderas-con-capucha" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-hoodies" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/fruit-of-the-loom-sudaderas</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-sweaters" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-sweatshirts" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-sudaderas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-sweatshirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/fruit-of-the-loom-pantalones-chandal</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-sweatpants" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-jogginghose" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-joggingbroek" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-pantalon-jogging" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-pantalones-chandal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-sweatpants" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/fruit-of-the-loom-chandal</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-tracksuit" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-jogginganzug" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-joggingpak" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-survetement" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-chandal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-tracksuit" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/fruit-of-the-loom-polos</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-polo-shirts" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-poloshirts" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-polos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-polo-shirts" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/fruit-of-the-loom-camisetas-manga-larga</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-long-sleeve" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://fruitotl.com/de/fruit-of-the-loom-langarmshirt" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-longsleeve" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fruitotl.com/fr/fruit-of-the-loom-manches-longues" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-camisetas-manga-larga" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-long-sleeve" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/fruit-of-the-loom-pantalones-cortos-verano</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-shorts-summer" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-shorts-zomer" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-pantalones-cortos-verano" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-shorts-summer" />
+  </url>
+  <url>
+    <loc>https://fruitotl.com/es/fruit-of-the-loom-ninos</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fruitotl.com/fruit-of-the-loom-kids" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://fruitotl.com/nl/fruit-of-the-loom-kinderkleding" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://fruitotl.com/es/fruit-of-the-loom-ninos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fruitotl.com/fruit-of-the-loom-kids" />
   </url>
 </urlset>

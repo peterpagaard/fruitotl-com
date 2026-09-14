@@ -727,6 +727,7 @@ def main():
         validate(site, arts, ctx)
         arts.sort(key=lambda a: (a.get("order", 999), a.get("date_published","")), reverse=False)
         all_sites[L["lang"]] = {"site": site, "articles": arts, "articles_by_key": {a["key"]: a for a in arts}}
+    languages = [L for L in languages if L["lang"] in all_sites]
     langs = [all_sites[L["lang"]]["site"] for L in languages]
 
     if ctx["errors"]:
