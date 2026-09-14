@@ -45,6 +45,7 @@ def strip_tags(s):
 def jsonld(obj):
     return json.dumps(obj, ensure_ascii=False, separators=(",", ":"))
 
+CURRENT_PAGE = ["home"]   # page key used as utm_term (set before each page is built)
 LANG_CFG = {}        # filled in main() from content/languages.json
 UNMAPPED = set()     # shop paths without a mapping for a non-default shop (reported as warnings)
 # marmaladeco.com path -> marmalade.se path (Swedish shop has its own collection handles)
@@ -101,7 +102,7 @@ def shop_url(lang, path="/", content="inline", raw=False):
     if not raw: path = map_path(lang, path)
     sep = "&" if "?" in path else "?"
     return (f"{shop_base(lang)}{path}{sep}utm_source=fruitotl.com&utm_medium=referral"
-            f"&utm_campaign=organic-{lang}&utm_content={content}")
+            f"&utm_campaign=organic-{lang}&utm_content={content}&utm_term={CURRENT_PAGE[0]}")
 
 def page_url(site, slug=""):
     d = site["dir"]
@@ -900,15 +901,19 @@ def main():
         site, arts, abk = s["site"], s["articles"], s["articles_by_key"]
         d = site["dir"]
         prefix = f"{d}/" if d else ""
+        CURRENT_PAGE[0] = "home"
         pages[f"{prefix}index.html"] = build_index(site, langs, abk, all_sites, ctx)
         urls.append((page_url(site), site["index"].get("date_modified", TODAY), "1.0", "weekly", alternates_for(langs, {x["lang"]: page_url(x) for x in langs}) + [("da", "https://fruitoftheloom.dk/")]))
+        CURRENT_PAGE[0] = "guides"
         pages[f"{prefix}{site['articles_slug']}.html"] = build_articles_list(site, langs, arts, abk, all_sites, ctx)
         urls.append((page_url(site, site["articles_slug"]), max([a["date_modified"] for a in arts] or [TODAY]), "0.9", "weekly", alternates_for(langs, {x["lang"]: page_url(x, x["articles_slug"]) for x in langs})))
         for a in arts:
+            CURRENT_PAGE[0] = a["key"]
             pages[f"{prefix}{a['slug']}.html"] = build_article(site, langs, a, abk, all_sites, ctx)
             per = {x["lang"]: page_url(x, all_sites[x["lang"]]["articles_by_key"][a["key"]]["slug"]) for x in langs if a["key"] in all_sites[x["lang"]]["articles_by_key"]}
             urls.append((page_url(site, a["slug"]), a["date_modified"], "0.8", "monthly", alternates_for(langs, per)))
     en = all_sites["en"]["site"]
+    CURRENT_PAGE[0] = "404"
     pages["404.html"] = build_404(en, langs)
 
     # internal link check
