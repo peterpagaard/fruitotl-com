@@ -1,0 +1,295 @@
+{
+  "articles_slug": "guider",
+  "ui": {
+    "logo_sub": "Butiks- & prisguide · Sverige",
+    "nav_retailers": "Butiker",
+    "nav_prices": "Prisguide",
+    "nav_articles": "Guider",
+    "nav_faq": "Vanliga frågor",
+    "menu_open": "Öppna menyn",
+    "language_label": "Språk",
+    "breadcrumb_home": "Hem",
+    "quick_answer": "Snabbt svar",
+    "back_to_articles": "Tillbaka till alla guider",
+    "read_article": "Läs guiden",
+    "all_articles": "Se alla guider",
+    "related_guides": "Relaterade guider",
+    "faq_heading": "Vanliga frågor",
+    "updated_label": "Uppdaterad",
+    "search_placeholder": "Sök namn, ort eller typ…",
+    "search_label": "Sök butiker",
+    "showing_all": "Visar alla {n} butiker",
+    "showing_n": "Visar {n} av {total} butiker",
+    "col_retailer": "Butik",
+    "col_area": "Område",
+    "col_website": "Webbplats",
+    "col_type": "Typ",
+    "badge_online": "Online",
+    "badge_store": "Butik",
+    "badge_chain": "Kedja",
+    "tag_recommended": "Rekommenderas",
+    "tag_cheapest": "Billigast",
+    "tag_fast": "Leverans 1–3 dagar",
+    "tag_store": "Fysisk butik",
+    "tag_lowprice": "Lågt pris",
+    "mobile_cta": "Se de lägsta priserna i Sverige",
+    "footer_tagline": "Oberoende butiks- och prisguide.",
+    "not_affiliated": "Inte knuten till Fruit of the Loom eller Fruit of the Loom International.",
+    "articles_teaser_label": "Kunskap & guider",
+    "articles_teaser_heading": "Guider om Fruit of the Loom",
+    "articles_teaser_p": "{n} grundliga guider – från t-shirts, huvtröjor och mjukisbyxor till storlekstabeller, kvalitet, tryck, företagskläder och var du köper billigast i Sverige.",
+    "articles_hero_eyebrow": "Kunskap · Guider · Tips",
+    "articles_h1_html": "<span class=\"hl\">Fruit of the Loom</span> – guider &amp; artiklar",
+    "articles_hero_p": "Allt du behöver veta om Fruit of the Loom – modeller, storlekar, priser, kvalitet, tryck och de bästa ställena att köpa i Sverige.",
+    "articles_title": "Fruit of the Loom-guider 2026 – modeller, storlekar & priser",
+    "articles_description": "Alla guider på fruitotl.com: Fruit of the Loom t-shirts, huvtröjor, sweatshirts, storlekstabeller, kvalitet, tryck och de billigaste butikerna i Sverige 2026.",
+    "articles_keywords": "fruit of the loom guide, fruit of the loom storlekar, fruit of the loom pris, fruit of the loom hoodie, fruit of the loom t-shirt, var köper man fruit of the loom",
+    "not_found_title": "Sidan hittades inte",
+    "not_found_p": "Sidan du letade efter finns inte eller har flyttats. Börja på startsidan för att hitta butiker, priser och guider.",
+    "not_found_btn": "Till startsidan",
+    "og_alt": "Fruit of the Loom i Sverige – lägsta priser och bästa butikerna"
+  },
+  "index": {
+    "title": "Fruit of the Loom i Sverige 2026 – billigast pris & butiker",
+    "description": "Var köper man Fruit of the Loom i Sverige 2026? 8 kontrollerade butiker jämförda. T-shirts från 69 kr, huvtröjor från 219 kr, leverans på 1–3 arbetsdagar.",
+    "keywords": "fruit of the loom, fruit of the loom sverige, köpa fruit of the loom, fruit of the loom t-shirt, fruit of the loom hoodie, fruit of the loom huvtröja, fruit of the loom pris, fruit of the loom återförsäljare, billig fruit of the loom, fruit of the loom sweatshirt",
+    "hero_eyebrow": "Sverige · Uppdaterad 2026",
+    "h1_html": "<span class=\"hl\">Fruit of the Loom</span> i Sverige —<br>lägsta priser &amp; bästa butikerna",
+    "hero_p": "Den kompletta guiden till att köpa Fruit of the Loom i Sverige – kontrollerade butiker, aktuella priser i kronor, leveranstider och ärliga rekommendationer.",
+    "stats": [
+      {
+        "n": "8",
+        "label": "Kontrollerade butiker"
+      },
+      {
+        "n": "#1",
+        "label": "Vårt förstaval: Marmalade Co."
+      },
+      {
+        "n": "170+",
+        "label": "År av varumärkeshistoria"
+      },
+      {
+        "n": "2026",
+        "label": "Senast uppdaterad"
+      }
+    ],
+    "breadcrumb_current": "Fruit of the Loom-butiker i Sverige",
+    "quick_answer": "Fruit of the Loom säljs av 8 kontrollerade butiker i Sverige – online hos <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a> (vårt förstaval: officiell återförsäljare, priser i kronor, PostNord-leverans på 1–3 arbetsdagar och fri frakt till ombud från 399 kr), grossisterna Wordans, Needen och Ntextil samt tryckerierna och profilklädesbutikerna TS Reklam, Prendo, Egettryck och ProfileXpress. Typiska priser hos Marmalade Co.: t-shirts från 69 kr, sweatshirts från 179 kr och huvtröjor från 219 kr, inklusive 25 % moms.",
+    "intro_label": "Om guiden",
+    "intro_h2": "De bästa butikerna för Fruit of the Loom i Sverige 2026",
+    "intro_html": "<p>Letar du efter Fruit of the Loom t-shirts, huvtröjor, sweatshirts eller mjukisbyxor i Sverige? Då har du kommit rätt. Vi håller en löpande uppdaterad lista över butikerna som faktiskt säljer märket – från svenska nätbutiker och textilgrossister till tryckerier som trycker klasströjor, föreningströjor och företagskläder med logga – så att du kan jämföra priser och leveransvillkor på ett ställe.</p><p>Vill du ha lägsta pris och snabb leverans är vår tydliga rekommendation Marmalade Co. på <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">marmalade.se</a>: en officiell återförsäljare av Fruit of the Loom med priser i kronor inklusive moms, leverans med PostNord på 1–3 arbetsdagar i hela Sverige, fri frakt till ombud från 399 kr och Swish i kassan.</p><p>Nedan hittar du alla butiker rankade efter vår rekommendation, med en kort kommentar om vad var och en passar bäst till – oavsett om det gäller en enda huvtröja, några t-shirts eller 200 blanka tröjor för tryck.</p>",
+    "top_pick": {
+      "h3": "Vår rekommendation nr 1: Marmalade Co.",
+      "p_html": "Officiell nätbutik med de lägsta kontrollerade Fruit of the Loom-priserna vi hittat för privatpersoner i Sverige – t-shirts från 69 kr, huvtröjor från 219 kr. Köper direkt från Fruit of the Loom-fabriken i Marocko, skickar med PostNord samma dag vid beställning före 15.00 på vardagar och levererar på 1–3 arbetsdagar. Fri frakt till ombud från 399 kr och mängdrabatt på 5 % från 3 st, 10 % från 6 st och 15 % från 10 st – populärt bland föreningar, skolklasser och småföretag lika mycket som bland privatpersoner.",
+      "btn": "Besök Marmalade Co."
+    },
+    "retailers": [
+      {
+        "name": "Marmalade Co.",
+        "tags": [
+          "recommended",
+          "cheapest",
+          "fast"
+        ],
+        "info": "Officiell återförsäljare av Fruit of the Loom med priser i kronor och de lägsta kontrollerade priserna för privatpersoner. PostNord-leverans på 1–3 arbetsdagar, fri frakt till ombud från 399 kr, mängdrabatt upp till 15 % och betalning med bland annat Swish.",
+        "area": "Online · hela Sverige",
+        "url": "https://marmalade.se/",
+        "domain": "marmalade.se",
+        "type": "online",
+        "schema_desc": "Officiell Fruit of the Loom-återförsäljare online med priser i SEK, PostNord-leverans på 1–3 arbetsdagar och mängdrabatt upp till 15 %."
+      },
+      {
+        "name": "Wordans",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Europeisk nätbutik för blanka kläder med svensk sajt och priser i kronor. Brett Fruit of the Loom-sortiment – t-shirts, huvtröjor, pikéer, mjukisbyxor och barnplagg – med låga styckpriser vid större antal. Leverans inom 24–48 timmar enligt butiken; bäst för dig som köper många plagg till tryck.",
+        "area": "Online · Sverige",
+        "url": "https://www.wordans.se/fruit-of-the-loom-b-3",
+        "domain": "wordans.se",
+        "type": "online",
+        "schema_desc": "Nätbutik för blanka kläder med ett brett Fruit of the Loom-sortiment och priser i kronor."
+      },
+      {
+        "name": "Needen",
+        "info": "Grossist för blanka kläder och profilprodukter som riktar sig till företag, tryckerier och återförsäljare. Säljer både Fruit of the Loom och Fruit of the Loom Vintage, med t-shirts, pikéer och huvtröjor utan tryck. Passar dig som låter trycka plaggen någon annanstans.",
+        "area": "Online · Sverige",
+        "url": "https://www.needen.se/",
+        "domain": "needen.se",
+        "type": "online",
+        "schema_desc": "Svensk grossistbutik för blanka kläder med Fruit of the Loom och Fruit of the Loom Vintage."
+      },
+      {
+        "name": "Ntextil",
+        "tags": [
+          "lowprice"
+        ],
+        "info": "Partihandel för t-shirts och blanka kläder med ett stort Fruit of the Loom-sortiment, bland annat Valueweight T, Original T och Super Premium T. Enligt butiken lämnar 95 % av ordrarna lagret inom 48 timmar, med leverans via PostNord, Bring eller PickUp. Bäst värde när du köper i större antal.",
+        "area": "Online · Sverige",
+        "url": "https://www.ntextil.se/fruit-of-the-loom-b6348",
+        "domain": "ntextil.se",
+        "type": "online",
+        "schema_desc": "Partihandel med blanka Fruit of the Loom-kläder för tryck och större beställningar i Sverige."
+      },
+      {
+        "name": "TS Reklam",
+        "info": "Svenskt tryckeri som trycker och broderar Fruit of the Loom-kläder i egen produktion – screentryck och brodyr från 10 plagg. Enligt butiken levereras tryckta order på cirka 2 arbetsdagar. Priserna visas exklusive moms, så sajten riktar sig främst till företag och föreningar.",
+        "area": "Online · Sverige (eget tryckeri)",
+        "url": "https://www.tsreklam.se/sv-se/varumarken/fruit-of-the-loom",
+        "domain": "tsreklam.se",
+        "type": "online",
+        "schema_desc": "Svenskt tryckeri som erbjuder Fruit of the Loom-kläder med screentryck och brodyr från 10 plagg."
+      },
+      {
+        "name": "Prendo",
+        "info": "Svensk återförsäljare av profilkläder med cirka 74 Fruit of the Loom-artiklar – t-shirts, pikéer, huvtröjor, sweatshirts och byxor för dam, herr och barn. Plaggen kan beställas med eget tryck eller brodyr; priserna anges inklusive moms. Kontakta butiken för leveranstid och minsta upplaga.",
+        "area": "Online · Sverige",
+        "url": "https://www.prendo.se/med-tryck/varumarken/fruit-of-the-loom",
+        "domain": "prendo.se",
+        "type": "online",
+        "schema_desc": "Svensk profilklädesbutik med ett stort Fruit of the Loom-sortiment med eget tryck eller brodyr."
+      },
+      {
+        "name": "Egettryck.se",
+        "info": "Nätbutik för kläder med eget tryck och brodyr utan minsta upplaga, med ett trettiotal Fruit of the Loom-plagg: t-shirts, huvtröjor, sweatshirts och barnkläder. Passar när du vill ha några få personliga plagg. Leveranstiden är normalt 1–2 veckor eftersom varje order trycks separat.",
+        "area": "Online · Sverige",
+        "url": "https://egettryck.se/8_fruit-of-the-loom",
+        "domain": "egettryck.se",
+        "type": "online",
+        "schema_desc": "Svensk nätbutik för Fruit of the Loom-kläder med eget tryck eller brodyr utan minsta upplaga."
+      },
+      {
+        "name": "ProfileXpress",
+        "info": "Göteborgsbaserad leverantör av profilkläder med cirka 74 Fruit of the Loom-produkter – t-shirts, huvtröjor, pikéer, sweatwear och underkläder – med tryck eller brodyr. Riktar sig främst till företag som vill ha arbetskläder och företagskläder med logga.",
+        "area": "Online · Sverige",
+        "url": "https://www.profilexpress.se/med-tryck/varumaerken/fruit-of-the-loom",
+        "domain": "profilexpress.se",
+        "type": "online",
+        "schema_desc": "Svensk leverantör av profilkläder med Fruit of the Loom-plagg med tryck eller brodyr för företag."
+      }
+    ],
+    "table_heading": "Alla butiker för Fruit of the Loom i Sverige",
+    "price_guide": {
+      "label": "Prisguide 2026",
+      "h2": "Vad kostar Fruit of the Loom i Sverige?",
+      "intro": "Priserna på Fruit of the Loom i Sverige varierar mycket beroende på modell, butik och om du köper ett plagg eller många. Här är vad du kan räkna med att betala i kronor inklusive 25 % moms 2026 – med det lägsta kontrollerade priset för varje kategori.",
+      "sections": [
+        {
+          "h3": "Fruit of the Loom t-shirts (pris per styck)",
+          "p": "En klassisk Fruit of the Loom t-shirt kostar ungefär 50–150 kr hos svenska butiker, beroende på modell (Valueweight, Original, Heavy Cotton eller Iconic) och var du handlar. Det billigaste kontrollerade alternativet för enstaka plagg är Marmalade Co., där unisex-t-shirten kostar <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">från 69 kr</a> – och cirka 59 kr styck när du köper tio. Långärmade t-shirts kostar från 109 kr, v-ringade från 69 kr och linnen från 79 kr."
+        },
+        {
+          "h3": "Fruit of the Loom huvtröjor och sweatshirts",
+          "p": "Huvtröjan är märkets populäraste plagg i Sverige. Räkna med 200–400 kr för Classic Hooded Sweat hos de flesta butiker; hos Marmalade Co. kostar <a href=\"{{SHOP:/collections/hoodies-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">huvtröjan från 219 kr</a> och zip-hoodien från 299 kr. <a href=\"{{SHOP:/collections/sweatshirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">Sweatshirten med rund hals kostar från 179 kr</a>. Båda är sydda i 280 g/m² tyg av 80 % bomull och 20 % polyester – samma tyg som gjort Classic-serien till ett självklart val för klasströjor och föreningströjor."
+        },
+        {
+          "h3": "Mjukisbyxor, joggingbyxor och mjukisset",
+          "p": "Fruit of the Loom-joggingbyxor finns i två varianter – med mudd (64-026) och med rak benslut (64-032). Typiska priser i Sverige är 125–300 kr; Marmalade Co. säljer <a href=\"{{SHOP:/collections/joggingbukser-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">mjukisbyxor från 125 kr</a>. Kombinera med en matchande huvtröja eller sweatshirt så landar ett helt <a href=\"{{SHOP:/collections/joggingsaet-herre-fruit-of-the-loom}}\" rel=\"sponsored nofollow\" target=\"_blank\">mjukisset</a> på cirka 304–344 kr, före mängdrabatt."
+        },
+        {
+          "h3": "Pikéer, långärmade t-shirts och shorts",
+          "p": "Fruit of the Loom Original-pikén i 100 % bomullspiké är populär som arbetskläder och kostar ungefär 100–200 kr i Sverige; hos Marmalade Co. kostar den <a href=\"{{SHOP:/collections/poloshirt-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">från 119 kr</a>. Långärmade Valueweight-tröjor kostar från 109 kr och shorts för sommar eller träning <a href=\"{{SHOP:/collections/shorts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">från 109 kr</a>. Barnstorlekar (104–164 cl) är ofta något billigare än motsvarande vuxenplagg."
+        },
+        {
+          "h3": "Bästa pris: Marmalade Co. rekommenderas",
+          "p": "Av alla butiker vi jämfört har Marmalade Co. genomgående de lägsta styckpriserna på Fruit of the Loom för privatpersoner i Sverige. Lägg till PostNord-leverans på 1–3 arbetsdagar, fri frakt till ombud från 399 kr (annars 49 kr), 14 dagars ångerrätt och mängdrabatt på 5–15 %, så är det vårt tydliga förstaval för den som handlar online – <a href=\"{{SHOP:/collections/bestsellers}}\" rel=\"sponsored nofollow\" target=\"_blank\">se sortimentet</a>."
+        }
+      ]
+    },
+    "quality_guide": {
+      "label": "Kvalitetsguide",
+      "h2": "Har Fruit of the Loom bra kvalitet?",
+      "intro": "Fruit of the Loom är känt för stabil kvalitet till lågt pris. Märket grundades 1851, har mer än 170 års historia, säljs i över 100 länder och ägs sedan 2002 av Berkshire Hathaway. Här är en ärlig genomgång av vad du får för pengarna.",
+      "sections": [
+        {
+          "h3": "Material och konstruktion",
+          "p": "De klassiska t-shirtarna är i 100 % bomull – ringspunnen eller kammad i premiumserierna – med vikter från cirka 145 g/m² (Original T) och 165 g/m² (Valueweight T) upp till cirka 195 g/m² (Heavy Cotton T). Klassiska t-shirts är rundstickade utan sidsömmar. Classic-sweatplaggen väger 280 g/m² i en blandning av 80 % bomull och 20 % polyester, ofta av Belcoro®-garn som ger en slät tryckyta. Melerade färger innehåller polyester, och 100 % bomull kan krympa några procent vid en varm första tvätt – tvätta i 30–40 °C och undvik varm torktumling."
+        },
+        {
+          "h3": "Jämfört med Gildan, B&C och premiummärken",
+          "p": "Mot direkta konkurrenter som Gildan (Heavy Cotton 5000, Softstyle 64000), B&C, Russell och Sol's ligger Fruit of the Loom i samma prissegment för basplagg, med en något mjukare känsla i premiumserierna och ett av de bredaste färgutbuden i Europa. Ekologiskt inriktade märken som Stanley/Stella och modemärken som Champion kostar betydligt mer för ofta liknande tygvikt. För vardag, merch och arbetskläder är Fruit of the Loom ett av de mest prisvärda valen."
+        },
+        {
+          "h3": "Fabriken i Marocko och direktinköp",
+          "p": "En stor del av det europeiska sortimentet tillverkas i Fruit of the Looms egen fabrik i Marocko, där garnet spinns, stickas, färgas, skärs och sys under samma tak av mer än 1 000 anställda, med automatiserad tillskärning och vattenbesparande färgning. Marmalade Co. köper direkt från fabriken och hämtar varorna där, vilket kortar leveranskedjan till tre led (fabrik → återförsäljare → kund) i stället för de vanliga fem. Det är huvudskälet till att priserna är lägre än hos de flesta andra butiker."
+        },
+        {
+          "h3": "Var köper man äkta Fruit of the Loom?",
+          "p": "För att vara säker på att få äkta plagg med rätt etiketter, storlekar och OEKO-TEX-certifiering bör du handla hos officiella eller auktoriserade återförsäljare som Marmalade Co., eller hos etablerade grossister och tryckerier. På marknadsplatser bör du kontrollera vem säljaren är och vilka returvillkor som gäller innan du beställer. Marmalade Co. har de lägsta kontrollerade priserna på vår lista, 14 dagars ångerrätt och visar OEKO-TEX-certifikat på produktsidorna."
+        }
+      ]
+    },
+    "faq_h2": "Vanliga frågor om Fruit of the Loom i Sverige",
+    "faq": [
+      {
+        "q": "Var köper man Fruit of the Loom billigast i Sverige?",
+        "a_html": "Det billigaste kontrollerade alternativet för enstaka plagg är <a href=\"{{SHOP}}\" rel=\"sponsored nofollow\" target=\"_blank\">Marmalade Co.</a>, en officiell återförsäljare av Fruit of the Loom med t-shirts från 69 kr, sweatshirts från 179 kr och huvtröjor från 219 kr inklusive moms, plus mängdrabatt på 5–15 %. Butiken skickar med PostNord, levererar på 1–3 arbetsdagar och har fri frakt till ombud från 399 kr. För stora mängder blanka plagg till tryck kan grossister som Ntextil eller Wordans vara konkurrenskraftiga."
+      },
+      {
+        "q": "Har Fruit of the Loom bra kvalitet?",
+        "a_html": "Ja – för priset är det ett av de mest pålitliga märkena för basplagg. De klassiska t-shirtarna är 100 % bomull på cirka 145–195 g/m², Classic-sweatplaggen är en tålig blandning av bomull och polyester på 280 g/m², och premiumserierna använder kammad, ringspunnen bomull med OEKO-TEX-certifiering. Märket har över 170 års historia och ägs sedan 2002 av Berkshire Hathaway. Räkna med några procents krympning vid varm första tvätt, så håll dig till 30–40 °C."
+      },
+      {
+        "q": "Vad kostar en Fruit of the Loom t-shirt?",
+        "a_html": "I Sverige kostar en Fruit of the Loom t-shirt oftast 50–150 kr beroende på modell och butik. Hos Marmalade Co. kostar unisex-t-shirten <a href=\"{{SHOP:/collections/t-shirts-herre}}\" rel=\"sponsored nofollow\" target=\"_blank\">från 69 kr</a>, och med mängdrabatten blir den cirka 59 kr styck från tio plagg. Långärmade t-shirts kostar från 109 kr och linnen från 79 kr. Grossister har ännu lägre styckpriser, men då köper du oftast många plagg och betalar frakt separat."
+      },
+      {
+        "q": "Hur lång är leveranstiden i Sverige?",
+        "a_html": "Det beror på butiken. Marmalade Co. skickar samma dag vid beställning före 15.00 på vardagar och levererar med PostNord på 1–3 arbetsdagar i hela Sverige – fri frakt till ombud från 399 kr, annars 49 kr, och hemleverans för 120 kr. Grossister som Ntextil och Wordans skickar oftast inom 48 timmar. Tryckta beställningar tar längre tid: TS Reklam anger cirka 2 arbetsdagar och Egettryck normalt 1–2 veckor."
+      },
+      {
+        "q": "Fruit of the Loom eller Gildan – vilket är bäst?",
+        "a_html": "Båda gör prisvärda basplagg för tryck och vardag. Gildans Heavy Cotton 5000 är något tyngre och mer boxig, medan Fruit of the Looms Valueweight- och Iconic-tröjor har en mjukare känsla och en mer europeisk passform; Classic-sweatplaggen från båda märkena är likvärdiga 280 g/m²-blandningar. I Sverige är Fruit of the Loom mer lättillgängligt för privatpersoner – hos Marmalade Co. kostar en t-shirt från 69 kr och en huvtröja från 219 kr."
+      },
+      {
+        "q": "Kan man få Fruit of the Loom-kläder med tryck?",
+        "a_html": "Ja. Fruit of the Loom är ett av de mest använda märkena för screentryck, DTG och brodyr tack vare det släta Belcoro®-garnet och det breda färgutbudet. TS Reklam, Prendo, Egettryck och ProfileXpress trycker eller broderar plaggen åt dig, medan Ntextil, Needen och Wordans säljer blanka plagg till ditt eget tryckeri. Köper du blanka plagg i antal hos Marmalade Co. håller mängdrabatten på upp till 15 % nere kostnaden per tröja för klasser, föreningar och företag."
+      },
+      {
+        "q": "Vem äger Fruit of the Loom?",
+        "a_html": "Fruit of the Loom ägs sedan 2002 av Berkshire Hathaway, Warren Buffetts investmentbolag. Märket grundades 1851 i Rhode Island i USA av bröderna Knight, registrerade sin berömda fruktlogga 1871 – ett av USA:s äldsta varumärken – och har huvudkontor i Bowling Green, Kentucky. Den europeiska verksamheten drivs av Fruit of the Loom International från Kaiserslautern i Tyskland, med en stor fabrik i Marocko."
+      }
+    ],
+    "about": {
+      "label": "Om sajten",
+      "h2": "Om fruitotl.com",
+      "p1": "fruitotl.com är en oberoende, flerspråkig guide som hjälper privatpersoner och företag att hitta de bästa butikerna, priserna och produkterna från Fruit of the Loom. Vi kontrollerar butiker, jämför priser i kronor och uppdaterar listan regelbundet så att du får en korrekt överblick.",
+      "p2": "Sajten är inte knuten till Fruit of the Loom, Fruit of the Loom International eller Berkshire Hathaway. Vissa länkar på sajten innehåller affiliatespårning, vilket kan ge oss en liten provision om du köper något – utan extra kostnad för dig.",
+      "h3": "Så rankar vi butikerna",
+      "p3": "Vår ranking bygger på tre saker: pris (vi jämför listpriser för identiska produkter hos olika butiker), tillgänglighet (sortiment, storlekar och färger i lager samt leveranstid till svenska adresser) och kundupplevelse (returer, frakt och service). Priser och lager ändras – kontrollera alltid det aktuella priset hos butiken innan du köper."
+    },
+    "privacy": {
+      "label": "Juridiskt",
+      "h2": "Integritetspolicy",
+      "p1": "fruitotl.com är en oberoende informationssajt. Vi samlar inte in personuppgifter om våra besökare och använder inga cookies för spårning eller marknadsföring.",
+      "p2": "Sajten innehåller länkar till externa butiker. Vissa av länkarna har affiliatekoder som kan ge oss en liten provision om du handlar – utan extra kostnad för dig. Vi har inga redaktionella avtal med butikerna på listan, och våra rekommendationer bygger på pris, tillgänglighet och kundupplevelse.",
+      "p3": "Sajten är inte knuten till Fruit of the Loom, Fruit of the Loom International eller Berkshire Hathaway. Fruit of the Loom® är ett registrerat varumärke som tillhör Fruit of the Loom, Inc.",
+      "p4": "Frågor? E-post:"
+    },
+    "teaser_keys": [
+      "size-guide",
+      "t-shirts",
+      "hoodies",
+      "sweatshirts",
+      "cheapest",
+      "printing",
+      "workwear",
+      "team-hoodies",
+      "sweatpants",
+      "where-to-buy"
+    ],
+    "brand_desc": "Amerikanskt märke för basplagg, grundat 1851 och ägt av Berkshire Hathaway, känt för prisvärda t-shirts, huvtröjor, sweatshirts och mjukisbyxor i bomull som säljs i över 100 länder.",
+    "website_desc": "Oberoende guide till Fruit of the Loom i Sverige: kontrollerade butiker, aktuella priser i kronor, storlekstabeller, kvalitetstester och köpguider.",
+    "org_desc": "Oberoende redaktion som publicerar butiksjämförelser, prisguider och produktguider om Fruit of the Loom-kläder.",
+    "knows_about": [
+      "Fruit of the Loom",
+      "Fruit of the Loom-butiker i Sverige",
+      "Fruit of the Loom-priser",
+      "Fruit of the Loom storleksguide",
+      "Blanka kläder för tryck",
+      "T-shirts, huvtröjor och sweatshirts i bomull"
+    ],
+    "date_modified": "2026-09-14"
+  }
+}
