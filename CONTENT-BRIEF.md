@@ -83,6 +83,10 @@ Kids by height: 104 (3–4 y), 116 (5–6), 128 (7–8), 140 (9–11), 152 (12�
 - `{{SHOP|Marmalade Co.}}` / `{{SHOP:/collections/born|kids collection}}` → complete link tag with that anchor text (preferred in running text)
 - `{{CTA|Lead sentence|Button label}}` → highlighted CTA box · `{{CTA:/collections/born|Lead|Button}}` → deep-link CTA
 - `{{LINK:size-guide|anchor text}}` → internal link to the localized article with that key
+- `{{PRICES}}` → live bulk price table (all products × 1/10/50/100/250 pcs incl. quantity discount and shipping) from `content/prices.json`, auto-localized
+- `{{PRICES:t-shirt,hoodie}}` → same table, only these product ids (t-shirt, v-neck, long-sleeve, tank-top, polo, shorts, sweatshirt, sweatpants, hoodie, zip-hoodie)
+- `{{CALCULATOR}}` → interactive bulk price calculator (product + quantity → total and price per piece) linking to the product on marmaladeco.com
+  Use PRICES + CALCULATOR in every article with buying / bulk / print intent. Prices in these blocks update automatically every week — prefer them over hard-coded prices in text.
 
 ## Article set (keys are fixed; `order` = number). Mirror the depth of the Danish originals in
 `~/Documents/pepas-website/fruitoftheloom-dk/fruitoftheloom-upload/` (file named in brackets) but write for Europe.

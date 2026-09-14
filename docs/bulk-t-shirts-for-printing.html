@@ -195,6 +195,16 @@ table.size th { background:var(--off-white); font-weight:800; text-transform:upp
 table.size td:first-child, table.size th:first-child { text-align:left; }
 table.size tr:nth-child(even) td { background:#fbfbfa; }
 .faq-q { font-weight:700; margin:22px 0 6px; font-size:1rem; }
+.price-table td small { color:var(--mid-gray); font-size:0.74rem; }
+.calc { background:#fffbea; border:2px solid var(--fruit-yellow); border-radius:6px; padding:24px 28px; margin:32px 0; }
+.calc h3 { margin:0 0 6px; font-size:1.05rem; font-weight:800; text-transform:uppercase; letter-spacing:0.04em; }
+.calc p { margin-bottom:14px; }
+.calc-row { display:flex; gap:14px; flex-wrap:wrap; margin-bottom:16px; }
+.calc-row label { display:flex; flex-direction:column; gap:4px; font-size:0.72rem; font-weight:800; letter-spacing:0.12em; text-transform:uppercase; flex:1; min-width:160px; }
+.calc-row select, .calc-row input { font-family:'Jost',sans-serif; font-size:0.95rem; padding:9px 10px; border:1.5px solid var(--border); border-radius:3px; background:#fff; text-transform:none; letter-spacing:0; font-weight:500; }
+.calc-out { display:flex; gap:28px; margin-bottom:18px; flex-wrap:wrap; }
+.calc-out span { display:block; font-size:0.68rem; font-weight:800; letter-spacing:0.14em; text-transform:uppercase; color:var(--mid-gray); }
+.calc-out strong { font-size:1.6rem; font-weight:800; }
 .related { border-top:1px solid var(--border); margin-top:48px; padding-top:24px; }
 .related h3 { margin-top:0; }
 .article-meta { font-size:0.74rem; color:var(--mid-gray); letter-spacing:0.04em; margin-bottom:28px; }
@@ -363,7 +373,12 @@ table.size tr:nth-child(even) td { background:#fbfbfa; }
 <p>Blanks are the fast part: 2–3 business days from Marmalade Co. Printing is the slow part — expect one to two weeks for a standard screen-printing job and longer in September–November when schools, clubs and companies all order at once. Work backwards from your event date, add a week of buffer, and order blanks as soon as the size list is final.</p>
 <p>Fruitotl.com is an independent guide and is not affiliated with Fruit of the Loom, Fruit of the Loom International or Berkshire Hathaway.</p>
 
-<div class="article-cta"><p>Blank Fruit of the Loom tees from €6.26 each at 5+ pieces, hoodies from €18.86, one flat €7 DHL fee and a price guarantee — Marmalade Co. is our top pick for bulk orders shipped anywhere in the EU.</p><a href="https://marmaladeco.com/?utm_source=fruitotl.com&utm_medium=referral&utm_campaign=organic-en&utm_content=article-cta" rel="nofollow sponsored" target="_blank" class="btn-red">Start your bulk order at Marmalade Co. →</a></div>
+<div class="article-cta"><p>Blank Fruit of the Loom tees from €6.26 each at 5+ pieces, hoodies from €18.86, one flat €7 DHL fee and a price guarantee — Marmalade Co. is our top pick for bulk orders shipped anywhere in the EU.</p><a href="https://marmaladeco.com/?utm_source=fruitotl.com&utm_medium=referral&utm_campaign=organic-en&utm_content=article-cta" rel="nofollow sponsored" target="_blank" class="btn-red">Start your bulk order at Marmalade Co. →</a></div><table class="size price-table"><caption>What Fruit of the Loom costs in bulk at Marmalade Co. (EUR incl. VAT, incl. €7 shipping, prices checked 2026-09-14)</caption><thead><tr><th>Product</th><th>1 pcs</th><th>10 pcs</th><th>50 pcs</th><th>100 pcs</th><th>250 pcs</th></tr></thead><tbody><tr><td>T-shirt</td><td><strong>€13.95</strong><br><small>€13.95 each</small></td><td><strong>€69.55</strong><br><small>€6.96 each</small></td><td><strong>€319.75</strong><br><small>€6.39 each</small></td><td><strong>€632.50</strong><br><small>€6.33 each</small></td><td><strong>€1,570.75</strong><br><small>€6.28 each</small></td></tr><tr><td>V-neck t-shirt</td><td><strong>€13.95</strong><br><small>€13.95 each</small></td><td><strong>€69.55</strong><br><small>€6.96 each</small></td><td><strong>€319.75</strong><br><small>€6.39 each</small></td><td><strong>€632.50</strong><br><small>€6.33 each</small></td><td><strong>€1,570.75</strong><br><small>€6.28 each</small></td></tr><tr><td>Long-sleeve t-shirt</td><td><strong>€15.95</strong><br><small>€15.95 each</small></td><td><strong>€87.55</strong><br><small>€8.75 each</small></td><td><strong>€409.75</strong><br><small>€8.20 each</small></td><td><strong>€812.50</strong><br><small>€8.12 each</small></td><td><strong>€2,020.75</strong><br><small>€8.08 each</small></td></tr><tr><td>Tank top</td><td><strong>€12.95</strong><br><small>€12.95 each</small></td><td><strong>€60.55</strong><br><small>€6.06 each</small></td><td><strong>€274.75</strong><br><small>€5.50 each</small></td><td><strong>€542.50</strong><br><small>€5.42 each</small></td><td><strong>€1,345.75</strong><br><small>€5.38 each</small></td></tr></tbody></table><div class="calc" data-ship="7.0" data-disc='[{"min_qty": 3, "pct": 5}, {"min_qty": 5, "pct": 10}]' data-base="https://marmaladeco.com/__PATH__?utm_source=fruitotl.com&amp;utm_medium=referral&amp;utm_campaign=organic-en&amp;utm_content=calculator" data-lang="en">
+<h3>Bulk price calculator</h3><p>Choose a product and quantity — the total includes the quantity discount (5 % from 3 pcs, 10 % from 5 pcs) and €7 shipping.</p>
+<div class="calc-row"><label>Product<select class="calc-p"><option value="6.95" data-path="/products/fruit-of-the-loom-t-shirt">T-shirt — €6.95</option><option value="6.95" data-path="/products/fruit-of-the-loom-v-neck-t-shirt">V-neck t-shirt — €6.95</option><option value="8.95" data-path="/products/fruit-of-the-loom-langaermet-t-shirt">Long-sleeve t-shirt — €8.95</option><option value="5.95" data-path="/products/fruit-of-the-loom-tank-top-herre">Tank top — €5.95</option><option value="10.95" data-path="/products/fruit-of-the-loom-original-poloshirt">Polo shirt — €10.95</option><option value="9.95" data-path="/products/fruit-of-the-loom-shorts">Shorts — €9.95</option><option value="16.95" data-path="/products/fruit-of-the-loom-crewneck-sweatshirt">Crewneck sweatshirt — €16.95</option><option value="11.95" data-path="/products/fruit-of-the-loom-sweatpants-med-elastik">Sweatpants — €11.95</option><option value="20.95" data-path="/products/fruit-of-the-loom-hoodie">Hoodie — €20.95</option><option value="27.95" data-path="/products/fruit-of-the-loom-zip-hoodie">Zip hoodie — €27.95</option></select></label><label>Quantity<input class="calc-q" type="number" min="1" max="10000" value="50"></label></div>
+<div class="calc-out"><div><span>Total</span><strong class="calc-t">–</strong></div><div><span>Per piece</span><strong class="calc-u">–</strong></div></div>
+<a class="btn-red calc-go" href="https://marmaladeco.com/collections/all?utm_source=fruitotl.com&amp;utm_medium=referral&amp;utm_campaign=organic-en&amp;utm_content=calculator" rel="nofollow sponsored" target="_blank">See this product at Marmalade Co. →</a>
+</div>
   <h2>Frequently asked questions</h2>
   <div class="faq-q">What is the cheapest blank t-shirt for bulk printing?</div>
   <p>Among branded blanks, the Fruit of the Loom Valueweight T (approx. 165 g/m²) and the lighter Original T (approx. 145 g/m²) are the cheapest widely available options. At Marmalade Co. they cost €6.26 each from 5 pieces incl. VAT with a €7 flat DHL fee; German wholesalers list from-prices around €2.24–2.61 but excluding VAT, for business customers or with delivery limited to Germany and Austria.</p>
@@ -391,5 +406,13 @@ table.size tr:nth-child(even) td { background:#fbfbfa; }
   </div>
 </footer>
 <div class="mobile-cta"><a href="https://marmaladeco.com/?utm_source=fruitotl.com&utm_medium=referral&utm_campaign=organic-en&utm_content=mobile-sticky-cta" rel="nofollow sponsored" target="_blank">See the lowest prices in Europe →</a></div>
-</body>
+<script>
+document.querySelectorAll('.calc').forEach(function(c){
+ var ship=parseFloat(c.dataset.ship),disc=JSON.parse(c.dataset.disc),lang=c.dataset.lang,base=c.dataset.base;
+ var sel=c.querySelector('.calc-p'),q=c.querySelector('.calc-q'),t=c.querySelector('.calc-t'),u=c.querySelector('.calc-u'),go=c.querySelector('.calc-go');
+ function f(v){return new Intl.NumberFormat(lang==='en'?'en-IE':lang,{style:'currency',currency:'EUR'}).format(v);}
+ function run(){var n=Math.max(1,parseInt(q.value||'1',10)),p=parseFloat(sel.value),pct=0;disc.forEach(function(d){if(n>=d.min_qty)pct=d.pct;});
+  var tot=p*(1-pct/100)*n+ship;t.textContent=f(tot);u.textContent=f(tot/n);go.href=base.replace('/__PATH__',sel.options[sel.selectedIndex].dataset.path);}
+ sel.addEventListener('change',run);q.addEventListener('input',run);run();});
+</script></body>
 </html>

@@ -60,10 +60,95 @@ def rel_prefix(site):
     """path prefix from a page in this language dir back to site root"""
     return "../" if site["dir"] else ""
 
+# ---------------------------------------------------------------- prices (content/prices.json)
+PRICE_L10N = {
+ "en": {"caption":"What Fruit of the Loom costs in bulk at Marmalade Co. (EUR incl. VAT, incl. €{ship} shipping, prices checked {date})","product":"Product","pcs":"pcs","each":"each","calc_h":"Bulk price calculator","calc_p":"Choose a product and quantity — the total includes the quantity discount (5 % from 3 pcs, 10 % from 5 pcs) and €{ship} shipping.","qty":"Quantity","total":"Total","per_piece":"Per piece","go":"See this product at Marmalade Co.",
+  "names":{"t-shirt":"T-shirt","v-neck":"V-neck t-shirt","long-sleeve":"Long-sleeve t-shirt","tank-top":"Tank top","polo":"Polo shirt","shorts":"Shorts","sweatshirt":"Crewneck sweatshirt","sweatpants":"Sweatpants","hoodie":"Hoodie","zip-hoodie":"Zip hoodie"}},
+ "de": {"caption":"Was Fruit of the Loom in größeren Mengen bei Marmalade Co. kostet (EUR inkl. MwSt. und {ship} € Versand, Preise geprüft am {date})","product":"Produkt","pcs":"Stk.","each":"pro Stück","calc_h":"Mengenpreis-Rechner","calc_p":"Produkt und Menge wählen — der Gesamtpreis enthält den Mengenrabatt (5 % ab 3 Stück, 10 % ab 5 Stück) und {ship} € Versand.","qty":"Menge","total":"Gesamt","per_piece":"Pro Stück","go":"Dieses Produkt bei Marmalade Co. ansehen",
+  "names":{"t-shirt":"T-Shirt","v-neck":"T-Shirt mit V-Ausschnitt","long-sleeve":"Langarmshirt","tank-top":"Tanktop","polo":"Poloshirt","shorts":"Shorts","sweatshirt":"Sweatshirt (Rundhals)","sweatpants":"Jogginghose","hoodie":"Hoodie","zip-hoodie":"Zip-Hoodie"}},
+ "nl": {"caption":"Wat Fruit of the Loom in grotere aantallen kost bij Marmalade Co. (EUR incl. btw en €{ship} verzending, prijzen gecontroleerd op {date})","product":"Product","pcs":"st.","each":"per stuk","calc_h":"Staffelprijs-calculator","calc_p":"Kies een product en aantal — het totaal is inclusief staffelkorting (5 % vanaf 3 stuks, 10 % vanaf 5 stuks) en €{ship} verzending.","qty":"Aantal","total":"Totaal","per_piece":"Per stuk","go":"Bekijk dit product bij Marmalade Co.",
+  "names":{"t-shirt":"T-shirt","v-neck":"T-shirt met V-hals","long-sleeve":"Longsleeve","tank-top":"Tanktop","polo":"Poloshirt","shorts":"Korte broek","sweatshirt":"Sweater (ronde hals)","sweatpants":"Joggingbroek","hoodie":"Hoodie","zip-hoodie":"Hoodie met rits"}},
+ "fr": {"caption":"Prix de Fruit of the Loom en quantité chez Marmalade Co. (EUR TTC, livraison {ship} € incluse, prix vérifiés le {date})","product":"Produit","pcs":"pcs","each":"l'unité","calc_h":"Calculateur de prix en gros","calc_p":"Choisissez un produit et une quantité — le total inclut la remise quantité (5 % dès 3 pièces, 10 % dès 5 pièces) et {ship} € de livraison.","qty":"Quantité","total":"Total","per_piece":"Prix unitaire","go":"Voir ce produit chez Marmalade Co.",
+  "names":{"t-shirt":"T-shirt","v-neck":"T-shirt col V","long-sleeve":"T-shirt manches longues","tank-top":"Débardeur","polo":"Polo","shorts":"Short","sweatshirt":"Sweat col rond","sweatpants":"Pantalon de jogging","hoodie":"Sweat à capuche","zip-hoodie":"Sweat zippé à capuche"}},
+ "es": {"caption":"Cuánto cuesta Fruit of the Loom por cantidad en Marmalade Co. (EUR con IVA y {ship} € de envío incluidos, precios revisados el {date})","product":"Producto","pcs":"uds.","each":"por unidad","calc_h":"Calculadora de precio por cantidad","calc_p":"Elige producto y cantidad: el total incluye el descuento por volumen (5 % desde 3 uds., 10 % desde 5 uds.) y {ship} € de envío.","qty":"Cantidad","total":"Total","per_piece":"Por unidad","go":"Ver este producto en Marmalade Co.",
+  "names":{"t-shirt":"Camiseta","v-neck":"Camiseta cuello de pico","long-sleeve":"Camiseta manga larga","tank-top":"Camiseta de tirantes","polo":"Polo","shorts":"Pantalón corto","sweatshirt":"Sudadera cuello redondo","sweatpants":"Pantalón de chándal","hoodie":"Sudadera con capucha","zip-hoodie":"Sudadera con cremallera"}},
+ "it": {"caption":"Quanto costa Fruit of the Loom in quantità da Marmalade Co. (EUR IVA inclusa, spedizione {ship} € inclusa, prezzi verificati il {date})","product":"Prodotto","pcs":"pz","each":"cad.","calc_h":"Calcolatore prezzi per quantità","calc_p":"Scegli prodotto e quantità: il totale include lo sconto quantità (5 % da 3 pezzi, 10 % da 5 pezzi) e {ship} € di spedizione.","qty":"Quantità","total":"Totale","per_piece":"Al pezzo","go":"Vedi questo prodotto su Marmalade Co.",
+  "names":{"t-shirt":"T-shirt","v-neck":"T-shirt scollo a V","long-sleeve":"T-shirt manica lunga","tank-top":"Canotta","polo":"Polo","shorts":"Pantaloncini","sweatshirt":"Felpa girocollo","sweatpants":"Pantaloni tuta","hoodie":"Felpa con cappuccio","zip-hoodie":"Felpa con zip"}},
+ "pl": {"caption":"Ile kosztuje Fruit of the Loom w większych ilościach w Marmalade Co. (EUR z VAT i wysyłką {ship} €, ceny sprawdzone {date})","product":"Produkt","pcs":"szt.","each":"za sztukę","calc_h":"Kalkulator cen hurtowych","calc_p":"Wybierz produkt i ilość — suma zawiera rabat ilościowy (5 % od 3 szt., 10 % od 5 szt.) i {ship} € wysyłki.","qty":"Ilość","total":"Razem","per_piece":"Za sztukę","go":"Zobacz ten produkt w Marmalade Co.",
+  "names":{"t-shirt":"T-shirt","v-neck":"T-shirt w serek","long-sleeve":"Koszulka z długim rękawem","tank-top":"Tank top","polo":"Koszulka polo","shorts":"Szorty","sweatshirt":"Bluza bez kaptura","sweatpants":"Spodnie dresowe","hoodie":"Bluza z kapturem","zip-hoodie":"Bluza rozpinana z kapturem"}},
+ "pt": {"caption":"Quanto custa a Fruit of the Loom em quantidade na Marmalade Co. (EUR com IVA e {ship} € de envio incluídos, preços verificados a {date})","product":"Produto","pcs":"un.","each":"por unidade","calc_h":"Calculadora de preço por quantidade","calc_p":"Escolha o produto e a quantidade — o total inclui o desconto de quantidade (5 % a partir de 3 un., 10 % a partir de 5 un.) e {ship} € de envio.","qty":"Quantidade","total":"Total","per_piece":"Por unidade","go":"Ver este produto na Marmalade Co.",
+  "names":{"t-shirt":"T-shirt","v-neck":"T-shirt decote em V","long-sleeve":"T-shirt de manga comprida","tank-top":"Top de alças","polo":"Polo","shorts":"Calções","sweatshirt":"Sweatshirt gola redonda","sweatpants":"Calças de fato de treino","hoodie":"Sweatshirt com capuz","zip-hoodie":"Casaco com capuz e fecho"}},
+ "fi": {"caption":"Paljonko Fruit of the Loom maksaa isommissa määrissä Marmalade Co:lla (EUR sis. ALV ja {ship} € toimitus, hinnat tarkistettu {date})","product":"Tuote","pcs":"kpl","each":"/ kpl","calc_h":"Määräalennuslaskuri","calc_p":"Valitse tuote ja määrä — kokonaishinta sisältää määräalennuksen (5 % alkaen 3 kpl, 10 % alkaen 5 kpl) ja {ship} € toimituksen.","qty":"Määrä","total":"Yhteensä","per_piece":"Kappalehinta","go":"Katso tuote Marmalade Co:lla",
+  "names":{"t-shirt":"T-paita","v-neck":"V-aukkoinen t-paita","long-sleeve":"Pitkähihainen paita","tank-top":"Toppi","polo":"Pikeepaita","shorts":"Shortsit","sweatshirt":"Collegepaita","sweatpants":"Collegehousut","hoodie":"Huppari","zip-hoodie":"Vetoketjuhuppari"}},
+}
+_PRICES = None
+def load_prices():
+    global _PRICES
+    if _PRICES is None:
+        pp = os.path.join(CONTENT, "prices.json")
+        _PRICES = read_json(pp) if os.path.exists(pp) else {}
+    return _PRICES
+
+def unit_after_discount(P, qty, price):
+    pct = 0
+    for d in P["discounts"]:
+        if qty >= d["min_qty"]: pct = d["pct"]
+    return price * (1 - pct / 100)
+
+def fmt_eur(lang, v):
+    s = f"{v:,.2f}"
+    if lang == "en": return "€" + s
+    s = s.replace(",", "X").replace(".", ",").replace("X", ".")
+    if lang in ("pl", "fi", "fr"): s = s.replace(".", " ")
+    return s + " €"
+
+def price_table_html(lang, ids=None):
+    P = load_prices()
+    if not P: return ""
+    L = PRICE_L10N.get(lang, PRICE_L10N["en"]); ship = P["shipping_eur"]
+    prods = [p for p in P["products"] if not ids or p["id"] in ids]
+    head = "".join(f"<th>{q} {L['pcs']}</th>" for q in P["quantities"])
+    rows = []
+    for p in prods:
+        cells = []
+        for q in P["quantities"]:
+            unit = unit_after_discount(P, q, p["price"]); total = unit * q + ship
+            cells.append(f"<td><strong>{fmt_eur(lang, total)}</strong><br><small>{fmt_eur(lang, total / q)} {L['each']}</small></td>")
+        rows.append(f"<tr><td>{esc(L['names'].get(p['id'], p['id']))}</td>{''.join(cells)}</tr>")
+    cap = L["caption"].replace("{ship}", f"{ship:g}").replace("{date}", P.get("checked", ""))
+    return f'<table class="size price-table"><caption>{esc(cap)}</caption><thead><tr><th>{esc(L["product"])}</th>{head}</tr></thead><tbody>{"".join(rows)}</tbody></table>'
+
+def calculator_html(lang, site):
+    P = load_prices()
+    if not P: return ""
+    L = PRICE_L10N.get(lang, PRICE_L10N["en"]); ship = P["shipping_eur"]
+    opts = "".join(f'<option value="{p["price"]}" data-path="{esc(p["path"])}">{esc(L["names"].get(p["id"], p["id"]))} — {fmt_eur(lang, p["price"])}</option>' for p in P["products"])
+    disc = json.dumps(P["discounts"]); base = shop_url(lang, "/__PATH__", "calculator")
+    return f"""<div class="calc" data-ship="{ship}" data-disc='{disc}' data-base="{esc(base)}" data-lang="{lang}">
+<h3>{esc(L['calc_h'])}</h3><p>{esc(L['calc_p'].replace('{ship}', f'{ship:g}'))}</p>
+<div class="calc-row"><label>{esc(L['product'])}<select class="calc-p">{opts}</select></label><label>{esc(L['qty'])}<input class="calc-q" type="number" min="1" max="10000" value="50"></label></div>
+<div class="calc-out"><div><span>{esc(L['total'])}</span><strong class="calc-t">–</strong></div><div><span>{esc(L['per_piece'])}</span><strong class="calc-u">–</strong></div></div>
+<a class="btn-red calc-go" href="{esc(shop_url(lang, '/collections/all', 'calculator'))}" rel="nofollow sponsored" target="_blank">{esc(L['go'])} →</a>
+</div>"""
+
+CALC_JS = """<script>
+document.querySelectorAll('.calc').forEach(function(c){
+ var ship=parseFloat(c.dataset.ship),disc=JSON.parse(c.dataset.disc),lang=c.dataset.lang,base=c.dataset.base;
+ var sel=c.querySelector('.calc-p'),q=c.querySelector('.calc-q'),t=c.querySelector('.calc-t'),u=c.querySelector('.calc-u'),go=c.querySelector('.calc-go');
+ function f(v){return new Intl.NumberFormat(lang==='en'?'en-IE':lang,{style:'currency',currency:'EUR'}).format(v);}
+ function run(){var n=Math.max(1,parseInt(q.value||'1',10)),p=parseFloat(sel.value),pct=0;disc.forEach(function(d){if(n>=d.min_qty)pct=d.pct;});
+  var tot=p*(1-pct/100)*n+ship;t.textContent=f(tot);u.textContent=f(tot/n);go.href=base.replace('/__PATH__',sel.options[sel.selectedIndex].dataset.path);}
+ sel.addEventListener('change',run);q.addEventListener('input',run);run();});
+</script>"""
+
 # ---------------------------------------------------------------- placeholders
 def expand(text, lang, site, articles_by_key, ctx):
     if not isinstance(text, str):
         return text
+
+    text = re.sub(r"\{\{PRICES(?::([a-z0-9,-]+))?\}\}", lambda m: price_table_html(lang, m.group(1).split(",") if m.group(1) else None), text)
+    if "{{CALCULATOR}}" in text:
+        text = text.replace("{{CALCULATOR}}", calculator_html(lang, site)); ctx["needs_calc"] = True
 
     def cta(m):
         path = m.group(1) or "/"
@@ -245,6 +330,16 @@ table.size th { background:var(--off-white); font-weight:800; text-transform:upp
 table.size td:first-child, table.size th:first-child { text-align:left; }
 table.size tr:nth-child(even) td { background:#fbfbfa; }
 .faq-q { font-weight:700; margin:22px 0 6px; font-size:1rem; }
+.price-table td small { color:var(--mid-gray); font-size:0.74rem; }
+.calc { background:#fffbea; border:2px solid var(--fruit-yellow); border-radius:6px; padding:24px 28px; margin:32px 0; }
+.calc h3 { margin:0 0 6px; font-size:1.05rem; font-weight:800; text-transform:uppercase; letter-spacing:0.04em; }
+.calc p { margin-bottom:14px; }
+.calc-row { display:flex; gap:14px; flex-wrap:wrap; margin-bottom:16px; }
+.calc-row label { display:flex; flex-direction:column; gap:4px; font-size:0.72rem; font-weight:800; letter-spacing:0.12em; text-transform:uppercase; flex:1; min-width:160px; }
+.calc-row select, .calc-row input { font-family:'Jost',sans-serif; font-size:0.95rem; padding:9px 10px; border:1.5px solid var(--border); border-radius:3px; background:#fff; text-transform:none; letter-spacing:0; font-weight:500; }
+.calc-out { display:flex; gap:28px; margin-bottom:18px; flex-wrap:wrap; }
+.calc-out span { display:block; font-size:0.68rem; font-weight:800; letter-spacing:0.14em; text-transform:uppercase; color:var(--mid-gray); }
+.calc-out strong { font-size:1.6rem; font-weight:800; }
 .related { border-top:1px solid var(--border); margin-top:48px; padding-top:24px; }
 .related h3 { margin-top:0; }
 .article-meta { font-size:0.74rem; color:var(--mid-gray); letter-spacing:0.04em; margin-bottom:28px; }
@@ -655,7 +750,7 @@ def build_article(site, languages, a, articles_by_key, all_sites, ctx):
   <p class="article-intro">{X(a['intro'])}</p>
 {quick_answer(site, X(a['quick_answer']))}{X(a['body_html'])}
 {faq_html}{related}</div>
-{footer_html(site, languages, target, lang)}</body>
+{footer_html(site, languages, target, lang)}{CALC_JS if 'class="calc"' in a['body_html'] or '{{CALCULATOR}}' in a['body_html'] else ''}</body>
 </html>
 """
     return h + body

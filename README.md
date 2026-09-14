@@ -13,6 +13,10 @@ assets/                         logo, favicon, og-billeder (kopieres til docs/)
 build.py                        genererer hele sitet til docs/ (GitHub Pages)
 scripts/bump_dates.py           freshness: sæt date_modified = i dag på udvalgte artikler
 scripts/make_og.py              genererer og-image-<lang>.png
+scripts/update_prices.py        henter aktuelle priser fra marmaladeco.com til content/prices.json
+scripts/indexnow.py             giver Bing/ChatGPT-søgning besked om ændrede sider
+scripts/gsc_report.py           Search Console-data → data/gsc-opportunities.md
+TOPIC-BACKLOG.md                emneliste til nye artikler (bulk/tryk/billigt først)
 CONTENT-BRIEF.md                fakta, regler og JSON-skema for alt indhold (læs den før du skriver)
 docs/                           FÆRDIGT SITE — genereres, ret aldrig i hånden
 ```
