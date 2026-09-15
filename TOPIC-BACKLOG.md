@@ -10,7 +10,7 @@ using Marmalade Co. prices incl. the 5 % (3+) and 10 % (5+) quantity discounts a
 When Search Console data exists (see scripts/gsc_report.py), topics with real impressions go to the TOP of this list.
 
 ## Bulk & wholesale (highest priority)
-- [ ] `wholesale` — Fruit of the Loom wholesale in Europe: who can buy wholesale, minimums, VAT, cheapest route for small businesses
+- [x] (2026-09-15) `wholesale` — Fruit of the Loom wholesale in Europe: who can buy wholesale, minimums, VAT, cheapest route for small businesses
 - [ ] `bulk-hoodies` — Buying hoodies in bulk (10–500 pcs): price per piece, colours, sizes mix, delivery time
 - [ ] `price-per-100` — What do 100 Fruit of the Loom t-shirts cost? Full price breakdown blank vs printed
 - [ ] `blank-t-shirts` — Blank t-shirts for printing: best Fruit of the Loom blanks and where to buy them cheap
