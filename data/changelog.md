@@ -13,3 +13,10 @@
 - Oversættelser: alle 10 sprog komplette (25 artikler + forside).
 - Ny artikel: `bulk-hoodies` (hoodies i store mængder, 10–500 stk.) på alle 10 sprog; sv med SEK/PostNord.
 - Friskhed: date_modified bumpet på cheap-hoodies, quality, polo-shirts, history.
+
+## 2026-09-29
+- Search Console: stadig ikke adgang (service-kontoen mangler adgang til fruitotl.com-ejendommen) — ingen klik/visninger at sammenligne.
+- Priser: EUR langærmet 8,95 → 9,95 €, shorts 9,95 → 10,95 €; SEK shorts 109 → 119 kr, mjukisbyxor 125 → 115 kr. Faste prisangivelser (inkl. rabat-, sæt- og festival-summer samt zł-omregninger) rettet på alle sprog; CONTENT-BRIEF/TRANSLATION-GUIDE opdateret.
+- Oversættelser: alle 10 sprog komplette (26 artikler + forside) før ny artikel.
+- Ny artikel: `price-per-100` (hvad koster 100 T-shirts, blanke vs. trykte) på alle 10 sprog; trykpriser fra offentlige prislister (DE: siluri.de/ansari-siebdruck.de, SE: mera.se), sv med SEK/PostNord.
+- Friskhed: date_modified bumpet på sweatshirts, workwear, sweatpants, printing.

@@ -25,9 +25,9 @@ Other retailers are described fairly and neutrally.
 - Current prices (Sept 2026, VAT incl., may change — write "from €X" / "around €X"):
   - T-shirt (unisex, 16 colours, XS–XXXL): **€6.95** (5 pcs: €6.26 each)
   - V-neck T-shirt: ~€6.95 · Tank top (men/women): ~€6.95
-  - Long-sleeve T-shirt: **€8.95**
+  - Long-sleeve T-shirt: **€9.95**
   - Polo shirt (Original): **€10.95**
-  - Shorts: **€9.95**
+  - Shorts: **€10.95**
   - Crewneck sweatshirt (10 colours, XS–XXXL): **€16.95**
   - Hoodie (9 colours, XS–XXXL): **€20.95** (5 pcs: €18.86 each)
   - Zip hoodie: **€27.95**

@@ -32,7 +32,7 @@
     {
       "id": "long-sleeve",
       "path": "/products/fruit-of-the-loom-langaermet-t-shirt",
-      "price": 8.95
+      "price": 9.95
     },
     {
       "id": "tank-top",
@@ -47,7 +47,7 @@
     {
       "id": "shorts",
       "path": "/products/fruit-of-the-loom-shorts",
-      "price": 9.95
+      "price": 10.95
     },
     {
       "id": "sweatshirt",
@@ -70,5 +70,5 @@
       "price": 27.95
     }
   ],
-  "checked": "2026-09-22"
+  "checked": "2026-09-29"
 }

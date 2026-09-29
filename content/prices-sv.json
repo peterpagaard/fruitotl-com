@@ -53,7 +53,7 @@
     {
       "id": "shorts",
       "path": "/products/fruit-of-the-loom-shorts",
-      "price": 109.0
+      "price": 119.0
     },
     {
       "id": "sweatshirt",
@@ -63,7 +63,7 @@
     {
       "id": "sweatpants",
       "path": "/products/fruit-of-the-loom-sweatpants-med-elastik",
-      "price": 125.0
+      "price": 115.0
     },
     {
       "id": "hoodie",
@@ -76,5 +76,5 @@
       "price": 299.0
     }
   ],
-  "checked": "2026-09-22"
+  "checked": "2026-09-29"
 }
