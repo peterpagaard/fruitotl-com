@@ -13,8 +13,16 @@ import os, re, json, glob, datetime, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36"}
 
+class _Follow308(urllib.request.HTTPRedirectHandler):
+    # Python 3.9's urllib does not follow 308 (marmaladeco.com redirects
+    # Danish product handles to English ones with 308 since Oct 2026).
+    def http_error_308(self, req, fp, code, msg, headers):
+        return self.http_error_302(req, fp, 302, msg, headers)
+
+_opener = urllib.request.build_opener(_Follow308)
+
 def fetch_price(shop, path, cur):
-    html = urllib.request.urlopen(urllib.request.Request(shop + path, headers=UA), timeout=25).read().decode("utf-8", "ignore")
+    html = _opener.open(urllib.request.Request(shop + path, headers=UA), timeout=25).read().decode("utf-8", "ignore")
     prices = []
     for m in re.finditer(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', html, re.S):
         try: d = json.loads(m.group(1))

@@ -20,3 +20,10 @@
 - Oversættelser: alle 10 sprog komplette (26 artikler + forside) før ny artikel.
 - Ny artikel: `price-per-100` (hvad koster 100 T-shirts, blanke vs. trykte) på alle 10 sprog; trykpriser fra offentlige prislister (DE: siluri.de/ansari-siebdruck.de, SE: mera.se), sv med SEK/PostNord.
 - Friskhed: date_modified bumpet på sweatshirts, workwear, sweatpants, printing.
+
+## 2026-10-06
+- Search Console: stadig ikke adgang (service-kontoen mangler adgang til fruitotl.com-ejendommen) — ingen klik/visninger at sammenligne.
+- Priser: prisscriptet kunne ikke følge marmaladeco.com's nye 308-omdirigeringer (danske → engelske produktadresser); rettet i scripts/update_prices.py. EUR: sweatshirt 16,95 → 11,95 €, hoodie 20,95 → 13,95 €, zip-hoodie 27,95 → 21,95 € (midlertidige tilbud, normalpris står stadig på siden — kun de automatiske pristabeller følger med), tank top 5,95 €. SEK: mjukisbyxor 115 → 179 kr (tilbud slut; faste omtaler og sætpriser rettet i sv), sweatshirt 179 → 129, hoodie 219 → 149, zip-hoodie 299 → 239 kr (tilbud).
+- Oversættelser: alle 10 sprog komplette (27 artikler + forside) før ny artikel.
+- Ny artikel: `blank-t-shirts` (blanke T-shirts til tryk: bedste model og hvor de købes billigt) på alle 10 sprog; sv med SEK/PostNord.
+- Friskhed: date_modified bumpet på long-sleeve, underwear, t-shirts, team-hoodies + forsider og cheapest (første kørsel i oktober).

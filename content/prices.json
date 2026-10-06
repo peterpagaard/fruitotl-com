@@ -52,23 +52,23 @@
     {
       "id": "sweatshirt",
       "path": "/products/fruit-of-the-loom-crewneck-sweatshirt",
-      "price": 16.95
+      "price": 11.95
     },
     {
       "id": "sweatpants",
       "path": "/products/fruit-of-the-loom-sweatpants-med-elastik",
-      "price": 11.95
+      "price": 16.95
     },
     {
       "id": "hoodie",
       "path": "/products/fruit-of-the-loom-hoodie",
-      "price": 20.95
+      "price": 13.95
     },
     {
       "id": "zip-hoodie",
       "path": "/products/fruit-of-the-loom-zip-hoodie",
-      "price": 27.95
+      "price": 21.95
     }
   ],
-  "checked": "2026-09-29"
+  "checked": "2026-10-06"
 }
