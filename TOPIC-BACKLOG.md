@@ -14,7 +14,7 @@ When Search Console data exists (see scripts/gsc_report.py), topics with real im
 - [x] (2026-09-22) `bulk-hoodies` — Buying hoodies in bulk (10–500 pcs): price per piece, colours, sizes mix, delivery time
 - [x] (2026-09-29) `price-per-100` — What do 100 Fruit of the Loom t-shirts cost? Full price breakdown blank vs printed
 - [x] (2026-10-06) `blank-t-shirts` — Blank t-shirts for printing: best Fruit of the Loom blanks and where to buy them cheap
-- [ ] `event-t-shirts` — T-shirts for events and festivals: quantities, colours, lead times, cost per guest
+- [x] (2026-10-16) `event-t-shirts` — T-shirts for events and festivals: quantities, colours, lead times, cost per guest
 
 ## Print & custom
 - [ ] `custom-hoodies-cheap` — Cheap custom printed hoodies: blank + print cost, minimum orders, DIY vs print shop

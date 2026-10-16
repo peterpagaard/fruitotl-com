@@ -27,3 +27,10 @@
 - Oversættelser: alle 10 sprog komplette (27 artikler + forside) før ny artikel.
 - Ny artikel: `blank-t-shirts` (blanke T-shirts til tryk: bedste model og hvor de købes billigt) på alle 10 sprog; sv med SEK/PostNord.
 - Friskhed: date_modified bumpet på long-sleeve, underwear, t-shirts, team-hoodies + forsider og cheapest (første kørsel i oktober).
+
+## 2026-10-16
+- Search Console: stadig ikke adgang (service-kontoen mangler adgang til fruitotl.com-ejendommen) — ingen klik/visninger at sammenligne.
+- Priser: ingen ændringer (EUR og SEK).
+- Oversættelser: alle 10 sprog komplette (28 artikler + forside) før ny artikel.
+- Ny artikel: `event-t-shirts` (T-shirts til events og festivaler: antal, farver, leveringstid, pris pr. gæst) på alle 10 sprog; trykpriser genbrugt fra price-per-100; sv med SEK/PostNord.
+- Friskhed: date_modified bumpet på kids, tracksuit, sustainability, deals.
